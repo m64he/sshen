@@ -4,7 +4,15 @@ layout: archive
 permalink: /professional-activities/
 author_profile: true
 ---
+
+<style>
+.page__title {
+  display: none;
+}
+</style>
+
 <a id="professional-activities_top"></a>
+# Professional Activities
 
 {% include toc %}
 

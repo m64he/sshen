@@ -25,9 +25,9 @@ author:
   avatar           : "sherman.jpg"
   name             : "Xuemin (Sherman) Shen"
   pronouns         : # example: "she/her"  
-  bio              : "University Professor<br>Electrical and Computer Engineering<br>University of Waterloo<br>FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
+  bio              : "University Professor<br>FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
+  employer         : "Electrical and Computer Engineering<br>University of Waterloo"
   location         : "EIT 4155"
-  employer         : # "University of Waterloo"
   uri              : # URL
   email            : "sshen@uwaterloo.ca" 
 

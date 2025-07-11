@@ -2,7 +2,7 @@
 permalink: /
 title: "Home"
 author_profile: true
-layout: home
+layout: page
 redirect_from: 
   - /about/
   - /about.html

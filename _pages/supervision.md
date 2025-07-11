@@ -35,8 +35,6 @@ table th:nth-of-type(4) {
 
 ## Current PhD Graduate Students
 
-<div class="table" style="width:80%;overflow-x:auto;">
-
 | Name            | Starting Date   | Co-supervision       | Major Research Area                                   |
 | -----           | ----            | -------              | ------------------------------                        |
 | Shisheng Hu     | Sept. 2021      | n.a.                 | Networking for AI                                     |
@@ -47,8 +45,6 @@ table th:nth-of-type(4) {
 | Zhixuan Tang    | Sept. 2023      | n.a.                 | Satellite Communications Network                      |
 | Han Yin         | Jan. 2020       | n.a.                 | Security for Future Wireless Networks                 |
 | Yixiao Zhang    | Jan. 2024       | n.a.                 | Resource Management for 6G                            |
-
-</div>
 
 
 

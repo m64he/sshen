@@ -35,7 +35,7 @@ table th:nth-of-type(4) {
 
 ## Current PhD Graduate Students
 
-<div class="table-wrapper" style="max-width:80%;margin:0 auto;overflow-x:auto;">
+<div class="table" style="width:80%;overflow-x:auto;">
 
 | Name            | Starting Date   | Co-supervision       | Major Research Area                                   |
 | -----           | ----            | -------              | ------------------------------                        |

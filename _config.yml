@@ -22,12 +22,12 @@ repository               : "m64he/m64he.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sherman.jpg"
   name             : "Xuemin (Sherman) Shen"
   pronouns         : # example: "she/her"  
-  bio              : "University Professor<br>FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
-  location         : "Electrical and Computer Engineering"
-  employer         : "University of Waterloo"
+  bio              : "University Professor<br>Electrical and Computer Engineering<br>University of Waterloo<br>FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
+  location         : "EIT 4155"
+  employer         : # "University of Waterloo"
   uri              : # URL
   email            : "sshen@uwaterloo.ca" 
 

@@ -17,9 +17,25 @@ author_profile: true
 
 {% include toc %}
 
+<style>
+table th:first-of-type {
+    width: 12%;
+}
+table th:nth-of-type(2) {
+    width: 12%;
+}
+table th:nth-of-type(3) {
+    width: 12%;
+}
+table th:nth-of-type(4) {
+    width: 48%;
+}
+</style>
+
+
 ## Current PhD Graduate Students
 
-| <div style="width:100px;">Name</div> | <div style="width:100px;">Starting Date</div> | <div style="width:100px;">Co-supervision</div> | <div style="width:100px;">Major Research Area</div> |
+| Name            | Starting Date   | Co-supervision       | Major Research Area                                   |
 | -----           | ----            | -------              | ------------------------------                        |
 | Shisheng Hu     | Sept. 2021      | n.a.                 | Networking for AI                                     |
 | Xinyu Huang     | Sept. 2021      | n.a.                 | Digital Twin and Network Intelligence                 |

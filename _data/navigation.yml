@@ -10,7 +10,10 @@
 main:
   - title: "Home"
     url: /
-    
+  
+  - title: "Professional Activities"
+    url: /activities/
+
   - title: "Publications"
     url: /publications/
 

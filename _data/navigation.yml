@@ -17,6 +17,15 @@ main:
   - title: "Research Interests"
     url: /research-interests/
 
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Supervision"
+    url: /supervision/
+
+  - title: "Recognitions and Awards"
+    url: /recognitions-and-awards/
+
   # - title: "Publications"
   #   url: /publications/
 

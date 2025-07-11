@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
-title_separator          : "-"
+title_separator          : # "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://m64he.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -25,7 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Xuemin (Shenman) Shen"
   pronouns         : # example: "she/her"  
-  bio              : "University Professor//FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
+  bio              : "University Professor"
+  bio              : "FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
   location         : "Electrical and Computer Engineering"
   employer         : "University of Waterloo"
   uri              : # URL

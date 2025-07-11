@@ -17,22 +17,6 @@ author_profile: true
 
 {% include toc %}
 
-<!-- <style>
-table th:first-of-type {
-    width: 2cm;
-}
-table th:nth-of-type(2) {
-    width: 2cm;
-}
-table th:nth-of-type(3) {
-    width: 2cm;
-}
-table th:nth-of-type(4) {
-    width: 8cm;
-}
-</style>
- -->
-
 ## Current PhD Graduate Students
 
 | Name            | Starting Date   | Co-supervision       | Major Research Area                                   |
@@ -45,8 +29,6 @@ table th:nth-of-type(4) {
 | Zhixuan Tang    | Sept. 2023      | n.a.                 | Satellite Communications Network                      |
 | Han Yin         | Jan. 2020       | n.a.                 | Security for Future Wireless Networks                 |
 | Yixiao Zhang    | Jan. 2024       | n.a.                 | Resource Management for 6G                            |
-
-
 
 [\[Back to the top\]](#supervision_top)
 

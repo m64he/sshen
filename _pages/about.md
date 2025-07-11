@@ -1,12 +1,16 @@
 ---
 permalink: /
 title: "Home"
-layout: page
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<style>
+.page__title {
+  display: none;
+}
+</style>
 
 **Xuemin (Sherman) Shen** (IEEE M’97–SM’02–F’09) received the Ph.D. degree in electrical engineering from Rutgers University, New Brunswick, NJ, USA, in 1990. He is a University Professor with the Department of Electrical and Computer Engineering, University of Waterloo, Canada. His research focuses on network resource management, wireless network security, Internet of Things, AI for networks, and vehicular networks. Dr. Shen is a registered Professional Engineer of Ontario, Canada, an Engineering Institute of Canada Fellow, a Canadian Academy of Engineering Fellow, a Royal Society of Canada Fellow, a Chinese Academy of Engineering Foreign Member, an International Fellow of the Engineering Academy of Japan, and a Distinguished Lecturer of the IEEE Vehicular Technology Society and Communications Society.
 

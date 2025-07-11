@@ -19,16 +19,16 @@ author_profile: true
 
 <style>
 table th:first-of-type {
-    width: 12%;
+    width: 2cm;
 }
 table th:nth-of-type(2) {
-    width: 12%;
+    width: 2cm;
 }
 table th:nth-of-type(3) {
-    width: 12%;
+    width: 2cm;
 }
 table th:nth-of-type(4) {
-    width: 48%;
+    width: 8cm;
 }
 </style>
 

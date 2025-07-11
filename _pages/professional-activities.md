@@ -4,6 +4,7 @@ layout: archive
 permalink: /professional-activities/
 author_profile: true
 ---
+<a id="professional-activities_top"></a>
 
 {% include toc %}
 
@@ -65,6 +66,8 @@ author_profile: true
 * Guest Editor, Dynamics of Continuous, Discrete and Impulse Systems - an International Journal, Series B: Application and Algorithm, Special Issue on Routing/Signaling Protocols in Wireless/Wired Communication Networks, 2005.
 * Guest Editor, Dynamics of Continuous, Discrete and Impulse Systems - an International Journal, Series B: Application and Algorithm, Special Issue on Stability and Decentralized Control of Complex Systems, 2004.
 * Guest Editor, Dynamics of Continuous, Discrete and Impulse Systems - an International Journal, Series B: Application and Algorithm, Special Issue on Communication Networks, 2003.
+
+[(Back to the top)](#professional-activities_top)
 
 ## Guest / Visiting Professor
 

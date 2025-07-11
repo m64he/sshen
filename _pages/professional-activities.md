@@ -75,7 +75,7 @@ author_profile: true
 * Guest Editor, Dynamics of Continuous, Discrete and Impulse Systems - an International Journal, Series B: Application and Algorithm, Special Issue on Stability and Decentralized Control of Complex Systems, 2004.
 * Guest Editor, Dynamics of Continuous, Discrete and Impulse Systems - an International Journal, Series B: Application and Algorithm, Special Issue on Communication Networks, 2003.
 
-[(Back to the top)](#professional-activities_top)
+[\[Back to the top\]](#professional-activities_top)
 
 ## Guest / Visiting Professor
 
@@ -90,6 +90,9 @@ author_profile: true
 * Guest Professor, East China University of Science and Technology, Shanghai, China.
 * Guest Professor, Dalian Maritime University, Dalian, China.
 * Guest Professor, Northeastern University, China.
+
+[\[Back to the top\]](#professional-activities_top)
+
 
 ## Conference General / Technical Program Committee Chair
 
@@ -153,6 +156,8 @@ Technical Program Chair, IEEE Globecom'24, Cape Town, South Africa, Dec. 8 - 12,
 * Technical Program Co-Chair, International Symposium on Parallel Architectures, Algorithms, and Networks, May 10 - 12, 2004, Hong Kong, China.
 * Technical Program Co-Chair, IEEE Globecom'03 Symposium on Next Generation Networks and Internet, Dec. 1 - 5, 2003, San Francisco, USA.
 
+[\[Back to the top\]](#professional-activities_top)
+
 ## Conference Technical Program Committee Member
 
 Technical program committee member, IEEE Infocom'10, March 15-19, 2010, San Diego, California, USA
@@ -208,3 +213,5 @@ Technical program committee member, IEEE Infocom'10, March 15-19, 2010, San Dieg
 * Technical program committee member, 2002 Int. Conf. Internet Computing (IC 2002), June 24 - 27, 2002, Las Vegas, USA.
 * Steering committee member, 2002 World Wireless Congress, May 28 -31, 2002, San Francisco, USA.
 * Technical program committee member, 2002 IEEE Wireless Comm. Networking Conf. (WCNC'02), March 17-21, 2002, Orlando, USA.
+
+[\[Back to the top\]](#professional-activities_top)

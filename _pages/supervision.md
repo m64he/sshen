@@ -52,6 +52,7 @@ table th:nth-of-type(4) {
 
 ## Postdoctoral Fellows
 
+<ol type="1">
 <li>Dr. Conghao Zhou is a Professor at the School of Telecommunications Engineering, Xi-Dian University, China (2022-2025)</li>
 <li>Dr. Cheng Huang is an Associate Professor at the School of Computer Science, Fudan University, China (2020-2023)</li>
 <li>Dr. Mushu Li received the prestigious NSERC PDF Award, and is an Assistant Professor at the Dept. CS, Lehigh University, USA (2021-2022)</li>
@@ -107,6 +108,7 @@ table th:nth-of-type(4) {
 <li>Dr. Sangheon Pack is a Professor at the School of Electrical Engineering, Korea University, Korea (2005-2006).</li>
 <li>Dr. Jun Cai is a Professor at the Department of Electrical and Computer Engineering, Concordia University, Canada (2004-2006).</li>
 <li>Dr. Liang Xu is with Qualcomm, San Diego, USA (2003-2004).</li>
+</ol>
 
 
 [\[Back to the top\]](#supervision_top)

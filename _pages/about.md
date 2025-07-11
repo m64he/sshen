@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuemin (Sherman) Shen"
+# title: "Xuemin (Sherman) Shen"
 author_profile: true
 redirect_from: 
   - /about/

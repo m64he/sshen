@@ -19,11 +19,16 @@ author_profile: true
 
 ## Current PhD Graduate Students
 
-| Name            | Starting Date   | Co-supervision       | Major Research Area                           |
-| --------        | ------          | ------------------   | --------------------------------------        |
-| Shisheng Hu     | Sept. 2021      | n.a.                 | Networking for AI                             |
-| Xinyu Huang     | Sept. 2021      | n.a.                 | Digital Twin and Network Intelligence         |
-| Lingshuang Liu  | Sept. 2021      | n.a.                 | Security for Future Wireless Network          |
+| Name            | Starting Date   | Co-supervision       | Major Research Area                                   |
+| -----           | ----            | -------              | ------------------------------                        |
+| Shisheng Hu     | Sept. 2021      | n.a.                 | Networking for AI                                     |
+| Xinyu Huang     | Sept. 2021      | n.a.                 | Digital Twin and Network Intelligence                 |
+| Lingshuang Liu  | Sept. 2021      | n.a.                 | Security for Future Wireless Network                  |
+| Yingying Pei    | Sept. 2020      | n.a.                 | Resource Management for 6G                            |
+| Xue Qin         | Sept. 2022      | n.a.                 | Performance Optimization for Future Wireless Networks |
+| Zhixuan Tang    | Sept. 2023      | n.a.                 | Satellite Communications Network                      |
+| Han Yin         | Jan. 2020       | n.a.                 | Security for Future Wireless Networks                 |
+| Yixiao Zhang    | Jan. 2024       | n.a.                 | Resource Management for 6G                            |
 
 
 

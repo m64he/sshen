@@ -5,6 +5,8 @@ permalink: /professional-activities/
 author_profile: true
 ---
 
+{% include toc %}
+
 ## Editorship
 
 * SpringerBriefs Series Editor on Wireless Communications, Springer - Verlag (Since 2012).

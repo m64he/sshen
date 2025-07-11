@@ -23,10 +23,9 @@ repository               : "m64he/m64he.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xuemin (Shenman) Shen"
+  name             : "Xuemin (Sherman) Shen"
   pronouns         : # example: "she/her"  
-  bio              : "University Professor"
-  bio              : "FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
+  bio              : "University Professor.<br>FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
   location         : "Electrical and Computer Engineering"
   employer         : "University of Waterloo"
   uri              : # URL

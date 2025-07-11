@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xuemin (Shenman) Shen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Xuemin (Shenman) Shen"
   pronouns         : # example: "she/her"  
-  bio              : "University Professor, FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
-  location         : "Electrical and Computer Engineering,"
+  bio              : "University Professor//FIEEE, FRSC, FCAE, FEIC, PEng, PhD"
+  location         : "Electrical and Computer Engineering"
   employer         : "University of Waterloo"
   uri              : # URL
   email            : "none@example.org" 

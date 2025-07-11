@@ -1,5 +1,6 @@
 ---
 title: "Professional Activities"
+layout: archive
 permalink: /professional-activities/
 author_profile: true
 ---

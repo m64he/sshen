@@ -30,7 +30,7 @@ author_profile: true
 | Han Yin         | Jan. 2020       | n.a.                 | Security for Future Wireless Networks                 |
 | Yixiao Zhang    | Jan. 2024       | n.a.                 | Resource Management for 6G                            |
 
-[\[Back to the top\]](#supervision_top)
+[\[back to top\]](#supervision_top)
 
 ## Postdoctoral Fellows
 
@@ -93,7 +93,7 @@ author_profile: true
 </ol>
 
 
-[\[Back to the top\]](#supervision_top)
+[\[back to top\]](#supervision_top)
 
 
 ## PhD Dissertations
@@ -178,7 +178,7 @@ author_profile: true
 
 
 
-[\[Back to the top\]](#supervision_top)
+[\[back to top\]](#supervision_top)
 
 ## Visiting PhD Students
 
@@ -281,7 +281,7 @@ author_profile: true
 <li>Dr. Yixin Jiang is an Associate Professor at the Tsinghua University, China (2005-2006).</li>
 </ol>
 
-[\[Back to the top\]](#supervision_top)
+[\[back to top\]](#supervision_top)
 
 ## MASc Thesis
 
@@ -339,4 +339,4 @@ author_profile: true
 <li>S. Akbar, "An efficient call admission control for supporting high rate of handoffs in wireless networks'', MASc, 1999. (S. Akbar is employed by Alcatel, Ottawa, Canada)</li>
 </ol>
 
-[\[Back to the top\]](#supervision_top)
+[\[back to top\]](#supervision_top)

@@ -72,7 +72,7 @@ author_profile: true
 * The Premier's Research Excellence Award (PREA), from the Province of Ontario in 2003, for demonstrated excellence of scientific and academic contributions
 * Distinguished Performance Award, from the Faculty of Engineering, University of Waterloo in 2017, and 2002, for outstanding contribution in teaching, scholarship and service
 
-[\[back to top\]](#recognitions-and-awards_top)
+[\[BACK TO TOP\]](#recognitions-and-awards_top)
 
 
 ## Services
@@ -117,7 +117,7 @@ author_profile: true
 * Board Member, Institute for Computer Research, University of Waterloo
 
 
-[\[back to top\]](#recognitions-and-awards_top)
+[\[BACK TO TOP\]](#recognitions-and-awards_top)
 
 ## Keynote Speaker
 
@@ -170,14 +170,14 @@ author_profile: true
 * Keynote Speaker, 7th Int. Conf. Ad-Hoc Networks and Wireless (AD HOC NOW), Sophia Antipolis, France, Sept. 10 - 13, 2008.
 
 
-[\[back to top\]](#recognitions-and-awards_top)
+[\[BACK TO TOP\]](#recognitions-and-awards_top)
 
 ## Best Innovation Awards
 
 * H. Zhou, J. Li, J. Xue, G. Luo and X. Shen, "The Enabling Technologies of Senseing-Communication-Control Integrated Intelligent Non-Signalized Intersections System for Connected Unmanned Driving", 2023 International Connected Vehicles Conference, Chengdu, China, Oct. 13 - 15, 2023. (received the Integrated Solutions Innovation Competition First Price Award)
 
 
-[\[back to top\]](#recognitions-and-awards_top)
+[\[BACK TO TOP\]](#recognitions-and-awards_top)
 
 ## Best Journal Paper Awards
 
@@ -195,7 +195,7 @@ author_profile: true
 * R. Jiang, R. Lu, Y. Wang, J. Luo, C. Shen, and X. Shen, "Energy-Theft Detection Issues for Advanced Metering Infrastructure in Smart Grid", Tsinghua Science and Technology, Vol.19, No. 2, pp. 105-120, 2014. (received the Tsinghua Science and Technology 2014 Best Paper Award)
 
 
-[\[back to top\]](#recognitions-and-awards_top)
+[\[BACK TO TOP\]](#recognitions-and-awards_top)
 
 ## Best Conference Paper Awards
 
@@ -262,4 +262,4 @@ author_profile: true
 * R. Qiu, H. Liu, and X. Shen, "Ultra-Wideband for Multiple-Access Communications", IEEE Communication Magazine, Vol. 43, No. 2, pp. 80-87, 2005. (one of the ComSoc's top 10 most popular online articles for April 2005, and one of the top 100 of all IEEE Documents accessed for March, April, and May 2005)
 * 
 
-[\[back to top\]](#recognitions-and-awards_top)
+[\[BACK TO TOP\]](#recognitions-and-awards_top)

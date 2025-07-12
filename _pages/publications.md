@@ -515,7 +515,7 @@ author_profile: true
 
 
 
-[\[back to top\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
 ## Patents
 
@@ -588,7 +588,7 @@ author_profile: true
 </ol>
 
 
-[\[back to top\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
 ## Book Chapters
 
@@ -806,7 +806,7 @@ author_profile: true
   </li>
 </ol>
 
-[\[back to top\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
 ## Journals / IEEE Magazine Papers
 
@@ -5894,7 +5894,7 @@ author_profile: true
 </ol>
 
 
-[\[back to top\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
 ##  Papers
 
@@ -9447,4 +9447,4 @@ author_profile: true
 </ol>
 
 
-[\[back to top\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)

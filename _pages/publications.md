@@ -517,7 +517,7 @@ author_profile: true
 
 [\[Back to the top\]](#publications_top)
 
-## s
+## Patents
 
 <ol>
   <li>

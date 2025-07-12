@@ -20,105 +20,497 @@ author_profile: true
 
 ## Books, Edited Journals and Proceedings
 
-<ol type="1">
-<li>Zhirun Zheng, Zhetao Li, and <b>Xuemin Shen</b> (authors), Perturbation Based Privacy in Crowdsensing, Springer Verlag, 2025. (Hardcover  ISBN - 10: 3031950518, ISBN - 13: 978-3031950513)</li>
-<li>Dan Zhu, Dengguo Feng, and <b>Xuemin Shen</b> (authors), Privacy-Preserving Techniques with e-Healthcare Applications, Springer Verlag, 2025. (Hardcover  ISBN - 10: 303176921X, ISBN - 13: 978-3031769214)</li>
-<li>Dongxiao Liu, and <b>Xuemin Shen</b> (authors), Blockchain-Based Data Security in Heterogeneous Communications Networks, Springer Verlag, 2024. (Hardcover  ISBN: 978-3-031-52476-9, eBook ISBN 978-3-031-52477-6)</li>
-<li>Yuanwei Liu, Liang Liu, Zhiguo Ding, and <b>Xuemin Shen</b> (editors), Next Generation Multiple Access, Wiley, 2024. (Hardcover  ISBN: 978-1-394-18049-3)</li>
-<li>Wei Yang Bryan, Zehui Xiong, Dusit Niyato, Junshan Zhang, and <b>Xuemin Shen</b> (editors), Realizing the Metaverse: A Communications and Networking Perspective, Wiley - IEEE Press, 2024. (Hardcover  ISBN -10: 1394188900, ISBN -13: 978-1394188901)</li>
-<li>Cheng Huang, and <b>Xuemin Shen</b> (authors), Decentralized Privacy Preservation in Smart Cities, Springer Verlag, 2024. (Hardcover  ISBN: 978-3-031-54074-5, eBook ISBN 978-3-031-54075-2)</li>
-<li>Shaofeng Li, Haojin Zhu, Wen Wu, and <b>Xuemin Shen</b> (authors), Backdoor Attacks against Learning-Based Algorithms, Springer Verlag, 2024. (ISBN -10: 3031573889, ISBN -13: 978-3031573880)</li>
-<li>Ling Lyu, Xinping Guan, Nan Cheng, and <b>Xuemin Shen</b> (authors), Advanced Wireless Technologies for Industrial Network Systems, Springer Verlag, 2023. (Hardcover ISBN: 978-3-031-26962-2, eBook ISBN 978-3-031-26963-9)</li>
-<li>Yan Meng, Haojin Zhu, and Xuemn Shen (authors), Security in Smart Home Networks, Springer Verlag, 2023. (Hardcover ISBN: 978-3-031-24184-0, eBook ISBN 978-3-031-24185-7)</li>
-<li>Y. Chen, N. Zhang, Y. Wu, and <b>X. Shen</b> (authors), Energy Efficient Computation Offloading in Mobile Edge Computing, Springer Verlag, 2022. (Hardcover ISBN: 978-3-031-16821-5, eBook ISBN 978-3-031-16822-2)</li>
-<li>H. Yang, H. Li, and <b>X. Shen</b> (authors), Secure Automatic Dependent Surveillance-Broadcast Systems, Springer Verlag, 2022. (ISBN-10: 3031070208, ISBN-13: 978-3031070204)</li>
-<li>H. Peng, Q. Ye, and <b>X. Shen</b> (authors), Intelligent Resource Management in Vehicular Networks, Springer Verlag, 2022. (ISBN-10: 3030965066, ISBN-13: 978-3030965068)</li>
-<li>W. Xu, H. Zhou, and <b>X. Shen</b> (authors), Internet Access in Vehicular Networks, Springer Verlag, 2021. (ISBN-10: 3030889904, ISBN-13: 978-3030889906)</li>
-<li>Y. Liu, S. Zhang, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <b>X. Shen</b> (guest editors), Next Generation Multiple Access, IEEE Journal on Selected Areas in Communications, 2021.</li>
-<li>H. Wu, F. Lyu, and <b>X. Shen</b> (authors), Mobile Edge Caching in Heterogeneous Vehicular Networks, Springer Verlag (SpringerBriefs in Computer Science), 2021. (ISBN-10: 3030888770, ISBN-13: 978-3030888770)</li>
-<li>S. Guo, H. Yao, M. Wu, <b>X. Shen</b>, Y. Yang, and P. Lorenz (guest editors), Artificial Intelligence Empowered Future Connection, IEEE Network, 2021.</li>
-<li>P. Yang, W. Wu, N. Zhang, and <b>X. Shen</b> (authors), Millimeter-Wave Networks: Beamforming Design and Performance Analysis, Springer Verlag, 2021. (ISBN-10: 3030886298, ISBN-13: 978-3030886295)</li>
-<li><b>X. Shen</b>, X. Lin, and K. Zhang (editors), Encyclopedia of Wireless Networks, Springer Verlag, 2020. (ISBN-10: 3319782614, ISBN-13: 978-3319782614)</li>
-<li>F. Lyu, M. Li, and <b>X. Shen</b> (authors), Vehicular Networking for Road Safety, Springer Verlag, 2020. (ISBN-10: 3030512282, ISBN-13: 978-3030512286)</li>
-<li>Y. Zhang, C. Xu, and <b>X. Shen</b> (authors), Data Security in Cloud Storage, Springer Verlag, 2020. (ISBN-10: 9811543739, ISBN-13: 978-9811543739)</li>
-<li><b>X. Shen</b>, R. Fantacci, and S. Chen (guest editors), Internet of Vehicles, Proceedings of the IEEE, Vol. 108, No. 2, 2020.</li>
-<li>T. Yang, and <b>X. Shen</b> (authors), Mission-critical Application Driven Intelligent Maritime Networks, SpringerBriefs in Computer Science, Springer Verlag, 2020. (ISBN: 978-981-15-4412-5, eBook)</li>
-<li>Z. Guan, B. Hu, and <b>X. Shen</b> (authors), Introduction to Hybrid Intelligent Networks: Modeling, Communication, and Control, Springer Verlag, 2019. (ISBN-10: 3030021602, ISBN-13: 978-3030021603)</li>
-<li>X. Lin, J. Ni, and <b>X. Shen</b> (authors), Privacy-Enhancing Fog Computing and Its Applications, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2018. (ISBN-10: 3030021122, ISBN-13: 978-3030021122)</li>
-<li>A. Abdallah, and <b>X. Shen</b> (authors), Security and Privacy in Smart Grid, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2018. (ISBN-10: 331993676X, ISBN-13: 978-3319936765)</li>
-<li>J. Ren, N. Zhang, and <b>X. Shen</b> (authors), Energy-Efficient Spectrum Management for Cognitive Radio Sensor Networks, Springer Verlag, 2017. (ISBN-10: 3319603175, ISBN-13: 978-3319603179)</li>
-<li>A.T. Gamage, and <b>X. Shen</b> (authors), Resource Management for Heterogeneous Wireless Networks, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2017. (ISBN-10: 3319642677, ISBN-13: 978-3319642673)</li>
-<li>Y. Wu, L. Qian, J. Huang, and <b>X. Shen</b> (authors), Radio Resource Management for Mobile Traffic Offloading in Heterogeneous Cellular Networks, Springer Briefs in Electrical and Computer Engineering, Springer Verlag, 2017. (ISBN-10: 3319510363, ISBN-13: 978-3319510361)</li>
-<li>D. Zhang, Z. Chen, H. Zhou, and <b>X. Shen</b> (authors), Resource Management for Energy and Spectrum Harvesting Sensor Networks Paperback, Springer Briefs in Electrical and Computer Engineering, Springer Verlag, 2017. (ISBN-10: 3319537709, ISBN-13: 978-3319537702)</li>
-<li>Z. Su, Q. Xu, K. Zhang, and <b>X. Shen</b> (authors), Modeling and Optimization for Mobile Social Networks, Springer Verlag, 2016. (ISBN-10: 3319479210, ISBN-13: 978-3319479217)</li>
-<li>H. Zhou, Q. Yu, <b>X. Shen</b>, S. Wu, and Q. Zhang (authors), Dynamic Sharing of Wireless Spectrum, Springer Verlag, 2016. (ISBN-10: 331945076X, ISBN-13: 978-3319450766)</li>
-<li>S. Zhang, N. Zhang, S. Zhou, Z. Niu, and <b>X. Shen</b> (authors), Wireless Traffic Steering for Green Cellular Networks, Springer Verlag, 2016. (ISBN-10: 3319327194, ISBN-13: 978-3319327198)</li>
-<li>W. Xiang, K. Zheng, and <b>X. Shen</b> (editors), 5G Mobile Communications, Springer Verlag, 2016. (ISBN-10: 3319342061, ISBN-13: 978-3319342061)</li>
-<li>K. Zhang, and <b>X. Shen</b> (authors), Security and Privacy for Mobile Healthcare Networks, Springer Verlag, 2015. (ISBN-10: 3319247158, ISBN-13: 978-3319247151)</li>
-<li>M. Wang, R. Zhang, and <b>X. Shen</b> (authors), Mobile Electric Vehicles: Online Charging and Dischargings, Springer Verlag, 2015. (ISBN-10: 3319251287, ISBN-13: 978-3319251288)</li>
-<li>N. Cheng, and <b>X. Shen</b> (authors), Opportunistic Spectrum Utilization in Vehicular Communication Networks, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2015. (ISBN-10: 3319204440, ISBN-13: 978-3319204444)</li>
-<li>H. Zhou, L. Gui, Q. Yu, and <b>X. Shen</b> (authors), Cooperative Vehicular Communications in the Drive-thru Internet, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2015. (ISBN-10: 331920453X, ISBN-13: 978-3319204536)</li>
-<li>S. Yu, X. Lin, J. Misic, and <b>X. Shen</b> (editors), Networking for Big Data, CRC Press LLC, USA, 2015. (ISBN-10: 1482263491, ISBN-13: 978-1482263497)</li>
-<li>C. Chen, S. Zhu, X. Guan, and <b>X. Shen</b> (authors), Wireless Sensor Networks: Distributed Consensus Estimation, SpringerBriefs in Computer Science, Springer Verlag, 2015. (ISBN-10: 3319123785, ISBN-13: 978-3319123783)</li>
-<li>A. Benslimane, J. Hu, and <b>X. Shen</b> (guest editors), Journal of Network and Computer Applications - Special Issue on Quality of Service in Wireless and Mobile Networking, Elsevier, Vol.46, 2014. (ISSN: 1084-8045)</li>
-<li>T. Yang, and <b>X. Shen</b> (authors), Maritime Wideband Communication Networks - Video Transmission Scheduling, SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN: 978-3-319-07361-3, ISBN: 978-3-319-07362-0 eBook)</li>
-<li>Y. Liu, and <b>X. Shen</b> (authors), Cognitive Resource Management for Heterogeneous Cellular Networks, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2014. (ISBN: 978-3-319-06283-9, ISBN 978-3-319-06284-6 eBook)</li>
-<li>M. Wen, R. Lu, X. Liang, J. Lei, and <b>X. Shen</b> (authors), Querying over Encrypted Data in Smart Grids, SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN: 978-3-319-06354-6, ISBN 978-3-319-06355-3 eBook)</li>
-<li>T. H. Luan, <b>X. Shen</b>, and F. Bai (authors), Enabling Content Distribution in Vehicular Ad Hoc Networks, SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN: 978-1-4939-0690-1, ISBN 978-1-4939-0691-8 eBook))</li>
-<li>M. M. E. A. Mahmoud, and <b>X. Shen</b> (authors), Security for Multi-hop Wireless Networks, SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN-13: 978-3319046020)</li>
-<li>N. Lu, and <b>X. Shen</b> (authors), Capacity Analysis of Vehicular Communication Networks, SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2013. (ISBN: 978-1-4614-8396-0)</li>
-<li>N. Ohta, <b>X. Shen</b>, etc. (guest editors), IEEE JSAC Special Issue on Emerging Technologies in Communications, Vol. 31, No. 9, 2013. (ISSN 0733-8716)</li>
-<li>X. Liang, R. Lu, X. Lin, and <b>X. Shen</b> (authors), Security and Privacy in Mobile Social Networks, SpringerBriefs in Computer Science, Springer Verlag, 2013. (ISBN: 978-1-4614-8857-6)</li>
-<li>Z. Zheng, L. X. Cai, and <b>X. Shen</b> (authors), Sustainable Wireless Networks, SpringerBriefs in Computer Science, Springer Verlag, 2013. (ISBN 978-3-319-02469-1)</li>
-<li>S. Taha, and <b>X. Shen</b> (authors), Secure IP Mobility Management for VANET, SpringerBriefs in Computer Science, Springer Verlag, 2013. (ISBN: 978-1-319-01351-0)</li>
-<li><b>X. Shen</b>, A. Hjorungnes, Q. Zhang, P.R. Kumar, and Z. Han (guest editors), IEEE JSAC Special Issue on Cooperative Networking Challenges and Applications - Part II, Vol. 30, No. 10, 2012. (ISSN 0733-8716)</li>
-<li><b>X. Shen</b>, A. Hjorungnes, Q. Zhang, P.R. Kumar, and Z. Han (guest editors), IEEE JSAC Special Issue on Cooperative Networking Challenges and Applications - Part I, Vol. 30, No. 2, 2012. (ISSN 0733-8716)</li>
-<li><b>X. Shen</b>, N. Kato, and P. Wang (guest editors), Wireless Communications and Mobile Computing - Special Issue on the selected papers of IWCMC'11 (John Wiley & Sons, Inc.), Vol. 11, Issue 12, 2011. (ISSN 1530-8669)</li>
-<li><b>X. Shen</b>, J. Misic, N. Kato, P. Langendorfer, and X. Lin (editors), IEEE/JCN - Special Issue on Emerging Technologies and Applications of Wireless Communication in Healthcare, April 2011. (ISSN 1229-2370)</li>
-<li>C. X. Wang, A. V. Vasilakos, R. D. Murch, G. Stuber, <b>X. Shen</b>, W. Chen, and T. Kosch (editors), IEEE JSAC Special Issue on Vehicular Communications and Networks - Part II, Vol. 29, No. 3, 2011. (ISSN 0733-8716)</li>
-<li>C. X. Wang, A. V. Vasilakos, R. D. Murch, G. Stuber, <b>X. Shen</b>, W. Chen, and T. Kosch (editors), IEEE JSAC Special Issue on Vehicular Communications and Networks - Part I, Vol. 29, No. 1, 2011. (ISSN 0733-8716)</li>
-<li><b>X. Shen</b>, H. Yu, J. Buford, and M. Akon (editors), Handbook of Peer-to-Peer Networking, Springer Verlag, 2010. (ISBN: 978-0-387-09750-3)</li>
-<li><b>X. Shen</b>, N. Kato, and X. Lin (guest editors), IEEE Wireless Communications, Special Issue on Wireless Technologies for E-healthcare, Vol. 17, No. 1, 2010. (ISSN 1536-1284)</li>
-<li>L. Cai, <b>X. Shen</b>, and J.W. Mark (authors), Multimedia Services in Wireless Internet: Modeling and Analysis, John Wiley & Sons, Inc., 2009. (ISSN 978-0-470-77065-8)</li>
-<li>J. Zheng, N. Ansari, V. O. K. Li, <b>X. Shen</b>, H. S. Hassanein, and B. Zhang (editors), IEEE JSAC - Special Issue on Network Coding for Wireless Communications Networks, Vol. 27, No. 5, 2009. (ISSN 0733-8716)</li>
-<li>L. Yang, D. Dardari, Z. Ding, L. Lampa, and <b>X. Shen</b> (guest editors), PHYCOM: Physical Communication Journal - Special Issue on Advances in Ultra-Wideband Wireless Communications, Elsevier, Vol. 2, Issue 4, 2009. (ISSN 1874-4907)</li>
-<li>C.Y. Chang, C.C. Shen, <b>X. Shen</b>, and Y.C. Tseng (guest editors), J. Information Science and Engineering - Special Issue on Vehicular Wireless Networks and Vehicular Intelligent Transportation Systems, Institute of Information Science, Academia Sinica, 2009.</li>
-<li><b>X. Shen</b>, A. F. Molisch, Z. Niu and H. Zhang (guest editors), ACM Wireless Networks - Special Issue on Selected papers from Chinacom'06, Vol. 15, No. 4, Springer Verlag, 2009. (ISSN 1022-0038)</li>
-<li><b>X. Shen</b>, and B. Li (guest editors), ACM Wireless Networks - Special Issue on Quality of Service in Heterogeneous Wired/Wireless Networks, Vol. 15, No. 1, Springer Verlag, 2009. (ISSN 1022-0038)</li>
-<li>L. Cai, and <b>X. Shen</b>, (guest editors), International Journal of Sensor Networks (IJSNET) - Special Issue on Energy-Efficient Algorithm and Protocol Design in Sensor Networks, Vol. 4 - Issue 1/2, 2008. (ISSN 1748-1279)</li>
-<li>Y. Yang, K. Papagiannaki, S. Ci, and <b>X. Shen</b> (guest editors), IEEE Network - Special Issue on Wireless Mesh Networks: Applications, Architectures and Protocols, Vol. 21, No. 1, 2008. (ISSN 0890-8044)</li>
-<li><b>X. Shen</b>, Q. Zhang, and R. C. Qiu (guest editors), IEEE Wireless Communications - Special Issue on Wireless Sensor Networking, Vol. 14, No. 6, 2007. (ISSN 1536-1284)</li>
-<li><b>X. Shen</b>, P. Lin, Y.B. Lin, and Y. T. Hou (guest editors), ACM Mobile Networks & Applications - Special Issue on Next Generation Wireless Technologies (Springer Verlag), Vol. 12, No. 1, 2007. (ISSN 1383-469X)</li>
-<li>Y. Xiao, <b>X. Shen</b>, and D. Du (editors), Wireless Network Security - Springer Series on Signals and Communication Technology, Springer Verlag, 2007. (ISSN 0387280405)</li>
-<li><b>X. Shen</b>, N. Maxemchuk, and L. Cai (guest editors), IEEE Trans. on Vehicular Technology - Special Section on Vehicular Communications Networks, Vol. 56, No. 6, 2007. (ISSN 0018-9545)</li>
-<li><b>X. Shen</b>, and Y. T. Hou (guest editors), Mobile Networks & Applications - Special Issue on Broadband Wireless Networking (Springer Verlag), Vol. 11, No. 5, 2006. (ISSN 1022-0038)</li>
-<li><b>X. Shen</b>, C. Lin, Y. Sun, J. Pan, P. Langendoerfer, and Z. Cao (guest editors), Wireless Communications and Mobile Computing - Special Issue on Wireless Network Security (John Wiley & Sons, Inc.), Vol. 6, No. 3, 2006. (ISSN 1530-8669)</li>
-<li>Y. Fang, <b>X. Shen</b>, and S. Chen (guest editors), IEEE Trans. on Vehicular Technology - Special Section on Cross-Layer Design for Mobile ad hoc Networks and Sensor Networks, Vol. 55, No. 3, 2006. (ISSN 0018-9545)</li>
-<li><b>X. Shen</b>, M. Guizani, R.C. Qiu, and T. Le-Ngoc (editors), Ultra-Wideband Wireless Communications and Networks, John Wiley & Sons, Inc., 2006. (ISSN 0470011440)</li>
-<li><b>X. Shen</b>, M. Guizani, H.H. Chen, R.C. Qiu, and A.F. Molisch (editors), IEEE JSAC - Special Issue on UWB Wireless Communications - Theory and Applications, Vol. 24, No. 4, 2006. (ISSN 0733-8716)</li>
-<li><b>X. Shen</b>, H. Kobayashi, X. You, and J. Pan, (guest editors), Wireless Communications and Mobile Computing - Special Issue on Medium Access Control Protocols for Wireless Ad Hoc Networks (John Wiley & Sons, Inc.), Vol. 6, No. 6, 2006. (ISSN 1530-8669)</li>
-<li><b>X. Shen</b>, Y.B. Lin, A.C. Pang, and J. Pan (guest editors), IEEE Wireless Communications - Special Issue on Voice over Wireless Local Area Network, Vol. 13, No. 1, 2006. (ISSN 1536-1284)</li>
-<li>P.H. Ho and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Applications and Algorithms - Special Issue on Routing/Signaling Protocols for Wired/Wireless Communications Networks, Watam Press, Vol. 13, No. 1, February, 2006. (ISSN 1492-8760)</li>
-<li>R. Qiu, R. Scholtz, and <b>X. Shen</b> (guest editors), IEEE Trans. on Vehicular Technology - Special Section on UWB Wireless Communications - A New Horizon, Vol. 54, No. 5, 2005. (ISSN 0018-9545)</li>
-<li>R. Boutaba, K. Almeroth, R. Puigjaner, <b>X. Shen</b>, and J. P. Black (editors), Lecture Notes in Computer Science - 3462: Networking Technologies, Services, and Protocols; Performance of Comuter and Communication Networks; Mobile and Wireless Communications Systems, Springer Verlag, 2005. (ISSN 0302-9743)</li>
-<li>R. Qiu and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on UWB Wireless Communications, Watam Press, Vol. 12, No. 3, 2005. (ISSN 1492-8760)</li>
-<li>K. Gong, W. Lu, and <b>X. Shen</b> (guest editors), IEEE Communications Magazine - Special Issue on China Wireless Communications: Technology vs. Markets, Vol. 43, No. 1, 2005. (ISSN 0163-6804)</li>
-<li>D. F. Hsu, K. Hiraki, <b>X. Shen</b>, and H. Sudborough (editors), Proc. of ISPAN'04, IEEE Computer Society Press, 2004. (ISBN 0-7695-2135-5)</li>
-<li>W. Lu, B.H. Walke, and <b>X. Shen</b> (guest editors), IEEE Wireless Communications - Special Issue on 4G Mobile Communication: Towards Open Wireless Architecture, Vol. 11, No. 2, 2004. (ISSN 1536-1284)</li>
-<li>Z. Gajic, M. Ikeda, and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series A: Mathematical Analysis - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), Watam Press, Vol. 11, No. 2-3, April, 2004. (ISSN 1201-3390)</li>
-<li>Z. Gajic, M. Ikeda, and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Applications and Algorithms - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), Watam Press, Vol. 11, No. 4-5, August, 2004. (ISSN 1492-8760)</li>
-<li><b>X. Shen</b> (guest editor), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on Communication Networks, Watam Press, Vol. 10, No. 4, 2003. (ISSN 1492-8760)</li>
-<li>Z. Gajic and <b>X. Shen</b> (authors), Parallel Algorithm for Optimal Control of Large Scale Linear Systems, Springer Verlag, New York-Berlin Heidelberg, 456 pages, March 1993. (ISSN 0-387-19825-3)</li>
-<li>Z. Gajic, Dj. Petkovski and <b>X. Shen</b> (authors), Singularly Perturbed and Weakly Coupled Linear Control Systems - A Recursive Approach, Springer Verlag, New York-Berlin Heidelberg, 202 pages, March 1990. (ISSN 0-387-52333</li>
-<li>R. Qiu and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on UWB Wireless Communications, Watam Press, Vol. 12, No. 3, 2005. (ISSN 1492-8760)</li>
-<li>K. Gong, W. Lu, and <b>X. Shen</b> (guest editors), IEEE Communications Magazine - Special Issue on China Wireless Communications: Technology vs. Markets, Vol. 43, No. 1, 2005. (ISSN 0163-6804)</li>
-<li>D. F. Hsu, K. Hiraki, <b>X. Shen</b>, and H. Sudborough (editors), Proc. of ISPAN'04, IEEE Computer Society Press, 2004. (ISBN 0-7695-2135-5)</li>
-<li>W. Lu, B.H. Walke, and <b>X. Shen</b> (guest editors), IEEE Wireless Communications - Special Issue on 4G Mobile Communication: Towards Open Wireless Architecture, Vol. 11, No. 2, 2004. (ISSN 1536-1284)</li>
-<li>Z. Gajic, M. Ikeda, and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series A: Mathematical Analysis - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), Watam Press, Vol. 11, No. 2-3, April, 2004. (ISSN 1201-3390)</li>
-<li>Z. Gajic, M. Ikeda, and <b>X. Shen</b> (guest editors), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Applications and Algorithms - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), Watam Press, Vol. 11, No. 4-5, August, 2004. (ISSN 1492-8760)</li>
-<li><b>X. Shen</b> (guest editor), Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on Communication Networks, Watam Press, Vol. 10, No. 4, 2003. (ISSN 1492-8760)</li>
-<li>Z. Gajic and <b>X. Shen</b> (authors), Parallel Algorithm for Optimal Control of Large Scale Linear Systems, Springer Verlag, New York-Berlin Heidelberg, 456 pages, March 1993. (ISSN 0-387-19825-3)</li>
-<li>Z. Gajic, Dj. Petkovski and <b>X. Shen</b> (authors), Singularly Perturbed and Weakly Coupled Linear Control Systems - A Recursive Approach, Springer Verlag, New York-Berlin Heidelberg, 202 pages, March 1990. (ISSN 0-387-523332)</li>
+<ol>
+  <li>
+    <p>
+      Zhirun Zheng, Zhetao Li, and <strong>Xuemin. Shen</strong> (authors), <em>Perturbation Based Privacy in Crowdsensing</em><em>,</em> Springer Verlag, 2025. (Hardcover  ISBN - 10: 3031950518, ISBN - 13: 978-3031950513)
+    </p>
+  </li>
+  <li>
+    <p>
+      Dan Zhu, Dengguo Feng, and <strong>Xuemin Shen</strong> (authors), <em>Privacy-Preserving Techniques with e-Healthcare Applications</em><em>,</em> Springer Verlag, 2025. (Hardcover  ISBN - 10: 303176921X, ISBN - 13: 978-3031769214)
+    </p>
+  </li>
+  <li>
+    <p>
+      Dongxiao Liu, and <strong>Xuemin Shen</strong> (authors), <em>Blockchain-Based Data Security in Heterogeneous Communications Networks,</em> Springer Verlag, 2024. (Hardcover  ISBN: 978-3-031-52476-9, eBook ISBN 978-3-031-52477-6)
+    </p>
+  </li>
+  <li>
+    <p>
+      Yuanwei Liu, Liang Liu, Zhiguo Ding, and <strong>Xuemin Shen</strong> (editors), <i>Next Generation Multiple Access</i><em>,</em> Wiley, 2024. (Hardcover  ISBN: 978-1-394-18049-3)
+    </p>
+  </li>
+  <li>
+    <p>
+      Wei Yang Bryan, Zehui Xiong, Dusit Niyato, Junshan Zhang, and <strong>Xuemin Shen</strong> (editors), <em>Realizing the Metaverse: A Communications and Networking Perspective</em><em>,</em> Wiley - IEEE Press, 2024. (Hardcover  ISBN -10: 1394188900, ISBN -13: 978-1394188901)
+    </p>
+  </li>
+  <li>
+    <p>
+      Cheng Huang, and <strong>Xuemin Shen</strong> (authors), <em>Decentralized Privacy Preservation in Smart Cities</em><em>,</em> Springer Verlag, 2024. (Hardcover  ISBN: 978-3-031-54074-5, eBook ISBN 978-3-031-54075-2)
+    </p>
+  </li>
+  <li>
+    <p>
+      Shaofeng Li, Haojin Zhu, Wen Wu, and <strong>Xuemin Shen</strong> (authors), <em>Backdoor Attacks against Learning-Based Algorithms</em><em>,</em> Springer Verlag, 2024. (ISBN -10: 3031573889, ISBN -13: 978-3031573880)
+    </p>
+  </li>
+  <li>
+    <p>
+      Ling Lyu, Xinping Guan, Nan Cheng, and <strong>Xuemin Shen</strong> (authors), <em>Advanced Wireless Technologies for Industrial Network Systems,</em> Springer Verlag, 2023. (Hardcover ISBN: 978-3-031-26962-2, eBook ISBN 978-3-031-26963-9)
+    </p>
+  </li>
+  <li>
+    <p>
+      Yan Meng, Haojin Zhu, and <strong>Xuemn Shen</strong> (authors), <em>Security in Smart Home Networks,</em> Springer Verlag, 2023. (Hardcover ISBN: 978-3-031-24184-0, eBook ISBN 978-3-031-24185-7)
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Chen, N. Zhang, Y. Wu, and <strong>X. Shen</strong> (authors), <em>Energy Efficient Computation Offloading in Mobile Edge Computing,</em> Springer Verlag, 2022. (Hardcover ISBN: 978-3-031-16821-5, eBook ISBN 978-3-031-16822-2)
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Yang, H. Li, and <strong>X. Shen</strong> (authors), <em>Secure Automatic Dependent Surveillance-Broadcast Systems,</em> Springer Verlag, 2022. (ISBN-10: 3031070208, ISBN-13: 978-3031070204)
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Peng, Q. Ye, and <strong>X. Shen</strong> (authors), <em>Intelligent Resource Management in Vehicular Networks,</em> Springer Verlag, 2022. (ISBN-10: 3030965066, ISBN-13: 978-3030965068)
+    </p>
+  </li>
+  <li>
+    <p>
+      W. Xu, H. Zhou, and <strong>X. Shen</strong> (authors), <em>Internet Access in Vehicular Networks,</em> Springer Verlag, 2021. (ISBN-10: 3030889904, ISBN-13: 978-3030889906)
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Liu, S. Zhang, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong> (guest editors), <em>Next Generation Multiple Access,</em> IEEE Journal on Selected Areas in Communications, 2021.
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Wu, F. Lyu, and <strong>X. Shen</strong> (authors), <em>Mobile Edge Caching in Heterogeneous Vehicular Networks,</em> Springer Verlag (SpringerBriefs in Computer Science), 2021. (ISBN-10: 3030888770, ISBN-13: 978-3030888770)
+    </p>
+  </li>
+  <li>
+    <p>
+      S. Guo, H. Yao, M. Wu, <strong>X. Shen</strong>, Y. Yang, and P. Lorenz (guest editors), <em>Artificial Intelligence Empowered Future Connection</em><em>,</em> IEEE Network, 2021.
+    </p>
+  </li>
+  <li>
+    <p>
+      P. Yang, W. Wu, N. Zhang, and <strong>X. Shen</strong> (authors), <em>Millimeter-Wave Networks: Beamforming Design and Performance Analysis,</em> Springer Verlag, 2021. (ISBN-10: 3030886298, ISBN-13: 978-3030886295)
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, X. Lin, and K. Zhang (editors), <i>Encyclopedia of Wireless Networks,</i> Springer Verlag, 2020. (ISBN-10: 3319782614, ISBN-13: 978-3319782614) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>F. Lyu, M. Li, and <b>X. Shen</b> (authors), <i>Vehicular Networking for Road Safety,</i> Springer Verlag, 2020. (ISBN-10: 3030512282, ISBN-13: 978-3030512286) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Y. Zhang, C. Xu, and <b>X. Shen</b> (authors), <i>Data Security in Cloud Storage,</i> Springer Verlag, 2020. (ISBN-10: 9811543739, ISBN-13: 978-9811543739) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, R. Fantacci, and S. Chen (guest editors), <i>Internet of Vehicles, </i>Proceedings of the IEEE, Vol. 108, No. 2, 2020. </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>T. Yang, and <b>X. Shen</b> (authors), <i>Mission-critical Application Driven Intelligent Maritime Networks,</i> SpringerBriefs in Computer Science, Springer Verlag, 2020. (ISBN: 978-981-15-4412-5, eBook) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Z. Guan, B. Hu, and <b>X. Shen</b> (authors), <i>Introduction to Hybrid Intelligent Networks: Modeling, Communication, and Control,</i> Springer Verlag, 2019. (ISBN-10: 3030021602, ISBN-13: 978-3030021603) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>X. Lin, J. Ni, and <b>X. Shen</b> (authors), <i>Privacy-Enhancing Fog Computing and Its Applications,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2018. (ISBN-10: 3030021122, ISBN-13: 978-3030021122) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>A. Abdallah, and <b>X. Shen</b> (authors), <i>Security and Privacy in Smart Grid,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2018. (ISBN-10: 331993676X, ISBN-13: 978-3319936765) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>J. Ren, N. Zhang, and <b>X. Shen</b> (authors), <i>Energy-Efficient Spectrum Management for Cognitive Radio Sensor Networks,</i> Springer Verlag, 2017. (ISBN-10: 3319603175, ISBN-13: 978-3319603179) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>A.T. Gamage, and <b>X. Shen</b> (authors), <i>Resource Management for Heterogeneous Wireless Networks,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2017. (ISBN-10: 3319642677, ISBN-13: 978-3319642673) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Y. Wu, L. Qian, J. Huang, and <b>X. Shen</b> (authors), <i>Radio Resource Management for Mobile Traffic Offloading in Heterogeneous Cellular Networks,</i> Springer Briefs in Electrical and Computer Engineering, Springer Verlag, 2017. (ISBN-10: 3319510363, ISBN-13: 978-3319510361) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>D. Zhang, Z. Chen, H. Zhou, and <b>X. Shen</b> (authors), <i>Resource Management for Energy and Spectrum Harvesting Sensor Networks Paperback,</i> Springer Briefs in Electrical and Computer Engineering, Springer Verlag, 2017. (ISBN-10: 3319537709, ISBN-13: 978-3319537702) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Z. Su, Q. Xu, K. Zhang, and <b>X. Shen</b> (authors), <i>Modeling and Optimization for Mobile Social Networks,</i> Springer Verlag, 2016. (ISBN-10: 3319479210, ISBN-13: 978-3319479217) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>H. Zhou, Q. Yu, <b>X. Shen</b>, S. Wu, and Q. Zhang (authors), <i>Dynamic Sharing of Wireless Spectrum,</i> Springer Verlag, 2016. (ISBN-10: 331945076X, ISBN-13: 978-3319450766) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>S. Zhang, N. Zhang, S. Zhou, Z. Niu, and <b>X. Shen</b> (authors), <i>Wireless Traffic Steering for Green Cellular Networks,</i> Springer Verlag, 2016. (ISBN-10: 3319327194, ISBN-13: 978-3319327198) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>W. Xiang, K. Zheng, and <b>X. Shen</b> (editors), <i>5G Mobile Communications,</i> Springer Verlag, 2016. (ISBN-10: 3319342061, ISBN-13: 978-3319342061) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>K. Zhang, and <b>X. Shen</b> (authors), <i>Security and Privacy for Mobile Healthcare Networks,</i> Springer Verlag, 2015. (ISBN-10: 3319247158, ISBN-13: 978-3319247151) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>M. Wang, R. Zhang, and <b>X. Shen</b> (authors), <i>Mobile Electric Vehicles: Online Charging and Dischargings,</i> Springer Verlag, 2015. (ISBN-10: 3319251287, ISBN-13: 978-3319251288) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>N. Cheng, and <b>X. Shen</b> (authors), <i>Opportunistic Spectrum Utilization in Vehicular Communication Networks,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2015. (ISBN-10: 3319204440, ISBN-13: 978-3319204444) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>H. Zhou, L. Gui, Q. Yu, and <b>X. Shen</b> (authors), <i>Cooperative Vehicular Communications in the Drive-thru Internet,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2015. (ISBN-10: 331920453X, ISBN-13: 978-3319204536) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>S. Yu, X. Lin, J. Misic, and <b>X. Shen</b> (editors), <i>Networking for Big Data,</i> CRC Press LLC, USA, 2015. (ISBN-10: 1482263491, ISBN-13: 978-1482263497) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>C. Chen, S. Zhu, X. Guan, and <b>X. Shen</b> (authors), <i>Wireless Sensor Networks: Distributed Consensus Estimation,</i> SpringerBriefs in Computer Science, Springer Verlag, 2015. (ISBN-10: 3319123785, ISBN-13: 978-3319123783) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>A. Benslimane, J. Hu, and <b>X. Shen</b> (guest editors), <i>Journal of Network and Computer Applications - Special Issue on Quality of Service in Wireless and Mobile Networking,</i> Elsevier, Vol.46, 2014. (ISSN: 1084-8045) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>T. Yang, and <b>X. Shen</b> (authors), <i>Maritime Wideband Communication Networks - Video Transmission Scheduling,</i> SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN: 978-3-319-07361-3, ISBN: 978-3-319-07362-0 eBook) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Y. Liu, and <b>X. Shen</b> (authors), <i>Cognitive Resource Management for Heterogeneous Cellular Networks,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2014. (ISBN: 978-3-319-06283-9, ISBN 978-3-319-06284-6 eBook) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>M. Wen, R. Lu, X. Liang, J. Lei, and <b>X. Shen</b> (authors), <i>Querying over Encrypted Data in Smart Grids,</i> SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN: 978-3-319-06354-6, ISBN 978-3-319-06355-3 eBook) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>T. H. Luan, <b>X. Shen</b>, and F. Bai (authors), <i>Enabling Content Distribution in Vehicular Ad Hoc Networks,</i> SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN: 978-1-4939-0690-1, ISBN 978-1-4939-0691-8 eBook))</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>M. M. E. A. Mahmoud, and <b>X. Shen</b> (authors), <i>Security for Multi-hop Wireless Networks,</i> SpringerBriefs in Computer Science, Springer Verlag, 2014. (ISBN-13: 978-3319046020)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>N. Lu, and <b>X. Shen</b> (authors), <i><a href="http://www.springer.com/computer/communication+networks/book/978-1-4614-8396-0" target="_blank"><span style="color:blue">Capacity Analysis of Vehicular Communication Networks</span></a>,</i> SpringerBriefs in Electrical and Computer Engineering, Springer Verlag, 2013. (ISBN: 978-1-4614-8396-0) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>N. Ohta, <b>X. Shen</b>, etc. (guest editors), <i>IEEE JSAC Special Issue on Emerging Technologies in Communications,</i> Vol. 31, No. 9, 2013. (ISSN 0733-8716)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>X. Liang, R. Lu, X. Lin, and <b>X. Shen</b> (authors), <i><a href="http://www.springer.com/computer/communication+networks/book/978-1-4614-8856-9" target="_blank"><span style="color:blue">Security and Privacy in Mobile Social Networks</span></a>,</i> SpringerBriefs in Computer Science, Springer Verlag, 2013. (ISBN: 978-1-4614-8857-6) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Z. Zheng, L. X. Cai, and <b>X. Shen</b> (authors), <i><a href="http://www.springer.com/computer/communication+networks/book/978-3-319-02468-4?otherVersion=978-3-319-02469-1" target="_blank"><span style="color:blue">Sustainable Wireless Networks</span></a>,</i> SpringerBriefs in Computer Science, Springer Verlag, 2013. (ISBN 978-3-319-02469-1) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>S. Taha, and <b>X. Shen</b> (authors), <i><a href="http://www.springer.com/computer/security+and+cryptology/book/978-3-319-01350-3" target="_blank"><span style="color:blue">Secure IP Mobility Management for VANET</span></a>,</i> SpringerBriefs in Computer Science, Springer Verlag, 2013. (ISBN: 978-1-319-01351-0) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, A. Hjorungnes, Q. Zhang, P.R. Kumar, and Z. Han (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/34.pdf">IEEE JSAC Special Issue on Cooperative Networking Challenges and Applications - Part II</a></em></span><span><span><span><i>,</i> Vol. 30, No. 10, 2012. (ISSN 0733-8716)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, A. Hjorungnes, Q. Zhang, P.R. Kumar, and Z. Han (guest editors),<a href="http://bbcr.uwaterloo.ca/~xshen/files/JSAC_February2012.pdf" target="_blank"> </a></span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/35.pdf">IEEE JSAC Special Issue on Cooperative Networking Challenges and Applications - Part I</a></em></span><span><span><span><i>,</i> Vol. 30, No. 2, 2012. (ISSN 0733-8716)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, N. Kato, and P. Wang (guest editors), <i><a href="http://onlinelibrary.wiley.com/doi/10.1002/wcm.1237/abstract" target="_blank"><span style="color:blue">Wireless Communications and Mobile Computing - Special Issue on the selected papers of IWCMC'11</span></a> (John Wiley &amp; Sons, Inc.), </i>Vol. 11, Issue 12, 2011. (ISSN 1530-8669) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, J. Misic, N. Kato, P. Langendorfer, and X. Lin (editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/37.pdf">IEEE/JCN - Special Issue on Emerging Technologies and Applications of Wireless Communication in Healthcare</a></em></span><span><span><span><i>,</i> April 2011. (ISSN 1229-2370) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>C. X. Wang, A. V. Vasilakos, R. D. Murch, G. Stuber, <b>X. Shen</b>, W. Chen, and T. Kosch (editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/38.pdf">IEEE JSAC Special Issue on Vehicular Communications and Networks - Part II</a></em></span><span><span><span><i>,</i> Vol. 29, No. 3, 2011. (ISSN 0733-8716) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>C. X. Wang, A. V. Vasilakos, R. D. Murch, G. Stuber, <b>X. Shen</b>, W. Chen, and T. Kosch (editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/39.pdf">IEEE JSAC Special Issue on Vehicular Communications and Networks - Part I</a></em></span><span><span><span><i>,</i> Vol. 29, No. 1, 2011. (ISSN 0733-8716) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, H. Yu, J. Buford, and M. Akon (editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/40.pdf">Handbook of Peer-to-Peer Networking</a></em></span><span><span><span><i>,</i> Springer Verlag, 2010. (ISBN: 978-0-387-09750-3) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, N. Kato, and X. Lin (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/41.pdf">IEEE Wireless Communications, Special Issue on Wireless Technologies for E-healthcare</a></em></span><span><span><span><i>,</i> Vol. 17, No. 1, 2010. (ISSN 1536-1284) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>L. Cai, <b>X. Shen</b>, and J.W. Mark (authors), <i><a href="http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0470770651.html" target="_blank"><span style="color:blue">Multimedia Services in Wireless Internet: Modeling and Analysis</span></a>,</i> John Wiley &amp; Sons, Inc., 2009. (ISSN 978-0-470-77065-8) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>J. Zheng, N. Ansari, V. O. K. Li, <b>X. Shen</b>, H. S. Hassanein, and B. Zhang (editors), </span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/43.pdf">IEEE JSAC - Special Issue on Network Coding for Wireless Communications Networks</a></span><span><span><span><i>,</i> Vol. 27, No. 5, 2009. (ISSN 0733-8716) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>L. Yang, D. Dardari, Z. Ding, L. Lampa, and <b>X. Shen</b> (guest editors), <i><a href="http://www.sciencedirect.com/science/article/pii/S1874490709000780" target="_blank"><span style="color:blue">PHYCOM: Physical Communication Journal - Special Issue on Advances in Ultra-Wideband Wireless Communications</span></a>,</i> Elsevier, Vol. 2, Issue 4, 2009. (ISSN 1874-4907) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>C.Y. Chang, C.C. Shen, <b>X. Shen</b>, and Y.C. Tseng (guest editors),<i> <a href="http://www.iis.sinica.edu.tw/page/jise/2010/201005.html" target="_blank"><span style="color:blue">J. Information Science and Engineering - Special Issue on Vehicular Wireless Networks and Vehicular Intelligent Transportation Systems</span></a>,</i> Institute of Information Science, Academia Sinica, 2009. </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, A. F. Molisch, Z. Niu and H. Zhang (guest editors),<i> </i></span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/46.pdf">ACM Wireless Networks - Special Issue on Selected papers from Chinacom'06</a></span><span><span><span><i>,</i> Vol. 15, No. 4, Springer Verlag, 2009. (ISSN 1022-0038) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, and B. Li (guest editors), </span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/qshine.pdf">ACM Wireless Networks - Special Issue on Quality of Service in Heterogeneous Wired/Wireless Networks</a></span><span><span><span><i>,</i> Vol. 15, No. 1, Springer Verlag, 2009. (ISSN 1022-0038) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>L. Cai, and <b>X. Shen</b>, (guest editors), <i><a href="http://www.inderscience.com/info/ingeneral/cfp.php?id=346" target="_blank"><span style="color:blue">International Journal of Sensor Networks (IJSNET) - Special Issue on Energy-Efficient Algorithm and Protocol Design in Sensor Networks</span></a>,</i> Vol. 4 - Issue 1/2, 2008. (ISSN 1748-1279)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Y. Yang, K. Papagiannaki, S. Ci, and <b>X. Shen</b> (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/49.pdf">IEEE Network - Special Issue on Wireless Mesh Networks: Applications, Architectures and Protocols</a></em></span><span><span><span><i>,</i> Vol. 21, No. 1, 2008. (ISSN 0890-8044) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, Q. Zhang, and R. C. Qiu (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/50.pdf">IEEE Wireless Communications - Special Issue on Wireless Sensor Networking</a></em></span><span><span><span><i>,</i> Vol. 14, No. 6, 2007. (ISSN 1536-1284) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, P. Lin, Y.B. Lin, and Y. T. Hou (guest editors), </span></span></span><span> <em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/51.pdf">ACM Mobile Networks &amp; Applications - Special Issue on Next Generation Wireless Technologies (Springer Verlag)</a></em></span><span><span><span><i>, </i>Vol. 12, No. 1, 2007. (ISSN 1383-469X) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Y. Xiao, <b>X. Shen</b>, and D. Du (editors), <i><a href="http://bbcr.uwaterloo.ca/~xshen/graphics/wns_book.jpg" target="_blank"><span style="color:blue">Wireless Network Security - Springer Series on Signals and Communication Technology</span></a>,</i> Springer Verlag, 2007. (ISSN 0387280405)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, N. Maxemchuk, and L. Cai (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/53.pdf">IEEE Trans. on Vehicular Technology - Special Section on Vehicular Communications Networks</a></em></span><span><span><span><i>, </i>Vol. 56, No. 6, 2007. (ISSN 0018-9545)</span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, and Y. T. Hou (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/54.pdf">Mobile Networks &amp; Applications - Special Issue on Broadband Wireless Networking (Springer Verlag)</a></em></span><span><span><span><i>, </i>Vol. 11, No. 5, 2006. (ISSN 1022-0038) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, C. Lin, Y. Sun, J. Pan, P. Langendoerfer, and Z. Cao (guest editors), <i><a href="http://onlinelibrary.wiley.com/doi/10.1002/wcm.393/abstract" target="_blank"><span style="color:blue">Wireless Communications and Mobile Computing - Special Issue on Wireless Network Security</span></a> (John Wiley &amp; Sons, Inc.), </i>Vol. 6, No. 3, 2006. (ISSN 1530-8669) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Y. Fang, <b>X. Shen</b>, and S. Chen (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/56.pdf">IEEE Trans. on Vehicular Technology - Special Section on Cross-Layer Design for Mobile ad hoc Networks and Sensor Networks</a></em></span><span><span><span><i>, </i>Vol. 55, No. 3, 2006. (ISSN 0018-9545) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, M. Guizani, R.C. Qiu, and T. Le-Ngoc (editors), <i><a href="http://bbcr.uwaterloo.ca/~xshen/graphics/uwb_book.jpg" target="_blank"><span style="color:blue">Ultra-Wideband Wireless Communications and Networks</span></a>, </i>John Wiley &amp; Sons, Inc., 2006. (ISSN 0470011440) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, M. Guizani, H.H. Chen, R.C. Qiu, and A.F. Molisch (editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/58.pdf">IEEE JSAC - Special Issue on UWB Wireless Communications - Theory and Applications</a></em></span><span><span><span><i>,</i> Vol. 24, No. 4, 2006. (ISSN 0733-8716) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, H. Kobayashi, X. You, and J. Pan, (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/59.pdf">Wireless Communications and Mobile Computing - Special Issue on Medium Access Control Protocols for Wireless Ad Hoc Networks</a></em></span><span><span><span><i> (John Wiley &amp; Sons, Inc.),</i> Vol. 6, No. 6, 2006. (ISSN 1530-8669) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen</span></span></b><span><span>, Y.B. Lin, A.C. Pang, and J. Pan (guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/60.pdf">IEEE Wireless Communications - Special Issue on Voice over Wireless Local Area Network</a></em></span><span><span><span><i>, </i>Vol. 13, No. 1, 2006. (ISSN 1536-1284) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>P.H. Ho and <b>X. Shen </b>(guest editors), <i>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Applications and Algorithms - Special Issue on Routing/Signaling Protocols for Wired/Wireless Communications Networks, </i>Watam Press, Vol. 13, No. 1, February, 2006. (ISSN 1492-8760) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>R. Qiu, R. Scholtz, and <b>X. Shen </b>(guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/62.pdf">IEEE Trans. on Vehicular Technology - Special Section on UWB Wireless Communications - A New Horizon</a></em></span><span><span><span><i>, </i>Vol. 54, No. 5, 2005. (ISSN 0018-9545) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>R. Boutaba, K. Almeroth, R. Puigjaner, <b>X. Shen</b>, and J. P. Black (editors), <i><a href="http://link.springer.com/book/10.1007/b136094" target="_blank"><span style="color:blue">Lecture Notes in Computer Science - 3462: Networking Technologies, Services, and Protocols; Performance of Comuter and Communication Networks; Mobile and Wireless Communications Systems</span></a>, </i>Springer Verlag, 2005. (ISSN 0302-9743) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>R. Qiu and <b>X. Shen </b>(guest editors), <i>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on UWB Wireless Communications, </i>Watam Press, Vol. 12, No. 3, 2005. (ISSN 1492-8760) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>K. Gong, W. Lu, and <b>X. Shen </b>(guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/65.pdf">IEEE Communications Magazine - Special Issue on China Wireless Communications: Technology vs. Markets</a></em></span><span><span><span><i>, </i>Vol. 43, No. 1, 2005. (ISSN 0163-6804) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>D. F. Hsu, K. Hiraki, <b>X. Shen,</b> and H. Sudborough (editors), <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9103" target="_blank"><i><span style="text-decoration:none"><span>Proc. of ISPAN'04, </span></span></i><span style="color:blue">IEEE Computer Society Press</span></a>, 2004. (ISBN 0-7695-2135-5) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>W. Lu, B.H. Walke, and <b>X. Shen </b>(guest editors), </span></span></span><span><em><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/67.pdf">IEEE Wireless Communications - Special Issue on 4G Mobile Communication: Towards Open Wireless Architecture</a></em></span><span><span><span><i>, </i>Vol. 11, No. 2, 2004. (ISSN 1536-1284) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Z. Gajic, M. Ikeda, and <b>X. Shen </b>(guest editors), <i>Dynamics of Continuous, Discrete and Impulse Systems, Series A: Mathematical Analysis - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), </i>Watam Press, Vol. 11, No. 2-3, April, 2004. (ISSN 1201-3390) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Z. Gajic, M. Ikeda, and <b>X. Shen </b>(guest editors), <i>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Applications and Algorithms - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), </i>Watam Press, Vol. 11, No. 4-5, August, 2004. (ISSN 1492-8760) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><b><span><span>X. Shen </span></span></b><span><span>(guest editor), <i>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on Communication Networks, </i>Watam Press, Vol. 10, No. 4, 2003. (ISSN 1492-8760) </span></span></span>
+    </p>
+  </li>
+  <li style="margin-bottom:.0001pt">
+    <p>
+      <span><span><span>Z. Gajic and <b>X. Shen </b>(authors), <i><a href="http://bbcr.uwaterloo.ca/~xshen/graphics/Parellel_book.jpg" target="_blank"><span style="color:blue">Parallel Algorithm for Optimal Control of Large Scale Linear Systems, </span></a></i><a href="http://bbcr.uwaterloo.ca/~xshen/graphics/Parellel_book.jpg"><span style="color:blue">Springer Verlag</span></a>, New York-Berlin Heidelberg, 456 pages, March 1993. (ISSN 0-387-19825-3) </span></span></span>
+    </p>
+  </li>
+  <li>
+    <p>
+      <span><span><span>Z. Gajic, Dj. Petkovski and <b>X. Shen </b>(authors), <i><a href="http://bbcr.uwaterloo.ca/~xshen/graphics/Singularly.jpg" target="_blank"><span style="color:blue">Singularly Perturbed and Weakly Coupled Linear Control Systems - A Recursive Approach</span></a>, </i>Springer Verlag, New York-Berlin Heidelberg, 202 pages, March 1990. (ISSN 0-387-52333</span></span></span>
+    </p>
+  </li>
+  <li>
+    <p>
+      R. Qiu and <strong>X. Shen </strong>(guest editors), <em>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on UWB Wireless Communications, </em>Watam Press, Vol. 12, No. 3, 2005. (ISSN 1492-8760)
+    </p>
+  </li>
+  <li>
+    <p>
+      K. Gong, W. Lu, and <strong>X. Shen </strong>(guest editors), <span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/74_01.pdf">IEEE Communications Magazine - Special Issue on China Wireless Communications: Technology vs. Markets</a></span><em>, </em>Vol. 43, No. 1, 2005. (ISSN 0163-6804)
+    </p>
+  </li>
+  <li>
+    <p>
+      D. F. Hsu, K. Hiraki, <strong>X. Shen,</strong> and H. Sudborough (editors), <a href="https://ieeexplore.ieee.org/xpl/conhome/9103/proceeding"><em>Proc. of ISPAN'04, </em>IEEE Computer Society Press</a>, 2004. (ISBN 0-7695-2135-5)
+    </p>
+  </li>
+  <li>
+    <p>
+      W. Lu, B.H. Walke, and <strong>X. Shen </strong>(guest editors), <span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/76.pdf">IEEE Wireless Communications - Special Issue on 4G Mobile Communication: Towards Open Wireless Architecture</a></span><em>, </em>Vol. 11, No. 2, 2004. (ISSN 1536-1284)
+    </p>
+  </li>
+  <li>
+    <p>
+      Z. Gajic, M. Ikeda, and <strong>X. Shen </strong>(guest editors), <em>Dynamics of Continuous, Discrete and Impulse Systems, Series A: Mathematical Analysis - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), </em>Watam Press, Vol. 11, No. 2-3, April, 2004. (ISSN 1201-3390)
+    </p>
+  </li>
+  <li>
+    <p>
+      Z. Gajic, M. Ikeda, and <strong>X. Shen </strong>(guest editors), <em>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Applications and Algorithms - Special Issue on Stability and Decentralized Control of Complex Systems (in Honor of Professor Dragoslav D. Siljak's 70th Birthday), </em>Watam Press, Vol. 11, No. 4-5, August, 2004. (ISSN 1492-8760)
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>X. Shen </strong>(guest editor), <em>Dynamics of Continuous, Discrete and Impulse Systems, Series B: Application and Algorithm - Special Issue on Communication Networks, </em>Watam Press, Vol. 10, No. 4, 2003. (ISSN 1492-8760)
+    </p>
+  </li>
+  <li>
+    <p>
+      Z. Gajic and <strong>X. Shen </strong>(authors), <em>Parallel Algorithm for Optimal Control of Large Scale Linear Systems, </em><a href="http://bbcr.uwaterloo.ca/~xshen/graphics/Parellel_book.jpg">Springer Verlag</a>, New York-Berlin Heidelberg, 456 pages, March 1993. (ISSN 0-387-19825-3)
+    </p>
+  </li>
+  <li>
+    <p>
+      Z. Gajic, Dj. Petkovski and <strong>X. Shen </strong>(authors), <em>Singularly Perturbed and Weakly Coupled Linear Control Systems - A Recursive Approach, </em>Springer Verlag, New York-Berlin Heidelberg, 202 pages, March 1990. (ISSN 0-387-523332)
+    </p>
+  </li>
 </ol>
 
 

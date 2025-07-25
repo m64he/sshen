@@ -1278,252 +1278,252 @@ author_profile: true
   </li>
   <li>
     <p>
-      G. Xie, Z. Xiong, X. Zhang, R. Xie, Y. Liu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xie2024towards.pdf">Towards the Vehicular Metaverse: Exploring Distributed Inference with Transformer-Based Diffusion Model</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 12, pp. 19931-19936, 2024.
+      G. Xie, Z. Xiong, X. Zhang, R. Xie, Y. Liu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/xie2024towards.pdf">Towards the Vehicular Metaverse: Exploring Distributed Inference with Transformer-Based Diffusion Model</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 12, pp. 19931-19936, 2024.
     </p>
   </li>
   <li>
     <p>
-      M. Li, J. Gao, C. Zhou, L. Zhao, and  <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2024digital.pdf">Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 23, pp. 37942-37958, 2024.
+      M. Li, J. Gao, C. Zhou, L. Zhao, and  <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/li2024digital.pdf">Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 23, pp. 37942-37958, 2024.
     </p>
   </li>
   <li>
     <p>
-      H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, S. Cui, <strong>X. Shen, </strong>S. Mao, Z. Han, A. Jamalipour<strong>,</strong> H.V. Poor, and D. I. Kim,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/du2024the.pdf">The Age of Generative AI and AI-Generated Everything</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 501-512, 2024.
+      H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, S. Cui, <strong>X. Shen, </strong>S. Mao, Z. Han, A. Jamalipour<strong>,</strong> H.V. Poor, and D. I. Kim,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/du2024the.pdf">The Age of Generative AI and AI-Generated Everything</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 501-512, 2024.
     </p>
   </li>
   <li>
     <p>
-      X. Huang, Y. Tang, J. Li, N. Zhang, <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2024toward.pdf">Toward Effective Retrieval Augmented Generative Services in 6G Networks</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 459-467, 2024.
+      X. Huang, Y. Tang, J. Li, N. Zhang, <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/huang2024toward.pdf">Toward Effective Retrieval Augmented Generative Services in 6G Networks</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 459-467, 2024.
     </p>
   </li>
   <li>
     <p>
-      R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, S. Sun, <strong>X. Shen, and </strong>H.V. Poor,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2024interactive.pdf">Interactive AI with Retrieval-Augmented Generation for Next Generation Networking</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 414-424, 2024.
+      R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, S. Sun, <strong>X. Shen, and </strong>H.V. Poor,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhang2024interactive.pdf">Interactive AI with Retrieval-Augmented Generation for Next Generation Networking</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 414-424, 2024.
     </p>
   </li>
   <li>
     <p>
-      X. Huang, H. Yang, S. Hu, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2024digital3.pdf">Digital Twin-Driven Network Architecture for Video Streaming</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 334-341, 2024.
+      X. Huang, H. Yang, S. Hu, and <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/huang2024digital3.pdf">Digital Twin-Driven Network Architecture for Video Streaming</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 334-341, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. Chen, C. Yi, H. Du, D. Niyato, J. Kang, J. Cai, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2024a.pdf">A Revolution of Personalized Healthcare: Enabling Human Digital Twin with Mobile AIGC</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 234-242, 2024.
+      J. Chen, C. Yi, H. Du, D. Niyato, J. Kang, J. Cai, and <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/chen2024a.pdf">A Revolution of Personalized Healthcare: Enabling Human Digital Twin with Mobile AIGC</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 234-242, 2024.
     </p>
   </li>
   <li>
     <p>
-       W. Yang, Z. Xiong, T.Q.S. Quek, <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yang2024streamlined.pdf">Streamlined Transmission: A Semantic-Aware XR Deployment Framework Enhanced by Generative AI</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 29-38, 2024.
+       W. Yang, Z. Xiong, T.Q.S. Quek, <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/yang2024streamlined.pdf">Streamlined Transmission: A Semantic-Aware XR Deployment Framework Enhanced by Generative AI</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 6, pp. 29-38, 2024.
     </p>
   </li>
   <li>
     <p>
-      X. Huang, S. Hu, H. Yang, X. Wang, Y. Pei, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2024digital2.pdf">Digital Twin-Based Network Management for Better QoE in Multicast Short Video Streaming</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 11, pp. 16187-16202, 2024.
+      X. Huang, S. Hu, H. Yang, X. Wang, Y. Pei, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/huang2024digital2.pdf">Digital Twin-Based Network Management for Better QoE in Multicast Short Video Streaming</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 11, pp. 16187-16202, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Long, S. Zhao, S. Gong, B. Gu, D. Niyato, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/long2024aoi.pdf">AoI-aware Sensing Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Backscatter Networks</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 10, pp.15440-15455, 2024.
+      Y. Long, S. Zhao, S. Gong, B. Gu, D. Niyato, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/long2024aoi.pdf">AoI-aware Sensing Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Backscatter Networks</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 10, pp.15440-15455, 2024.
     </p>
   </li>
   <li>
     <p>
-      S. Feng, X. Lu, D. Niyato, Y. Wu, <strong>X. Shen</strong>, and W. Wang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/feng2024system.pdf">System-Level Security Solution for Hybrid D2D Communication in Heterogeneous D2D-Underlaid Cellular Network</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 10, pp. 15054-15069, 2024.
+      S. Feng, X. Lu, D. Niyato, Y. Wu, <strong>X. Shen</strong>, and W. Wang, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/feng2024system.pdf">System-Level Security Solution for Hybrid D2D Communication in Heterogeneous D2D-Underlaid Cellular Network</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 10, pp. 15054-15069, 2024.
     </p>
   </li>
   <li>
     <p>
-      Z. Huang, C. Liu, Y. Song, H. Wang, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2024manifold.pdf">Manifold Optimization Empowered Two-Timescale Channel Estimation for RIS-Assisted Systems</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 10, pp. 15034-15048, 2024.
+      Z. Huang, C. Liu, Y. Song, H. Wang, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/huang2024manifold.pdf">Manifold Optimization Empowered Two-Timescale Channel Estimation for RIS-Assisted Systems</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 10, pp. 15034-15048, 2024.
     </p>
   </li>
   <li>
     <p>
-      G. Liu, H. Du, D. Niyato, J. Kang, Z. Xiong, D.I. Kim, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2024semantic.pdf">Semantic Communications for Artificial Intelligence Generated Content (AIGC) Toward Effective Content Creation</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 5, pp. 295-303, 2024.
+      G. Liu, H. Du, D. Niyato, J. Kang, Z. Xiong, D.I. Kim, and <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/liu2024semantic.pdf">Semantic Communications for Artificial Intelligence Generated Content (AIGC) Toward Effective Content Creation</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 5, pp. 295-303, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Liu, H. Du, D. Niyato, J. Kang, S. Cui, <strong>X. Shen</strong>, and P. Zhang,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2024optimizing.pdf">Optimizing Mobile-Edge AI-Generated Everything (AIGX) Services by Prompt Engineering: Fundamental, Framework, and Case Study</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 5, pp. 220-228, 2024.
+      Y. Liu, H. Du, D. Niyato, J. Kang, S. Cui, <strong>X. Shen</strong>, and P. Zhang,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/liu2024optimizing.pdf">Optimizing Mobile-Edge AI-Generated Everything (AIGX) Services by Prompt Engineering: Fundamental, Framework, and Case Study</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 5, pp. 220-228, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. Chen, X. Liang, J. Xue, Y. Sun, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2024evolution.pdf">Evolution of RAN Architectures Towards 6G: Motivation, Development, and Enabling Technologies</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 26, No. 3, pp. 1950-1988, 2024.
+      J. Chen, X. Liang, J. Xue, Y. Sun, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/chen2024evolution.pdf">Evolution of RAN Architectures Towards 6G: Motivation, Development, and Enabling Technologies</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 26, No. 3, pp. 1950-1988, 2024.
     </p>
   </li>
   <li>
     <p>
-      K. Qu, W. Zhuang, Q. Ye, W. Wu, and <strong>X. Shen</strong>, “<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/qu2024model.pdf">Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles”</a>, <em>IEEE Trans. on Wireless Communications</em>, Vol. 23, No. 8, pp. 8820-8835, 2024.
+      K. Qu, W. Zhuang, Q. Ye, W. Wu, and <strong>X. Shen</strong>, “<a href="https://m64he.github.io/sshen.github.io/paper/2024/qu2024model.pdf">Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles”</a>, <em>IEEE Trans. on Wireless Communications</em>, Vol. 23, No. 8, pp. 8820-8835, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Zhou, Z. Wang, N. Ning, Z. Jin, N. Lu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2024i2t.pdf">I2T: From Intention Decoupling to Vehicular Trajectory Prediction Based on Prioriformer Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 25, No. 8, pp. 9411-9426, 2024.
+      Y. Zhou, Z. Wang, N. Ning, Z. Jin, N. Lu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhou2024i2t.pdf">I2T: From Intention Decoupling to Vehicular Trajectory Prediction Based on Prioriformer Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 25, No. 8, pp. 9411-9426, 2024.
     </p>
   </li>
   <li>
     <p>
-      R. Zhang, K. Xiong, H. Du, D. Niyato, J. Kang, H.V. Poor, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2024generative.pdf">Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 4, pp. 259-267, 2024.
+      R. Zhang, K. Xiong, H. Du, D. Niyato, J. Kang, H.V. Poor, and <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhang2024generative.pdf">Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 4, pp. 259-267, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Lin, Z. Gao, H. Du, D. Niyato, J. Kang, A. Jamalipour, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lin2024a.pdf">A Unified Framework for Integrating Semantic Communication and AI-Generated Content in Metaverse</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 4, pp. 174-181, 2024.
+      Y. Lin, Z. Gao, H. Du, D. Niyato, J. Kang, A. Jamalipour, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/lin2024a.pdf">A Unified Framework for Integrating Semantic Communication and AI-Generated Content in Metaverse</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 4, pp. 174-181, 2024.
     </p>
   </li>
   <li>
     <p>
-      N. Huang, C. Dou, Y. Wu, L. Qian, B. Lin, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2024mobile.pdf">Mobile Edge Computing aided Integrated Sensing and Communication with Short-Packet Transmissions</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 7, pp. 7759-7774, 2024.
+      N. Huang, C. Dou, Y. Wu, L. Qian, B. Lin, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/huang2024mobile.pdf">Mobile Edge Computing aided Integrated Sensing and Communication with Short-Packet Transmissions</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 7, pp. 7759-7774, 2024.
     </p>
   </li>
   <li>
     <p>
-      X. Zhuo, W. Wu, L. Tang, F. Qu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhuo2024value.pdf">Value of Information-Based Packet Scheduling Scheme for AUV-Assisted UASNs</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 7, pp. 7172-7185, 2024.
+      X. Zhuo, W. Wu, L. Tang, F. Qu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhuo2024value.pdf">Value of Information-Based Packet Scheduling Scheme for AUV-Assisted UASNs</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 7, pp. 7172-7185, 2024.
     </p>
   </li>
   <li>
     <p>
-      M. Xu, H. Du, D. Niyato, J. Kang, Z. Xiong, S. Mao, Z. Han, A. Jamalipour, D.I. Kim, <strong>X. Shen</strong>, V. Leung, and H.V. Poor,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xu2024unleashing.pdf">Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 26, No. 2, pp. 1127-1170, 2024.
+      M. Xu, H. Du, D. Niyato, J. Kang, Z. Xiong, S. Mao, Z. Han, A. Jamalipour, D.I. Kim, <strong>X. Shen</strong>, V. Leung, and H.V. Poor,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/xu2024unleashing.pdf">Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 26, No. 2, pp. 1127-1170, 2024.
     </p>
   </li>
   <li>
     <p>
-      H. Du, R. Zhang, D. Niyato, J. Kang, Z. Xiong, D.I. Kim, <strong>X. Shen</strong>, and H. V. Poor,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/du2024exploring.pdf">Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 3, pp. 178-186, 2024.
+      H. Du, R. Zhang, D. Niyato, J. Kang, Z. Xiong, D.I. Kim, <strong>X. Shen</strong>, and H. V. Poor,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/du2024exploring.pdf">Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 3, pp. 178-186, 2024.
     </p>
   </li>
   <li>
     <p>
-      W. Jiang, B. Ai, M. Li, W. Wu, Y. Pei, and <strong>X. Shen</strong>, “<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/jiang2024aerial.pdf">Aerial IRSs Assisted Energy-Eﬀicient Task Offloading and Computing</a>”, <em>IEEE IoT Journal,</em> Vol. 11, No. 11, pp. 20178-20193, 2024.
+      W. Jiang, B. Ai, M. Li, W. Wu, Y. Pei, and <strong>X. Shen</strong>, “<a href="https://m64he.github.io/sshen.github.io/paper/2024/jiang2024aerial.pdf">Aerial IRSs Assisted Energy-Eﬀicient Task Offloading and Computing</a>”, <em>IEEE IoT Journal,</em> Vol. 11, No. 11, pp. 20178-20193, 2024.
     </p>
   </li>
   <li>
     <p>
-      H. Yang, N. Cheng, R. Sun, W. Quan, R. Chai, K. Aldubaikhy, A. Alqasir, and <strong>X. Shen</strong>, “<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yang2024knowledge.pdf">Knowledge-Driven Resource Allocation for Wireless Networks: A WMMSE Unrolled Graph Neural Network Approach</a>”, <em>IEEE IoT Journal,</em> Vol. 11, No. 10, pp. 18902-18916, 2024.
+      H. Yang, N. Cheng, R. Sun, W. Quan, R. Chai, K. Aldubaikhy, A. Alqasir, and <strong>X. Shen</strong>, “<a href="https://m64he.github.io/sshen.github.io/paper/2024/yang2024knowledge.pdf">Knowledge-Driven Resource Allocation for Wireless Networks: A WMMSE Unrolled Graph Neural Network Approach</a>”, <em>IEEE IoT Journal,</em> Vol. 11, No. 10, pp. 18902-18916, 2024.
     </p>
   </li>
   <li>
     <p>
-      C. Zhou, J. Gao, M. Li, N. Cheng, <strong>X. Shen</strong>, and W. Zhuang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2024digital.pdf">Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 10, pp. 17812-17826, 2024.
+      C. Zhou, J. Gao, M. Li, N. Cheng, <strong>X. Shen</strong>, and W. Zhuang, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhou2024digital.pdf">Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 10, pp. 17812-17826, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Cao, S.Y. Lien, Y.C. Liang, D. Niyato, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/cao2024collaborative.pdf">Collaborative Computing in Non-Terrestrial Networks: A Multi-Time-Scale Deep Reinforcement Learning Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 5, pp. 4932-4949, 2024.
+      Y. Cao, S.Y. Lien, Y.C. Liang, D. Niyato, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/cao2024collaborative.pdf">Collaborative Computing in Non-Terrestrial Networks: A Multi-Time-Scale Deep Reinforcement Learning Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 5, pp. 4932-4949, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. Hou, D. Liu, C. Huang, W. Zhuang, <strong>X. Shen</strong>, R. Sun, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/how2024data.pdf">Data Protection: Privacy-preserving Data Collection with Validation</a>", IEEE Trans. on Dependable and Secure Computing, Vol. 21, No. 4, pp. 3422-3438, 2024.
+      J. Hou, D. Liu, C. Huang, W. Zhuang, <strong>X. Shen</strong>, R. Sun, and B. Ying, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/how2024data.pdf">Data Protection: Privacy-preserving Data Collection with Validation</a>", IEEE Trans. on Dependable and Secure Computing, Vol. 21, No. 4, pp. 3422-3438, 2024.
     </p>
   </li>
   <li>
     <p>
-      E. Shi, J. Zhang, H. Du, B. Ai, C. Yuen, D. Niyato, K. B. Letaief, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/shi2024ris.pdf">RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications</a>", <em>Proceedings of the IEEE</em><em>,</em> Vol. 112, No. 4, pp. 331-364, 2024.
+      E. Shi, J. Zhang, H. Du, B. Ai, C. Yuen, D. Niyato, K. B. Letaief, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/shi2024ris.pdf">RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications</a>", <em>Proceedings of the IEEE</em><em>,</em> Vol. 112, No. 4, pp. 331-364, 2024.
     </p>
   </li>
   <li>
     <p>
-      W. Zhang, D. Yang, C. Zhang, Q. Ye, H. Zhang, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2024com.pdf">(Com)<sup>2</sup>Net: A Novel Communication and Computation Integrated Network Architecture</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 2, pp. 35-44, 2024.
+      W. Zhang, D. Yang, C. Zhang, Q. Ye, H. Zhang, and <strong>X. Shen</strong>,  "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhang2024com.pdf">(Com)<sup>2</sup>Net: A Novel Communication and Computation Integrated Network Architecture</a>", <em>IEEE Network Magazine,</em> Vol. 38, No. 2, pp. 35-44, 2024.
     </p>
   </li>
   <li>
     <p>
-      H. Wu, M. He, <strong>X. Shen</strong>, W. Zhuang, N. Dao, and W. Shi, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wu2024network.pdf">Network Performance Analysis of Satellite-Terrestrial Vehicular Network</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 16829-16844, 2024.
+      H. Wu, M. He, <strong>X. Shen</strong>, W. Zhuang, N. Dao, and W. Shi, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/wu2024network.pdf">Network Performance Analysis of Satellite-Terrestrial Vehicular Network</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 16829-16844, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. He, N. Cheng, Z. Yin, H. Zhou, C. Zhou, K. Aldubaikhy, A. Alqasir, and  <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/he2024load.pdf">Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 15969-15984, 2024.
+      J. He, N. Cheng, Z. Yin, H. Zhou, C. Zhou, K. Aldubaikhy, A. Alqasir, and  <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/he2024load.pdf">Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 15969-15984, 2024.
     </p>
   </li>
   <li>
     <p>
-      T. Liu, L. Lei, K. Zheng, and  <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2024multitimescale.pdf">Multi-Timescale Control and Communications with Deep Reinforcement Learning - Part I: Communication-Aware Vehicle Control</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 15386-15401, 2024.
+      T. Liu, L. Lei, K. Zheng, and  <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/liu2024multitimescale.pdf">Multi-Timescale Control and Communications with Deep Reinforcement Learning - Part I: Communication-Aware Vehicle Control</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 15386-15401, 2024.
     </p>
   </li>
   <li>
     <p>
-      L. Lei, T. Liu, K. Zheng, and  <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lei2024multitimescale.pdf">Multi-Timescale Control and Communications with Deep Reinforcement Learning - Part II: Control-Aware Radio Resource Allocation</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 15475-15489, 2024.
+      L. Lei, T. Liu, K. Zheng, and  <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/lei2024multitimescale.pdf">Multi-Timescale Control and Communications with Deep Reinforcement Learning - Part II: Control-Aware Radio Resource Allocation</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 9, pp. 15475-15489, 2024.
     </p>
   </li>
   <li>
     <p>
-      X. Huang, W. Wu, S. Hu, M. Li, C. Zhou, <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2024digital.pdf">Digital Twin Based User-Centric Resource Management for Multicast Short Video Streaming</a>", <em>IEEE J. Selected Topics in Signal Processing</em>, Vol. 18, No. 1, pp. 50-65, 2024.
+      X. Huang, W. Wu, S. Hu, M. Li, C. Zhou, <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/huang2024digital.pdf">Digital Twin Based User-Centric Resource Management for Multicast Short Video Streaming</a>", <em>IEEE J. Selected Topics in Signal Processing</em>, Vol. 18, No. 1, pp. 50-65, 2024.
     </p>
   </li>
   <li>
     <p>
-      S. Hu, M. Li, J. Gao, C. Zhou, and  <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/hu2024adaptive.pdf">Adaptive Device-Edge Collaboration on DNN Inference in AIoT: A Digital Twin-Assisted Approach</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 7, pp. 12893-12908, 2024.
+      S. Hu, M. Li, J. Gao, C. Zhou, and  <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/hu2024adaptive.pdf">Adaptive Device-Edge Collaboration on DNN Inference in AIoT: A Digital Twin-Assisted Approach</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 7, pp. 12893-12908, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. Chen, X. Wang, <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2024rte.pdf">RTE: Rapid and Reliable Trust Evaluation for Collaborator Selection and Time-Sensitive Task Handling in Internet of Vehicles</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 7, pp. 12278-12291, 2024.
+      J. Chen, X. Wang, <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/chen2024rte.pdf">RTE: Rapid and Reliable Trust Evaluation for Collaborator Selection and Time-Sensitive Task Handling in Internet of Vehicles</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 7, pp. 12278-12291, 2024.
     </p>
   </li>
   <li>
     <p>
-      Z. Ma, W. Wu, F. Gao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ma2024model.pdf">Model-Driven Deep Learning for Non-Coherent Massive Machine-Type Communications</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 3, pp. 2197-2211, 2024.
+      Z. Ma, W. Wu, F. Gao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/ma2024model.pdf">Model-Driven Deep Learning for Non-Coherent Massive Machine-Type Communications</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 3, pp. 2197-2211, 2024.
     </p>
   </li>
   <li>
     <p>
-      D. Chen, L. Zhang, Z. Liao, H. Dai, N. Zhang, <strong>X. Shen</strong>, and M. Pang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2024flexible.pdf">Flexible and Fine-grained Access Control for EHR in Blockchain-assisted E-healthcare Systems</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 6, pp. 10992-11007, 2024.
+      D. Chen, L. Zhang, Z. Liao, H. Dai, N. Zhang, <strong>X. Shen</strong>, and M. Pang, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/chen2024flexible.pdf">Flexible and Fine-grained Access Control for EHR in Blockchain-assisted E-healthcare Systems</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 6, pp. 10992-11007, 2024.
     </p>
   </li>
   <li>
     <p>
-      I. Lotfi, D. Niyato, S. Sun, D. I. Kim, <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lotfi2024semantic.pdf">Semantic Information Marketing in The Metaverse: A Learning-Based Contract Theory Framework</a>", <em>IEEE J. Selected Areas in Communications - Special Issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks</em>, Vol. 42, No. 3, pp. 710-723, 2024.
+      I. Lotfi, D. Niyato, S. Sun, D. I. Kim, <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/lotfi2024semantic.pdf">Semantic Information Marketing in The Metaverse: A Learning-Based Contract Theory Framework</a>", <em>IEEE J. Selected Areas in Communications - Special Issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks</em>, Vol. 42, No. 3, pp. 710-723, 2024.
     </p>
   </li>
   <li>
     <p>
-      D. Liu, C. Huang, L. Xue, W. Zhuang, <strong>X. Shen</strong>, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2024collaborative.pdf">Collaborative and Verifiable VNF Management for Metaverse with Efficient Modular Designs</a>", IEEE J. Selected Areas in Communications - Special Issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, Vol. 42, No. 3, pp. 616-628, 2024.
+      D. Liu, C. Huang, L. Xue, W. Zhuang, <strong>X. Shen</strong>, and B. Ying, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/liu2024collaborative.pdf">Collaborative and Verifiable VNF Management for Metaverse with Efficient Modular Designs</a>", IEEE J. Selected Areas in Communications - Special Issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, Vol. 42, No. 3, pp. 616-628, 2024.
     </p>
   </li>
   <li>
     <p>
-      H. Zheng, K. Xiong. M. Sun, H. Wu, Z. Zhong, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zheng2024maximizing.pdf">Maximizing Age-Energy Efficiency in Wireless Powered Industrial IoE  Networks: A Dual-Layer DQN-Based Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 2, pp. 1276-1292, 2024.
+      H. Zheng, K. Xiong. M. Sun, H. Wu, Z. Zhong, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zheng2024maximizing.pdf">Maximizing Age-Energy Efficiency in Wireless Powered Industrial IoE  Networks: A Dual-Layer DQN-Based Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 23, No. 2, pp. 1276-1292, 2024.
     </p>
   </li>
   <li>
     <p>
-      R. Kaewpuang, M. Xu, W.Y. Lim, D. Niyato, H. Yu, W. Kang, and <strong>X. Shen,</strong> "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/kaewpuang2024cooperative.pdf">Cooperative Resource Management in Quantum Key Distribution  Networks for Semantic Communication</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 3, pp. 4454-4469, 2024.
+      R. Kaewpuang, M. Xu, W.Y. Lim, D. Niyato, H. Yu, W. Kang, and <strong>X. Shen,</strong> "<a href="https://m64he.github.io/sshen.github.io/paper/2024/kaewpuang2024cooperative.pdf">Cooperative Resource Management in Quantum Key Distribution  Networks for Semantic Communication</a>", <em>IEEE IoT Journal,</em> Vol. 11, No. 3, pp. 4454-4469, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Jiang, L. Wang, H.H. Chen, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/jiang2024physical.pdf">Physical Layer Covert Communication in B5G Wireless Networks -- Its Research, Applications and Challenges</a>", <em>Proceedings of the IEEE</em><em>,</em> Vol. 112, No. 1, pp. 47-82, 2024.
+      Y. Jiang, L. Wang, H.H. Chen, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/jiang2024physical.pdf">Physical Layer Covert Communication in B5G Wireless Networks -- Its Research, Applications and Challenges</a>", <em>Proceedings of the IEEE</em><em>,</em> Vol. 112, No. 1, pp. 47-82, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. Chen, C. Yi, S. D. Okegbile J. Cai, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2024networking.pdf">Networking Architecture and Key Supporting Technologies for Human Digital Twin in Personalized Healthcare: A Comprehensive Survey</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 26, No. 1, pp. 706-746, 2024.
+      J. Chen, C. Yi, S. D. Okegbile J. Cai, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/chen2024networking.pdf">Networking Architecture and Key Supporting Technologies for Human Digital Twin in Personalized Healthcare: A Comprehensive Survey</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 26, No. 1, pp. 706-746, 2024.
     </p>
   </li>
   <li>
     <p>
-      W. Jiang, B. Ai, C. Shen, M. Li, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/jiang2024age.pdf">Age-of-Information Minimization for UAV-based Multi-view Sensing and Communication</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 1, pp. 1100-1114, 2024.
+      W. Jiang, B. Ai, C. Shen, M. Li, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/jiang2024age.pdf">Age-of-Information Minimization for UAV-based Multi-view Sensing and Communication</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 1, pp. 1100-1114, 2024.
     </p>
   </li>
   <li>
     <p>
-      J. Zhou, D. Tian, Y. Yan, X. Duan, and <strong>X. Shen</strong>, "<a href="http://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2024joint.pdf">Joint Optimization of Mobility and Reliability-Guaranteed Air-to-Ground Communication for UAVs</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 23, No. 1, pp. 566-580, 2024.
+      J. Zhou, D. Tian, Y. Yan, X. Duan, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/zhou2024joint.pdf">Joint Optimization of Mobility and Reliability-Guaranteed Air-to-Ground Communication for UAVs</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 23, No. 1, pp. 566-580, 2024.
     </p>
   </li>
   <li>
     <p>
-      Y. Chen, J. Zhao, Y. Wu, J. Huang, and <strong>X. Shen</strong>, "<a href="http://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2024qoe.pdf">QoE-aware Decentralized Task Offloading and Resource Allocation for End-Edge-Cloud Systems: A Game-Theoretical Approach</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 23, No. 1, pp. 769-784, 2024.
+      Y. Chen, J. Zhao, Y. Wu, J. Huang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/chen2024qoe.pdf">QoE-aware Decentralized Task Offloading and Resource Allocation for End-Edge-Cloud Systems: A Game-Theoretical Approach</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 23, No. 1, pp. 769-784, 2024.
     </p>
   </li>
   <li>
     <p>
-      S. Duan, F. Lyu, H. Wu, W. Chen, H. Lu, Z. Dong, and <strong>X. Shen</strong>, <a href="http://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/duan2024mobility.pdf">"MOTO: Mobility-Aware Online Task Offloading with Adaptive Load Balancing in Small-Cell MEC</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 23, No. 1, pp. 645-659, 2024.
+      S. Duan, F. Lyu, H. Wu, W. Chen, H. Lu, Z. Dong, and <strong>X. Shen</strong>, <a href="https://m64he.github.io/sshen.github.io/paper/2024/duan2024mobility.pdf">"MOTO: Mobility-Aware Online Task Offloading with Adaptive Load Balancing in Small-Cell MEC</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 23, No. 1, pp. 645-659, 2024.
     </p>
   </li>
   <li>
     <p>
-      S. Yang, P. Yang, J. Chen, Q. Ye, N. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yang2024delay.pdf">Delay-Optimized Multi-User VR Streaming via End-Edge Collaborative Neural Frame Interpolation</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 11, No. 1, pp. 284-298, 2024.
+      S. Yang, P. Yang, J. Chen, Q. Ye, N. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/yang2024delay.pdf">Delay-Optimized Multi-User VR Streaming via End-Edge Collaborative Neural Frame Interpolation</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 11, No. 1, pp. 284-298, 2024.
     </p>
   </li>
   <li>

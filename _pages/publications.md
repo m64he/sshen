@@ -587,7 +587,6 @@ author_profile: true
   </li>
 </ol>
 
-
 [\[BACK TO TOP\]](#publications_top)
 
 ## Book Chapters
@@ -806,11 +805,16 @@ author_profile: true
   </li>
 </ol>
 
+<a id="journal_top"></a>
 [\[BACK TO TOP\]](#publications_top)
 
 ## Journals / IEEE Magazine Papers
 
-### 2025
+[<strong>2025</strong>](#journal_2025) | [<strong>2024</strong>](#journal_2024) | [<strong>2023</strong>](#journal_2023) | [<strong>2022</strong>](#journal_2022) | [<strong>2021</strong>](#journal_2021) | [<strong>2020 and Before</strong>](#journal_2020) | 
+
+<a id="journal_2025"></a>
+
+<strong>2025</strong>
 
 <ol>
   <li>
@@ -1295,9 +1299,11 @@ author_profile: true
   </li>
 </ol>
 
-[\[BACK TO TOP\]](#publications_top)
+<a id="journal_2024"></a>
 
-### 2024 
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2024</strong> 
 
 <ol>
   <li>
@@ -1552,9 +1558,11 @@ author_profile: true
   </li>
 </ol>
 
-[\[BACK TO TOP\]](#publications_top)
+<a id="journal_2023"></a>
 
-### 2023
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2023</strong> 
 
 <ol>
   <li>
@@ -1819,9 +1827,11 @@ author_profile: true
   </li>
 </ol>
 
-[\[BACK TO TOP\]](#publications_top)
+<a id="journal_2022"></a>
 
-### 2022
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2022</strong> 
 
 <ol>
   <li>
@@ -2171,9 +2181,11 @@ author_profile: true
   </li>
 </ol>
 
-[\[BACK TO TOP\]](#publications_top)
+<a id="journal_2021"></a>
 
-### 2021
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2021</strong> 
 
 <ol>
   <li>
@@ -2508,9 +2520,11 @@ author_profile: true
   </li>
   </ol>
 
-[\[BACK TO TOP\]](#publications_top)
+<a id="journal_2020"></a>
 
-### 2020 and Before
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2020 and Before</strong>
 
 <ol>
   <li>

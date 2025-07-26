@@ -810,6 +810,8 @@ author_profile: true
 
 ## Journals / IEEE Magazine Papers
 
+### 2025
+
 <ol>
   <li>
     <p>
@@ -823,12 +825,22 @@ author_profile: true
   </li>
   <li>
     <p>
-      J. Li, H. Zhang, S. Ke, J. Huang, N. Chen, and <strong>X. Shen</strong>, "Non-Cooperative Multi-Agent Reinforcement Learning Exploiting Population Dynamics", <em>IEEE Trans. on Network Science and Engineering,</em> to appear.
+      X. Wang, Q. Zhang, N. Cheng, J. Chen, Z. Zhang, Z. Li, S. Cui, and <strong>X. Shen</strong>, "RadioDiff-3D: A 3D×3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication", <em>IEEE Trans. on Network Science and Engineering - Special Issue on Integrating Generative AI into Mobile Networkin</em>g<em>,</em> to appear.
     </p>
   </li>
   <li>
     <p>
       G. Gui, Guan, C. Liu, Y. Wang, T. Ohtsuki, D. Niyato, and <strong>X. Shen</strong>, "A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      L. Tian, F. Lin, J. Gan, J. Qi, R. Jia, Z. Zheng, M. Li, and <strong>X. Shen</strong>, "Enhancing Security in Parallel Federated Learning with Sharded Blockchain for Internet of Vehicles", <em>IEEE Trans. on Vehicular Technology,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      W. Wang, N. Cheng, C. Zhou, H. Peng, H. Zhou, Z. Su, and <strong>X. Shen</strong>,  "An Enhanced Dual-Currency VCG Auction Mechanism for Resource Allocation in IoV: A Value of Information Perspective", <em>IEEE Trans. on Mobile Computing,</em> to appear.
     </p>
   </li>
   <li>
@@ -839,6 +851,11 @@ author_profile: true
   <li>
     <p>
       R. Sun, N. Cheng, C. Li, W. Quan, H. Zhou, Y. Wang, W. Zhang, and <strong>X. Shen</strong>, "A Comprehensive Survey of Knowledge-Driven Deep Learning for Intelligent Wireless Network Optimization in 6G", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      J. Li, H. Zhang, S. Ke, J. Huang, N. Chen, and <strong>X. Shen</strong>, "Non-Cooperative Multi-Agent Reinforcement Learning Exploiting Population Dynamics", <em>IEEE Trans. on Network Science and Engineering,</em> to appear.
     </p>
   </li>
   <li>
@@ -884,11 +901,6 @@ author_profile: true
   <li>
     <p>
       J. Xue, D. Yuan, Z. Ma, T. Jiang, Y. Sun, H. Zhou, and <strong>X. Shen</strong>,  "Large AI Model for Delay-Doppler Domain Channel Prediction in 6G OTFS-Based Vehicular Networks", <em>SCIENCE CHINA Information Sciences</em><em>,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      W. Yao, H. Peng, Q. Li, and <strong>X. Shen</strong>, "Modeling Realistic Adversarial Traffic Against Deep Learning-Based Intrusion Detection System in Industrial IoT", <em>IEEE IoT Journal,</em> to appear.
     </p>
   </li>
   <li>
@@ -1008,11 +1020,6 @@ author_profile: true
   </li>
   <li>
     <p>
-      H. Xiang, C. Yi, K. Wu, J. Chen, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study", <em>IEEE Network Magazine,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
       H. Lu, F. Lyu, J. Ren, H. Wu, C. Zhou, Y. Zhang, and <strong>X. Shen</strong>, "CODE+: Fast and Accurate Inference for Compact Distributed IoT Data Collection", <em>IEEE Trans. on Parallel and Distributed Systems</em><em>,</em> to appear.
     </p>
   </li>
@@ -1068,7 +1075,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      M. Shen, Z. Tan, D. Niyato, Y. Liu, J. Kang, Z. Xiong, L. Zhu, W. Wang, and <strong>X. Shen</strong>, "Artificial Intelligence for Web 3.0: A Comprehensive Survey", <em><span><span><span>ACM Computing Surveys</span></span></span>,</em> to appear.
+      M. Shen, Z. Tan, D. Niyato, Y. Liu, J. Kang, Z. Xiong, L. Zhu, W. Wang, and <strong>X. Shen</strong>, "Artificial Intelligence for Web 3.0: A Comprehensive Survey", <em><span><span><span style="color:black">ACM Computing Surveys</span></span></span>,</em> to appear.
     </p>
   </li>
   <li>
@@ -1173,7 +1180,17 @@ author_profile: true
   </li>
   <li>
     <p>
+      H. Xiang, C. Yi, K. Wu, J. Chen, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xiang2025realizing.pdf">Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 4, pp. 271-279, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
       Y. Lin, Z, Gao, H. Du, D. Niyato, J. Kang, R. Deng, and <strong>X. Shen</strong>, "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0", <em>IEEE Wireless Communications,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      W. Yao, H. Peng, Q. Li, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yao2025modeling.pdf">Modeling Realistic Adversarial Traffic Against Deep Learning-Based Intrusion Detection System in Industrial IoT</a>", <em>IEEE IoT Journal,</em> Vol. 12, No. 15, pp. 29540-29554, 2025.
     </p>
   </li>
   <li>
@@ -1276,6 +1293,11 @@ author_profile: true
       A.S. Matar, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/matar2025joint.pdf">Joint Optimization of User Association, Power Control, and Dynamic Spectrum Sharing for Integrated Aerial-Terrestrial Network</a>", <em>IEEE J. Selected Areas in Communications - Special Issue on IGAS</em>, Vol. 43, No. 1, pp. 396-409, 2025.
     </p>
   </li>
+
+  [\[BACK TO TOP\]](#publications_top)
+
+  ### 2024 
+
   <li>
     <p>
       G. Xie, Z. Xiong, X. Zhang, R. Xie, Y. Liu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/xie2024towards.pdf">Towards the Vehicular Metaverse: Exploring Distributed Inference with Transformer-Based Diffusion Model</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 12, pp. 19931-19936, 2024.
@@ -1526,6 +1548,11 @@ author_profile: true
       S. Yang, P. Yang, J. Chen, Q. Ye, N. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/yang2024delay.pdf">Delay-Optimized Multi-User VR Streaming via End-Edge Collaborative Neural Frame Interpolation</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 11, No. 1, pp. 284-298, 2024.
     </p>
   </li>
+
+  [\[BACK TO TOP\]](#publications_top)
+
+  ### 2023
+
   <li>
     <p>
       L. Xue, J. Ni, D. Liu, X. Lin, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xue2023fair.pdf">Blockchain-based Fair and Fine-grained Data Trading with Privacy Preservation</a>", <em>IEEE Trans. on Computers,</em> Vol. 72, No. 9, pp. 2440-2453, 2023.
@@ -1786,6 +1813,11 @@ author_profile: true
       Y. Han, D. Niyato, C. Leung, D.I. Kim, K. Zhu, S. Feng, <strong>X. Shen</strong>, and C. Miao, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/han2023dynamic.pdf">A Dynamic Hierarchical Framework for IoT-assisted Digital Twin Synchronization in the Metaverse</a>", <em>IEEE IoT Journal,</em> Vol. 10, No. 1, pp. 268-284, 2023.
     </p>
   </li>
+
+  [\[BACK TO TOP\]](#publications_top)
+
+  ### 2022
+
   <li>
     <p>
       X. Zhang, B. Qian, X. Qin, T. Ma, J. Chen, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2022cybertwin.pdf">Cybertwin Assisted Mode Selection in Ultra-Dense LEO Integrated Satellite-Terrestrial Network</a>", <em>J. Communications and Information Networks,</em> Vol. 7, No. 4, pp. 360-374, 2022.

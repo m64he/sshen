@@ -1293,11 +1293,13 @@ author_profile: true
       A.S. Matar, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/matar2025joint.pdf">Joint Optimization of User Association, Power Control, and Dynamic Spectrum Sharing for Integrated Aerial-Terrestrial Network</a>", <em>IEEE J. Selected Areas in Communications - Special Issue on IGAS</em>, Vol. 43, No. 1, pp. 396-409, 2025.
     </p>
   </li>
+</ol>
 
-  [\[BACK TO TOP\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
-  ### 2024 
+### 2024 
 
+<ol>
   <li>
     <p>
       G. Xie, Z. Xiong, X. Zhang, R. Xie, Y. Liu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/xie2024towards.pdf">Towards the Vehicular Metaverse: Exploring Distributed Inference with Transformer-Based Diffusion Model</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 73, No. 12, pp. 19931-19936, 2024.
@@ -1548,11 +1550,13 @@ author_profile: true
       S. Yang, P. Yang, J. Chen, Q. Ye, N. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/sshen.github.io/paper/2024/yang2024delay.pdf">Delay-Optimized Multi-User VR Streaming via End-Edge Collaborative Neural Frame Interpolation</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 11, No. 1, pp. 284-298, 2024.
     </p>
   </li>
+</ol>
 
-  [\[BACK TO TOP\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
-  ### 2023
+### 2023
 
+<ol>
   <li>
     <p>
       L. Xue, J. Ni, D. Liu, X. Lin, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xue2023fair.pdf">Blockchain-based Fair and Fine-grained Data Trading with Privacy Preservation</a>", <em>IEEE Trans. on Computers,</em> Vol. 72, No. 9, pp. 2440-2453, 2023.
@@ -1813,11 +1817,13 @@ author_profile: true
       Y. Han, D. Niyato, C. Leung, D.I. Kim, K. Zhu, S. Feng, <strong>X. Shen</strong>, and C. Miao, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/han2023dynamic.pdf">A Dynamic Hierarchical Framework for IoT-assisted Digital Twin Synchronization in the Metaverse</a>", <em>IEEE IoT Journal,</em> Vol. 10, No. 1, pp. 268-284, 2023.
     </p>
   </li>
+</ol>
 
-  [\[BACK TO TOP\]](#publications_top)
+[\[BACK TO TOP\]](#publications_top)
 
-  ### 2022
+### 2022
 
+<ol>
   <li>
     <p>
       X. Zhang, B. Qian, X. Qin, T. Ma, J. Chen, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2022cybertwin.pdf">Cybertwin Assisted Mode Selection in Ultra-Dense LEO Integrated Satellite-Terrestrial Network</a>", <em>J. Communications and Information Networks,</em> Vol. 7, No. 4, pp. 360-374, 2022.
@@ -2163,6 +2169,13 @@ author_profile: true
       <strong>X. Shen</strong>, D. Liu, C. Huang, L. Xue, H. Yin, W. Zhuang, R. Sun, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/shen2022eng.pdf">Blockchain for Transparent Data Management towards 6G</a>", <em>Engineering (Elsevier),</em> Vol. 8, pp. 74-85, 2022.
     </p>
   </li>
+</ol>
+
+[\[BACK TO TOP\]](#publications_top)
+
+### 2021
+
+<ol>
   <li>
     <p>
       H. Peng, H. Wu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/peng2021edge.pdf">Edge Intelligence for Multi-Dimensional Resource Management in Aerial-Assisted Vehicular Networks</a>", <em>IEEE Wireless Communications Magazine,</em> Vol. 28, No. 5, pp. 59-65, 2021.
@@ -2493,6 +2506,13 @@ author_profile: true
       X. You, C. Wang, and <strong>X. Shen</strong>, etc., "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/you2020towards.pdf">Towards 6G Wireless Communication Networks: Vision, Enabling Technologies, and New Paradigm Shifts</a>", <em>SCIENCE CHINA Information Sciences (SCIS),</em> Vol. 64, No. 1, pp. 110301:1-110301:74, 2021.
     </p>
   </li>
+  </ol>
+
+[\[BACK TO TOP\]](#publications_top)
+
+### 2020 and Before
+
+<ol>
   <li>
     <p>
       R. Ding, F. Gao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ding20203d.pdf">3D UAV Trajectory Design and Frequency Band Allocation for Energy-Efficient and Fair Communication: A Deep Reinforcement Learning Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 19, No. 12, pp. 7796-7809, 2020.

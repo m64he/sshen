@@ -810,7 +810,9 @@ author_profile: true
 
 ## Journals / IEEE Magazine Papers
 
-[<strong>2025</strong>](#journal_2025) | [<strong>2024</strong>](#journal_2024) | [<strong>2023</strong>](#journal_2023) | [<strong>2022</strong>](#journal_2022) | [<strong>2021</strong>](#journal_2021) | [<strong>2020 and Before</strong>](#journal_2020) | 
+[<strong>2025</strong>](#journal_2025) | [<strong>2024</strong>](#journal_2024) | [<strong>2023</strong>](#journal_2023) | [<strong>2022</strong>](#journal_2022) | [<strong>2021</strong>](#journal_2021) | [<strong>2020</strong>](#journal_2020) | [<strong>2019</strong>](#journal_2019) | [<strong>2018</strong>](#journal_2018) | [<strong>2017</strong>](#journal_2017) | [<strong>2016</strong>](#journal_2016) | [<strong>2015</strong>](#journal_2015) | [<strong>2014</strong>](#journal_2014) | [<strong>2013</strong>](#journal_2013) | [<strong>2012</strong>](#journal_2012) | [<strong>2011</strong>](#journal_2011)
+
+[<strong>2010</strong>](#journal_2010) | [<strong>2009</strong>](#journal_2009) | [<strong>2008</strong>](#journal_2008) | [<strong>2007</strong>](#journal_2007) | [<strong>2006</strong>](#journal_2006) | [<strong>2005</strong>](#journal_2005) | [<strong>2004</strong>](#journal_2004) | [<strong>2003</strong>](#journal_2003) | [<strong>2002</strong>](#journal_2002) | [<strong>2001</strong>](#journal_2001) | [<strong>2000 and Before</strong>](#journal_2000)
 
 <a id="journal_2025"></a>
 
@@ -2518,13 +2520,13 @@ author_profile: true
       X. You, C. Wang, and <strong>X. Shen</strong>, etc., "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/you2020towards.pdf">Towards 6G Wireless Communication Networks: Vision, Enabling Technologies, and New Paradigm Shifts</a>", <em>SCIENCE CHINA Information Sciences (SCIS),</em> Vol. 64, No. 1, pp. 110301:1-110301:74, 2021.
     </p>
   </li>
-  </ol>
+</ol>
 
 <a id="journal_2020"></a>
 
 [\[BACK TO JOURNAL TOP\]](#journal_top)
 
-<strong>2020 and Before</strong>
+<strong>2020</strong>
 
 <ol>
   <li>
@@ -2872,6 +2874,15 @@ author_profile: true
       <span><span><span>Y. He, J. Ni, B. Niu, F. Li, <b>X. Shen</b>, X. Li, and J. Rao, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/119.pdf">Privbus: A Privacy-Enhanced Crowdsourced Bus Service via Fog Computing</a></span><span><span><span>",<i> J. of Parallel and Distributed Computing,</i> Vol. 135, No. 1, pp. 156-168, 2020.</span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2019"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2019</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>W. Tang, J. Ren, K. Zhang, D. Zhang, Y. Zhang, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/120.pdf">Efficient and Privacy-preserving Fog-assisted Health Data Sharing Scheme</a></span><span><span><span>", <i>ACM Transactions on Intelligent Systems and Technology,</i> Vol. 10, No. 6, pp. 94-100, 2019.</span></span></span>
@@ -3107,6 +3118,15 @@ author_profile: true
       <span><span><span>W. Xu, H. Zhou, H. Wu, F. Lyu, N. Cheng, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/166.pdf">Intelligent Link Adaptation in 802.11 Vehicular Networks: Challenges and Solutions</a></span><span><span><span>", <i>IEEE Communications Standards Magazine,</i> Vol. 3, No. 1, pp. 12-18, 2019.</span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2018"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2018</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>N. Chen, J. Ma, M. Wang, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/167.pdf">Two-Tier Energy Compensation Framework based on Mobile Vehicular Electric Storage</a></span><span><span><span>", <i>IEEE Trans. on Vehicular Technology,</i> Vol. 67, No. 12, pp. 11719-11732, 2018. </span></span></span>
@@ -3392,6 +3412,15 @@ author_profile: true
       <span><span><span>W. Xu, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/223.pdf">Internet of Vehicles in Big Data Era</a></span><span><span><span>", <i>IEEE/CAA J. Automatica Sinica (invited paper),</i> Vol. 5, No. 1, pp. 19-35, 2018. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2017"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2017</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>Y. Bi, C. Lin, H. Zhou, P. Yang, <b>X. Shen</b>, and H. Zhao,"<a href="https://uwaterloo.ca/broadband-communications-research-lab/sites/ca.broadband-communications-research-lab/files/uploads/files/tcbdtm.pdf">Time-Constrained Big Data Transfer for SDN-Enabled Smart City</a>", <i>IEEE Communications Magazine - Special Issue on Emerging Trends, Issues, and Challenges in Big Data and Its Implementation toward Future Smart Cities,</i> Vol. 55, No. 12, pp. 44-51, 2017. </span></span></span>
@@ -3622,6 +3651,15 @@ author_profile: true
       <span><span><span>D. Zhang, Z. Chen, J. Ren, N. Zhang, M. Awad, H. Zhou, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/269.pdf">Energy Harvesting-Aided Spectrum Sensing and Data Transmission in Heterogeneous Cognitive Radio Sensor Network</a></span><span><span><span>", <i>IEEE Trans. on Vehicular Technology,</i> Vol. 66, No. 1, pp. 831-843, 2017.</span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2016"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2016</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>D. Zhang, Z. Chen, M.K. Awad, N. Zhang, H. Zhou, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/270.pdf">Utility-optimal Resource Management and Allocation Algorithm for Energy Harvesting Cognitive Radio Sensor Networks</a></span><span><span><span>", <i>IEEE J. Selected Areas of Communications,</i> Vol. 34, No. 12, pp. 3552-3565, 2016. </span></span></span>
@@ -3822,6 +3860,15 @@ author_profile: true
       <span><span><span>J. Qiao, <b>X. Shen</b>, J.W. Mark, B. Cao, Z. Shi, and K. Zhang, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/309.pdf">CSMA/CA-based Medium Access Control for Indoor Millimeter Wave Networks</a></span><span><span><span>", <i>Wireless Communications and Mobile Computing (Wiley),</i> Vol. 16, Issue 1, pp. 3-17, 2016. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2015"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2015</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>C. Lai, R. Lu, D. Zheng, H. Li, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/310.pdf">Towards Secure Large-scale Machine-to-Machine Communications in 3GPP Networks: Challenges and Solutions</a></span><span><span><span><a href="http://bbcr.uwaterloo.ca/~xshen/paper/2015/tslcmt.pdf">"</a>, <i>IEEE Communications Magazine,</i> Vol. 53, No. 12, pp. 12-19, 2015.</span></span></span>
@@ -4037,6 +4084,15 @@ author_profile: true
       <span><span><span>K.H. Almotairi, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/352.pdf">A Distributed Multi-Channel MAC Protocol for Ad Hoc Wireless Networks</a></span><span><span><span>", <i>IEEE Trans. on Mobile Computing,</i> Vol. 14, No. 1, pp. 1 - 13, 2015. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2014"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2014</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>R. Jiang, R. Lu, Y. Wang, J. Luo, C. Shen, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/353.pdf">Energy-Theft Detection Issues for Advanced Metering Infrastructure in Smart Grid</a></span><span><span><span>", <i>Tsinghua Science and Technology</i>, Vol.19, No. 2, pp. 105-120, 2014. (received the Tsinghua Science and Technology <b>2014 Best Paper Award</b>).</span></span></span>
@@ -4272,6 +4328,15 @@ author_profile: true
       <span><span><span>M. Wen, R. Lu, J. Lei, H. Li, X. Liang, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/399.pdf">SESA: An Efficient Searchable Encryption Scheme for Auction in Emerging Smart Grid Marketing</a></span><span><span><span>", <i>Security and Communication Networks,</i> Vol. 7, Issue 1, pp. 234-244, 2014.</span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2013"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2013</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>S. Taha, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/400.pdf">A Physical-layer Location Privacy-Preserving Scheme for Mobile Public Hotspots in NEMO-based VANETs</a></span><span><span><span>", <i>IEEE Trans. on Intelligent Transportation Systems,</i> Vol. 14, No. 4, pp. 1665-1680, 2013.</span></span></span>
@@ -4457,6 +4522,15 @@ author_profile: true
       <span><span><span>A. Wasef, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/436.pdf">EMAP: Expedite Message Authentication Protocol for Vehicular Ad Hoc Networks</a></span><span><span><span>", <i>IEEE Trans. on Mobile Computing,</i> Vol. 12, No. 1, pp. 78-89, 2013.</span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2012"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2012</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>X. Liang, X. Li, M. Barua, L. Chen, R. Lu, <b>X. Shen</b>, and H. Luo, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/437.pdf">Enable Pervasive Healthcare through Continuous Remote Health Monitoring</a></span><span><span><span>", <i>IEEE Wireless Communications,</i> Vol. 19, No. 6, pp. 10-18, 2012.</span></span></span>
@@ -4662,6 +4736,15 @@ author_profile: true
       <span><span><span>T. H. Luan, X. Ling, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/477.pdf">Provisioning QoS Controlled Media Access in Vehicular to Infrastructure Communications</a></span><span><span><span>", <i>AD HOC Networks (Elsevier),</i> Vol. 10, Issue 2, pp. 231-242, 2012. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2011"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2011</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>R. Zeng, Y. Jiang, C. Lin, Y. Fan, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/478.pdf">A Scalable and Robust Key Pre-distribution Scheme with Network Coding for Sensor Data Storage</a></span><span><span><span>", <i>Computer Networks (Elsevier),</i> Vol. 55, No. 10, pp. 2534-2544, 2011.</span></span></span>
@@ -4792,6 +4875,15 @@ author_profile: true
       <span><span><span>Z. Liang, S. Feng, D Zhao, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/503.pdf">Delay Performance Analysis for Supporting Real-Time Traffic in a Cognitive Radio Sensor Network</a></span><span><span><span>", <i>IEEE Trans. on Wireless Communications,</i> Vol. 10, No. 1, pp. 325-335, 2011. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2010"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2010</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>A. Wasef, R. Lu, X. Lin, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/504.pdf">Complementing Public Key Infrastructure to Secure Vehicular Ad Hoc Networks</a></span><span><span><span>", <i>IEEE Wireless Communications,</i> Vol. 17, No. 5, pp. 22-28, 2010. </span></span></span>
@@ -4947,6 +5039,15 @@ author_profile: true
       <span><span><span>Y. Jiang, H. Zhu, M. Shi, <b>X. Shen</b>, and C. Lin, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/534.pdf">An Efficient Dynamic-Identity based Signature Scheme for Secure Network Coding</a></span><span><span><span>", <i>Computer Networks (Elsevier),</i> Vol. 54, Issue 1, pp. 28 - 40, 2010. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2009"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2009</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>A. Wasef, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/535.pdf">EDR: Efficient Decentralized Revocation Protocol for Vehicular Ad Hoc Networks</a></span><span><span><span>", <i>IEEE Trans. on Vehicular Technology,</i> Vol. 58, Issue 9, pp. 5214 - 5224, 2009. </span></span></span>
@@ -5102,6 +5203,15 @@ author_profile: true
       <span><span><span>Y. Cheng, X. Ling, L.X. Cai, W. Song, W. Zhuang, <b>X. Shen</b>, and A. Leon-Garcia, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/565.pdf">Statistical Multiplexing, Admission Region, and Contention Window Optimization in Multiclass Wireless LANs</a></span><span><span><span>", <i>ACM/Wireless Networks,</i> Vol. 15, No. 1, pp. 73 - 86, 2009. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2008"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2008</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>L. Lei, C. Lin, J. Cai, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/566.pdf">Flow-level Performance of Opportunistic OFDM-TDMA and OFDMA Networks</a></span><span><span><span>", <i>IEEE Trans. on Wireless Communications,</i> Vol. 7, No. 12, pp. 5461 - 5472, 2008.</span></span></span>
@@ -5237,6 +5347,15 @@ author_profile: true
       <span><span><span>X. Ling, Y. Cheng, <b>X. Shen</b>, and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/592.pdf">Voice Capacity Analysis of WLANs with Channel Access Prioritizing Mechanisms</a></span><span><span><span>", <i>IEEE Communications Magazine,</i> Vol. 46, No. 1, pp. 82-89, 2008.</span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2007"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2007</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>M. Shi, L. Xu, <b>X. Shen</b>, J.W. Mark and A. Saleh, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/593.pdf">Air Interface Switching and Performance Analysis for Fast Vertical Handoff in Cellular Network and WLAN Interworking</a></span><span><span><span>", <i>Wireless Communications and Mobile Computing (Wiley),</i> Vol. 7, No. 5, pp. 581-594, 2007. </span></span></span>
@@ -5427,6 +5546,15 @@ author_profile: true
       <span><span><span>J. Pan, L. Cai, <b>X. Shen</b>, and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/630.pdf">Identity-based Secure collaboration in Wireless Ad Hoc Networks</a></span><span><span><span>", <i>Computer Networks (Elsevier),</i> Vol. 51, No. 3, pp. 853-865, 2007. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2006"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2006</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>H. Chen, Y. Xiao, and <b>X. Shen</b>, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/631.pdf">Update-based Cache Access and Replacement in Wireless Data Access</a></span><span><span><span>",<i> IEEE Trans. on Mobile Computing,</i> Vol. 5, No. 12, pp. 1734-1748, 2006. </span></span></span>
@@ -5572,6 +5700,15 @@ author_profile: true
       <span><span><span>J. Pan, J.W. Mark, and <b>X. Shen</b>, "TCP Performance with Segment-in-Flight Estimation Algorithm over Wireless Links", <i>Dynamics of Continuous, Discrete and Impulsive Systems - an International Journal, Series B: Application and Algorithm - special issue on Routing/Signaling Protocols in Wired/Wireless Networks,</i> Vol. 13, No. 1, pp. 77-94, 2006. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2005"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2005</strong>
+
+<ol>
   <li>
     <p>
       <span><b><span><span>X. Shen</span></span></b><span><span>, W. Zhuang, H. Jiang, and J. Cai, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/660.pdf">Medium Access Control in Ultra-Wideband Wireless Networks</a></span><span><span><span>", invited paper, <i>IEEE Trans. on Vehicular Technology,</i> Vol. 54, No. 5, pp. 1663-1677, 2005. </span></span></span>
@@ -5662,6 +5799,15 @@ author_profile: true
       <span><span><span>J. Ye, <b>X. Shen</b>, and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/677.pdf">Call Admission Control in Wideband CDMA Cellular Networks by Using Fuzzy Logic</a></span><span><span><span>", <i>IEEE Trans. on Mobile Computing,</i> Vol. 4, No. 2, pp. 129-141, 2005. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2004"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2004</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>J. Cai, <b>X. Shen</b>, and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/678.pdf">Robust Channel Estimation for OFDM Wireless Communication Systems - An H_infinity Approach</a></span><span><span><span>", <i>IEEE Trans. on Wireless Communications,</i> Vol. 3, No. 6, pp. 2060-2071, 2004. </span></span></span>
@@ -5697,6 +5843,15 @@ author_profile: true
       <span><span><span>L. Xu, <b>X. Shen</b>, and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/684.pdf">Dynamic Fair Scheduling with QoS Constraints in Multimedia W-CDMA Cellular Networks</a></span><span><span><span>", <i>IEEE Trans. on Wireless Communications,</i> Vol. 3, No. 1, pp. 60-73, 2004. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2003"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2003</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>Y. Li, X. Liu and <b>X. Shen</b>, "Chaos Synchronization Using Impulsive Driving and Application to Secure Communications", <i>Dynamics of Continuous, Discrete and Impulsive Systems - an International Journal, Series B: Application and Algorithm (special issue on Chaos Control and Synchronization),</i> Vol. 10, No. 6, pp. 899-913, 2003. </span></span></span>
@@ -5742,6 +5897,15 @@ author_profile: true
       <span><span><span>A. Khadra, X. Liu and <b>X. Shen</b>, "Robust Impulsive Synchronization and Application to Communication Security", <i>Dynamics of Continuous, Discrete and Impulsive Systems - an International Journal, Series B: Applications &amp; Algorithms,</i> Vol. 10, No. 1-3, pp. 403-416, 2003. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2002"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2002</strong>
+
+<ol>
   <li>
     <p>
       <span><b><span><span>X. Shen</span></span></b><span><span>, J.W. Mark and J. Ye, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/694.pdf">Mobile Location Estimation in CDMA Cellular Networks by Using Fuzzy Logic</a></span><span><span><span>", <i>Wireless Personal Communications/Kluwer Academic Publishers,</i> Vol.22, No. 1, pp. 57-70, 2002. </span></span></span>
@@ -5767,6 +5931,15 @@ author_profile: true
       <span><span><span>L. Xu, <b>X. Shen </b>and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/698.pdf">Dynamic Bandwidth Allocation with Fair Scheduling for WCDMA Systems</a></span><span><span><span>", <i>IEEE Wireless Communications,</i> Vol. 9, No. 2, pp. 26-32, 2002. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2001"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2001</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>X. Liu, <b>X. Shen </b>and Y. Zhang, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/699.pdf">Absolute Stability of Nonlinear Systems with Time Delays and Applications to Neural Networks</a></span><span><span><span>", <i>Mathematical Problems in Engineering: Theory, Methods and Applications,</i> Vol. 7, pp. 413-431, 2001. </span></span></span>
@@ -5782,6 +5955,15 @@ author_profile: true
       <span><span><span>X. Liu, <b>X. Shen </b>and Y. Zhang, "Stability Analysis of a Class of Hybrid Dynamic Systems", <i>Dynamics of Continuous, Discrete and Impulsive Systems - an International Journal, Series B: Applications &amp; Algorithms,</i> Vol. 8, pp. 359-373, 2001. </span></span></span>
     </p>
   </li>
+</ol>
+
+<a id="journal_2000"></a>
+
+[\[BACK TO JOURNAL TOP\]](#journal_top)
+
+<strong>2000 and Before</strong>
+
+<ol>
   <li>
     <p>
       <span><span><span>D. Zhao, <b>X. Shen </b>and J.W. Mark, "</span></span></span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/702.pdf">An Efficient Call Admission Control for Heterogeneous Services in Mobile Wireless ATM Networks</a></span><span><span><span>", <i>IEEE Communications Magazine,</i> Vol. 38, No. 10, pp.72-78, Oct. 2000. </span></span></span>

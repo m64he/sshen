@@ -811,6 +811,11 @@ author_profile: true
 <ul>
   <li>
     <p>
+      W. Chen, Q. Yang, S. Shao, Z. Shi, J. Chen, and <strong>X. Shen</strong>, "Enhancing the Security of Semantic Communication via Knowledge-Aided Coding and Jamming", Proc. IEEE/CIC ICCC'25, Shanghai, China, August 10-13, 2025. (received the IEEE/CIC ICCC'25 <strong>Best Paper Award)</strong>
+    </p>
+  </li>
+  <li>
+    <p>
       T. Jiang, J. Xue, Z. Ma, J. Wang, H. Zhou, and <strong>X. Shen</strong>, "Predictive Beamforming for OTFS-Enabled Ultra Reliable Low Latency Vehicular Communications", <em>Proc. IEEE ICC'25</em>, Montreal, Canada, June 8-12, 2025. (received the IEEE ICC'25 <strong>Best Paper Award</strong>)
     </p>
   </li>

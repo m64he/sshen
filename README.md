@@ -1,1 +1,1 @@
-# [Visit](https://m64he.github.io/sshen.github.io/)
+# [Visit](https://m64he.github.io/sshen/)

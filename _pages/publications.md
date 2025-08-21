@@ -826,12 +826,22 @@ author_profile: true
   </li>
   <li>
     <p>
+      X. Shao, W. Mei, C. You, Q. Wu, B. Zheng, C.X. Wang, J. Li, R. Zhang, R. Schober, L. Zhu, W. Zhuang, and <strong>X. Shen</strong>, "A Tutorial on Six-Dimensional Movable Antenna for 6G Networks: Synergizing Positionable and Rotatable Antennas ", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
       Y. Wei, Q. Ye, K. Qu, W. Zhuang, and <strong>X. Shen</strong>, "E2E Performance Modeling for Slice-Based Video Streaming with Layered Encoding", <em>IEEE Transactions on Networking</em>, to appear.
     </p>
   </li>
   <li>
     <p>
       X. Wang, Q. Zhang, N. Cheng, J. Chen, Z. Zhang, Z. Li, S. Cui, and <strong>X. Shen</strong>, "RadioDiff-3D: A 3D×3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication", <em>IEEE Trans. on Network Science and Engineering - Special Issue on Integrating Generative AI into Mobile Networkin</em>g<em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. He, J. Zhang, P. Yang, Z. Sun, and <strong>X. Shen</strong>,  "PPBR: Privacy-Preserving and Byzantine-Robust Edge-Assisted Hierarchical Federated Learning in Mobile Networks", <em>IEEE Trans. on Mobile Computing,</em> to appear.
     </p>
   </li>
   <li>
@@ -1005,19 +1015,7 @@ author_profile: true
     </p>
   </li>
   <li>
-    <p>
-      Y. Dai, L. Lyu, N. Cheng, M. Sheng, J. Liu, X. Wang, S. Cui, L. Cai, and <strong>X. Shen</strong>, "A Survey of Graph-Based Resource Management in Wireless Networks - Part I: Optimization Approaches", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      Y. Dai, L. Lyu, N. Cheng, M. Sheng, J. Liu, X. Wang, S. Cui, L. Cai, and <strong>X. Shen</strong>, "A Survey of Graph-Based Resource Management in Wireless Networks - Part II: Learning Approaches", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim,  <strong>X. Shen</strong>, and K. B. Letaief, "Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts", <em>IEEE Wireless Communications,</em> to appear.
-    </p>
+    C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim,  <strong>X. Shen</strong>, and K. B. Letaief, "Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts", <em>IEEE Wireless Communications,</em> to appear.
   </li>
   <li>
     <p>
@@ -1182,6 +1180,16 @@ author_profile: true
   <li>
     <p>
       W.C. Ng, W. Y. Lim, Z. Xiong, D. Niyato, H. V. Poor, <strong>X. Shen</strong>, and C. Maio, "Stochastic Resource Optimization for Wireless Powered Hybrid Coded Edge Computing Networks", <em>IEEE Trans. on Mobile Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Dai, L. Lyu, N. Cheng, M. Sheng, J. Liu, X. Wang, S. Cui, L. Cai, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/dai2025asurvey2.pdf">A Survey of Graph-Based Resource Management in Wireless Networks - Part II: Learning Approaches</a>", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> Vol. 11, No. 4, pp. 2101-2122, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Dai, L. Lyu, N. Cheng, M. Sheng, J. Liu, X. Wang, S. Cui, L. Cai, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/dai2025asurvey1.pdf">A Survey of Graph-Based Resource Management in Wireless Networks - Part I: Optimization Approaches</a>", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> Vol. 11, No. 4, pp. 2078-2100, 2025.
     </p>
   </li>
   <li>

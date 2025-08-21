@@ -1722,7 +1722,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      K. Yu, Q. Yu, Z. Tang, J. Zhao, B. Qian, Y. Xu, H. Zhou, and <strong>X. Shen</strong>, "<a href="http://yu2023fully">Fully-Decoupled Radio Access Networks: A Flexible Downlink Multi-connectivity and Dynamic Resource Cooperation Framework</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 22, No. 6, pp. 4202-4214, 2023.
+      K. Yu, Q. Yu, Z. Tang, J. Zhao, B. Qian, Y. Xu, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yu2023fully.pdf">Fully-Decoupled Radio Access Networks: A Flexible Downlink Multi-connectivity and Dynamic Resource Cooperation Framework</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 22, No. 6, pp. 4202-4214, 2023.
     </p>
   </li>
   <li>

@@ -3011,8 +3011,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      <span><span><span>Y. He, J. Ni, B. Niu, F. Li, <b>X. Shen</b>, X. Li, and J. Rao, "</span></span></span><span><a href="https://m64he.github.io/paper_sshen/2020/119.pdf">Privbus: A Privacy-Enhanced Crowdsourced Bus Service via Fog Computing</a></span><span><span><span>",<i> J. of Parallel and Distributed Computing,</i> Vol. 135, No. 1, pp. 156-168, 2020.</span></span></span>
-    </p>
+      <span><span><span>Y. He, J. Ni, B. Niu, F. Li, <b>X. Shen</b>, X. Li, and J. Rao, "</span></span></span><span><a href="https://m64he.github.io/paper_sshen/2020/119.pdf">Privbus: A Privacy-Enhanced Crowdsourced Bus Service via Fog Computing</a></span><span><span><span>",<i> J. of Parallel and Distributed Computing,</i> Vol. 135, No. 1, pp. 156-168, 2020.
   </li>
 </ol>
 

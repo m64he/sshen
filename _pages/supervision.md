@@ -21,7 +21,7 @@ author_profile: true
 
 | Name            | Starting Date   | Co-supervision       | Major Research Area                                   |
 | -----           | ----            | -------              | ------------------------------                        |
-| Shisheng Hu     | Sept. 2021      | n.a.                 | Networking for AI                                     |
+| Nan Liu         | Sept. 2025      | n.a.                 | Networking for AI                                     |
 | Yiren Zhou      | Sept. 2024      | n.a.                 | Digital Twin and Network Intelligence                 |
 | Lingshuang Liu  | Sept. 2021      | n.a.                 | Security for Future Wireless Network                  |
 | Yingying Pei    | Sept. 2020      | n.a.                 | Resource Management for 6G                            |
@@ -326,7 +326,12 @@ author_profile: true
 <ol type="1">
   <li>
     <p>
-      Xinyu Huang, "Digital Agent-Based Resource Management for Short Video Streaming in Multicast Networks", PhD, 2025. (Dr. Huang will be a PDF at University of Waterloo, Canada)
+      Shisheng Hu, "Resource Allocation and Task Scheduling for Integrated Sensing and Communications", PhD, 2025. (Dr. Hu is a PDF at the University of Waterloo, Canada)
+    </p>
+  </li>
+  <li>
+    <p>
+      Xinyu Huang, "Digital Agent-Based Resource Management for Short Video Streaming in Multicast Networks", PhD, 2025. (Dr. Huang is a PDF at University of Waterloo, Canada)
     </p>
   </li>
   <li>

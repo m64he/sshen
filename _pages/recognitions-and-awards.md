@@ -22,6 +22,11 @@ author_profile: true
 <ul>
   <li>
     <p>
+      The Web of Science Group presents to Dr. Shen the 2025 Highly Cited Researcher in Computer Science. Highly Cited Researchers have demonstrated significant and broad influence in their field(s) of research (2025).
+    </p>
+  </li>
+  <li>
+    <p>
       Dr. Shen have ranked 1 in Canada and 18 in the world ranking in the field of Electronics and Electrical Engineering by Research.com. He has also been recognized with Electronics and Electrical Engineering Leader Award (2025).
     </p>
   </li>
@@ -488,6 +493,11 @@ author_profile: true
 <ul>
   <li>
     <p>
+      Keynote Speaker, <em>IEEE 25th International Conference on Communication Technology, Shenyang, China, Oct. 16 - 18, 2025.</em>
+    </p>
+  </li>
+  <li>
+    <p>
       Keynote Speaker, <em>IEEE 24th International Conference on Communication Technology, Chengdu, China, Oct. 18 - 20, 2024.</em>
     </p>
   </li>
@@ -809,6 +819,26 @@ author_profile: true
 
 
 <ul>
+  <li>
+    <p>
+      M. He, Y. Pei, S. Hu, Z. Tang, W. Zhuang, and X. Shen, "Adaptive Resource Provisioning in Satellite Networks via VAE-Assisted Contextual Bandit Learning", Proc. WCSP'25, Chongqing, China, Oct. 23-25, 2025. (received the WCSP'25 <strong>Best Paper Award)</strong>
+    </p>
+  </li>
+  <li>
+    <p>
+      C. Zhou, L. Sun, X. Wang, P. Yang, F. Lyu, S. Lu, and X. Shen, "QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach", Proc. WCSP'25, Chongqing, China, Oct. 23-25, 2025. (received the WCSP'25 <strong>Best Paper Award)</strong>
+    </p>
+  </li>
+  <li>
+    <p>
+      S. Hu, X. Qin, C. Zhou, Y. Pei, X. Shao, X. Huang, and X. Shen, "Model-Assisted Learning for Environment-Aware Content Delivery in Mobile AR", Proc. IEEE VTC'25 Fall, Chengdu, China, Oct. 19-22, 2025. (received the IEEE VTC'25 Fall <strong>Best Student Paper Award)</strong>.
+    </p>
+  </li>
+  <li>
+    <p>
+      K. Shang, W. Wu, J. Tang, J. Cong, Z. Mao, and X. Shen, "Adaptive RAN Slicing for Diffusion-based AIGC Services in Mobile Edge Networks", Proc. IEEE 25th International Conference on Communication Technology, Shenyang, China, Oct. 16-18, 2025. (received the IEEE ICCT'25 Fall <strong>Best Student Paper Award)</strong>.
+    </p>
+  </li>
   <li>
     <p>
       W. Chen, Q. Yang, S. Shao, Z. Shi, J. Chen, and <strong>X. Shen</strong>, "Enhancing the Security of Semantic Communication via Knowledge-Aided Coding and Jamming", Proc. IEEE/CIC ICCC'25, Shanghai, China, August 10-13, 2025. (received the IEEE/CIC ICCC'25 <strong>Best Paper Award)</strong>

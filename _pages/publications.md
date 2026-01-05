@@ -6324,6 +6324,16 @@ author_profile: true
   </li>
   <li>
     <p>
+      K. Shang, W. Wu, J. Tang, J. Cong, Z. Mao, and X. Shen, "Adaptive RAN Slicing for Diffusion-based AIGC Services in Mobile Edge Networks", Proc. IEEE 25th International Conference on Communication Technology, Shenyang, China, Oct. 16-18, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      T. Zhang, K. Yu, J. Xue, Y. Sun, Y. Xu, H. Zhou, and X. Shen, "Hybrid Deep Reinforcement Learning Empowered Mobility Management for Uplink FD-RAN", Proc. Int. Conf. on Future Communications and Networks (FCN)'25, Belgrade, Serbia, Aug. 18-22, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
       X. Shao, Y. Zhang, S. Hu, Z. Tang, M. He, X. Huang, W. Zhuang, and X. Shen, "Hybrid-Field 6D Movable Antenna for Terahertz Communications: Channel Modeling and Estimation", Proc. IEEE/CIC ICCC'25, Shanghai, China, August 10-13, 2025.
     </p>
   </li>

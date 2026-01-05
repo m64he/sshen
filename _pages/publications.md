@@ -23,6 +23,11 @@ author_profile: true
 <ol>
   <li>
     <p>
+      Weiting Zhang, Dong Yang, Shuai Gao, Hongke Zhang, and <strong>Xuemin (Sherman) Shen</strong> (authors), <em>Intelligent Resource Scheduling in End-Edge-Cloud Networks,</em> Springer Verlag, 2025. (Hardcover  ISBN: 978-3-032-07666-3; eBook ISBN: 978-3-032-07667-0)
+    </p>
+  </li>
+  <li>
+    <p>
       Zhirun Zheng, Zhetao Li, and <strong>Xuemin Shen</strong> (authors), <em>Perturbation Based Privacy in Crowdsensing</em><em>,</em> Springer Verlag, 2025. (Hardcover  ISBN - 10: 3031950518, ISBN - 13: 978-3031950513)
     </p>
   </li>
@@ -821,12 +826,127 @@ author_profile: true
 <ol>
   <li>
     <p>
+      X. Shao, R. Zhang, H. Zhou, Q. Jiang, C. Zhou, W. Zhuang, and <strong>X. Shen</strong>, "Polarforming Antenna Enhanced Sensing and Communication: Modeling and Optimization", <em>IEEE Journal on Selected Areas in Communications</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      C. Huang, A. Yang, D. Liu, R. Lu, and <strong>X. Shen</strong>, "Two-Server Offline/Online Private Information Retrieval with Small Client Storage", <em>IEEE Trans. on Dependable and Secure Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Wang, P. Zheng, H. Jia, N. Cheng, R. Sun, C. Zhou, and <strong>X. Shen</strong>, "RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      R. Zhang, G. Liu, Y. Liu, C. Zhao, J. Wang, Y. Xu, D. Niyato, J. Kang, Y. Li, S. Mao, S. Sun, <strong>X. Shen</strong>, and D.I. Kim, "Toward Edge General Intelligence with Agentic AI and Agentification: Concepts, Technologies, and Future Directions", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      N. Cheng, S. Yang, R. Sun, Z. Yin, X. Shao, W. Zhuang, and <strong>X. Shen</strong>,  "Channel Knowledge Map-Enabled 6D Movable Antenna Systems with Kinematic Constraints: A Manifold Optimization Approach", <em>IEEE Trans. on Wireless Communications</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Zhou, Y. Xu, T. Zhang, X. Zhang, J. Chen, and <strong>X. Shen</strong>,  "Leveraging Generative Artificial Intelligence for Uplink Feedback-Free Transmission in 6G FD-RAN", <em>IEEE Trans. on Mobile Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Zhou, J. Xue, Y. Yuan, Z. Sun, Y. Xu, J. Chen, and <strong>X. Shen</strong>,  "Hyper-Converged Space-Air-Ground Integrated Low-Altitude Aerial Vehicular Networks: Architecture, Challenges, and Technologies", <em>Fundamental Research (ScienceDirect)</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      S. D. Okegbile, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "Leveraging Knowledge-Driven Large Language Models-Enabled Intent-Based Security Architectures for Human Digital Twin Networks", <em>IEEE Network Magazine,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Wang, Q. Zhang, N. Cheng, R. Sun, Z. Li, S. Cui, and <strong>X. Shen</strong>, "RadioDiff-k2 : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction", <em>IEEE Journal on Selected Areas in Communications</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      W. Chen, Q. Yang, S. Shao, Z. Shi, J. Chen, and <strong>X. Shen</strong>, "Can Knowledge Improve Security? A Coding-Enhanced Jamming Approach for Semantic Communication", <em>IEEE Journal on Selected Areas in Communications</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Wang, Z. Wang, N. Cheng, W. Xu, W. Quan, and <strong>X. Shen</strong>,  "Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6G Networks", <em>IEEE Trans. on Mobile Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      R. Guo, W. Quan, X. Huang, Y. Zhang, M. Liu, D. Yang, H. Zhang, and <strong>X. Shen</strong>,  "Joint Trajectory Planning and Task Offloading in UAV-Assisted Inspection Networks: A Transformer-Based Approach", <em>IEEE Trans. on Mobile Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Xu, J. Wang, R. Zhang, C. Zhao, D. Niyato, J. Kang, Z. Xiong, B. Qian, H. Zhou, S. Mao, A. Jamalipour, <strong>X. Shen</strong>, and D.I. Kim, "Mixture of Experts for Decentralized Generative AI and Reinforcement Learning in Wireless Networks: A Comprehensive Survey", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
       S. Hu, J. Gao, X. Qin, C. Zhou, X. Huang, M. Li, M. He, and <strong>X. Shen</strong>, "Drift-Adaptive Slicing-Based Resource Management for Cooperative ISAC Networks", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> to appear.
     </p>
   </li>
   <li>
     <p>
-      X. Shao, W. Mei, C. You, Q. Wu, B. Zheng, C.X. Wang, J. Li, R. Zhang, R. Schober, L. Zhu, W. Zhuang, and <strong>X. Shen</strong>, "A Tutorial on Six-Dimensional Movable Antenna for 6G Networks: Synergizing Positionable and Rotatable Antennas ", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+      L. Li, X. Yang, W. Wu, H. Wang, T. Ohtsuki, M. Pan, and <strong>X. Shen</strong>, “MobiLLM: Enabling On-Device Fine-Tuning of Billion-Sized LLMs via Server-Assisted Side-Tuning,” <i>IEEE Journal of Selected Topics in Signal Processing, </i>to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      L. Cai, J. Wang, R. Zhang,  Y. Zhang, T. Jiang, Fellow,  D. Niyato, X. Wang, and <strong>X. Shen</strong>, "Secure Physical Layer Communications for Low-Altitude Economy Networking: A Survey", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Pei, M. He, S.Hu, X. Huang, C. Zhou, W. Zhuang, and <strong>X. Shen,</strong> "Mobility-Aware Resource Provisioning for Edge-Assisted Extended Reality Services", <em>IEEE IoT Journal,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Shao, W. Mei, C. You, Q. Wu, B. Zheng, C.X. Wang, J. Li, R. Zhang, R. Schober, L. Zhu, W. Zhuang, and <strong>X. Shen</strong>, "A Tutorial on Six-Dimensional Movable Antenna for 6G Networks: Synergizing Positionable and Rotatable Antennas", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      L. Lyu,H. Liu,Y. Dai, N. Cheng,C. Chen, X. Guan, and <strong>X. Shen</strong>,  "Joint Uplink-Downlink Transmission Design and Full-Loop Control for Latency-Critical Cyber-Physical Systems", <em>IEEE Trans. on Network Science and Engineering</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Dai, D. Yan, L. Lyu, Y. Ge, N. Cheng, M. Sheng, J. Liu, and <strong>X. Shen</strong>, "Two-Stage GNN-Based Scalable Access Mode Selection and Power Control for Cell-Free and D2D Heterogeneous Networks", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      C. Zhou, J. Gao, S. Hu, N. Cheng, W. Zhuang, and <strong>X. Shen</strong>,  "User-Centric Communication Service Provision for Edge-Assisted Mobile Augmented Reality", <em>IEEE Trans. on Mobile Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Luo, Y. Liu, R. Zhang, J. Wang, G. Sun, D. Niyato, H. Yu, Z. Xiong, X. Wang, and <strong>X. Shen</strong>, "Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Kong, P. Yang, X. Qin, J. Zhou, and <strong>X. Shen</strong>,  "Distributed and Controllable Mobile Text-to-Image Generation with User Preference Guarantee", <em>IEEE Trans. on Mobile Computing,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Wei, Q. Ye, W. Zhuang, and <strong>X. Shen</strong>, "Energy-Efficient Multi-User Adaptive 360° Video Streaming: A Two-Step Approach with Device Video Super-Resolution", <em>IEEE Trans. on Network Science and Engineering</em><em>,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      H. Jia, N. Cheng, X. Wang, C. Zhou, R. Sun, and <strong>X. Shen</strong>, "RadioMamba: Breaking the Accuracy-Efficiency Trade-off in Radio Map Construction via a Hybrid Mamba-UNet", <em>IEEE Trans. on Network Science and Engineering</em><em>,</em> to appear.
     </p>
   </li>
   <li>
@@ -846,7 +966,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      G. Gui, Guan, C. Liu, Y. Wang, T. Ohtsuki, D. Niyato, and <strong>X. Shen</strong>, "A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
+      G. Gui, C. Liu, Y. Wang, T. Ohtsuki, D. Niyato, and <strong>X. Shen</strong>, "A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
     </p>
   </li>
   <li>
@@ -871,17 +991,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      J. Li, H. Zhang, S. Ke, J. Huang, N. Chen, and <strong>X. Shen</strong>, "Non-Cooperative Multi-Agent Reinforcement Learning Exploiting Population Dynamics", <em>IEEE Trans. on Network Science and Engineering,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
       R. Zhang, C. Zhao, H. Du, D. Niyato, J. Wang, S. Sawadsitang, <strong>X. Shen</strong>, and D.I. Kim, "Embodied AI-Enhanced Vehicular Networks: An Integrated Vision Language Models and Reinforcement Learning Method", <em>IEEE Trans. on Mobile Computing,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      Y. Zhou, Z. Wang, N. Ning, N. Lu, M. Dong, and <strong>X. Shen</strong>, "Vehicular Multimodal Motion Forecasting with Scenario-Guided Diffusion Probabilistic Models", <em>IEEE Trans. on Vehicular Technology,</em> to appear.
     </p>
   </li>
   <li>
@@ -902,11 +1012,6 @@ author_profile: true
   <li>
     <p>
       W. Xu, J. Chen, P. Zheng, X. Yi, T. Tian, W. Zhu, Q. Wan, H. Wang, Y. Fan, Q. Su,  and <strong>X. Shen</strong>, "Deploying Foundation Model Powered Agent Services: A Survey", <em>IEEE Communications Surveys and Tutorials,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      X. Li, J. Wei, H. Wang, Li. Dong, R. Chen, C. Yi, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "Towards Intelligent Transportation with Pedestrians and Vehicles In-the-Loop: A Surveillance Video-Assisted Federated Digital Twin Framework", <em>IEEE Network Magazine,</em> to appear.
     </p>
   </li>
   <li>
@@ -951,11 +1056,6 @@ author_profile: true
   </li>
   <li>
     <p>
-      P. Jia, X. Wang, and <strong>X. Shen</strong>,  "Hierarchical Digital Twin for Efficient 6G Network Orchestration via Adaptive Attribute Selection and Scalable Network Modeling", <em>IEEE Trans. on Communications,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
       C. Zhou, S. Hu, J. Gao, X. Huang, W. Zhuang, and <strong>X. Shen</strong>,  "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin", <em>IEEE Wireless Communications Magazine,</em> to appear.
     </p>
   </li>
@@ -971,17 +1071,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      X. Li, R. Deng, J. Wei, X. Wu, J. Chen, C. Yi, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "AIGC-Driven Real-Time Interactive 4D Traffic Scene Generation in Vehicular Networks", <em>IEEE Network Magazine,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
       J. Xue, T. Jiang, H. Huang, Z. Zhang, H. Zhou, and  <strong>X. Shen</strong>, "Enabling Data-Driven OTFS Modulation for 6G Hyper Reliable High-Mobility Communications", <em>IEEE Wireless Communications,</em> to appear
-    </p>
-  </li>
-  <li>
-    <p>
-      X. Huang, H. Yang, C. Zhou, M. He, <strong>X. Shen</strong>,  and W. Zhuang, "When Digital Twin Meets Generative AI: Intelligent Closed-Loop Network Management", <em>IEEE Network Magazine,</em> to appear.
     </p>
   </li>
   <li>
@@ -991,22 +1081,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      S.D. Okegbile, H. Gao, O. Talabi, J. Cai, C. Yi, D. Niyato, and <strong>X. Shen</strong>,  "FLeS: A Federated Learning-Enhanced Semantic Communication Framework for Mobile AIGC-Driven Human Digital Twins", <em>IEEE Network Magazine,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
       J. Zhou, M. Wang, D. Tian, K. Qu, G. Qu, X. Duan, and <strong>X. Shen</strong>, "Reliability-Optimal UAV-Assisted Mobile Edge Computing: Joint Resource Allocation, Data Transmission Scheduling and Motion Control", <em>IEEE Trans. on Mobile Computing,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      J. He, X. Luo, J. Kang, H. Du, Z. Xiong, C. Chen, D. Niyato, and <strong>X. Shen</strong>,  "Toward Mixture-of-Experts Enabled Trustworthy Semantic Communication for 6G Networks", <em>IEEE Network Magazine,</em> to appear.
-    </p>
-  </li>
-  <li>
-    <p>
-      L. Lei, K. Zheng, J. Mei, and <strong>X. Shen</strong>,  "VoI-Driven Joint Optimization of Control and Communication in Vehicular Digital Twin Network", <em>IEEE Network Magazine,</em> to appear.
     </p>
   </li>
   <li>
@@ -1015,7 +1090,9 @@ author_profile: true
     </p>
   </li>
   <li>
-    C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim,  <strong>X. Shen</strong>, and K. B. Letaief, "Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts", <em>IEEE Wireless Communications,</em> to appear.
+    <p>
+      C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim,  <strong>X. Shen</strong>, and K. B. Letaief, "Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts", <em>IEEE Wireless Communications,</em> to appear.
+    </p>
   </li>
   <li>
     <p>
@@ -1184,6 +1261,61 @@ author_profile: true
   </li>
   <li>
     <p>
+      Y. Lin, Z, Gao, H. Du, D. Niyato, J. Kang, R. Deng, and <strong>X. Shen</strong>, "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0", <em>IEEE Wireless Communications Magazine,</em> to appear.
+    </p>
+  </li>
+  <li>
+    <p>
+      <span><span><span>X. Qin, T. Zhang, K. Yu, X. Zhang, H. Zhou, W. Zhuang, and <b>X. Shen</b>, "</span></span><span><span><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/qin2025dynamic.pdf">Dynamic Time-Difference QoS Guarantee in Satellite–Terrestrial Integrated Networks: An Online Learning-Based Resource Scheduling Scheme</a>", <i>Engineering (Elsevier),</i> Vol. 54, pp. </span></span></span>127-142,  No. 2025<span><span><span>.</span></span></span>
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Zhou, Z. Wang, N. Ning, N. Lu, M. Dong, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2025vehicular.pdf">Vehicular Multimodal Motion Forecasting with Scenario-Guided Diffusion Probabilistic Models</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 74, No. 11, pp. 16962-16977, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      J. Li, H. Zhang, S. Ke, J. Huang, N. Chen, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2025non.pdf">Non-Cooperative Multi-Agent Reinforcement Learning Exploiting Population Dynamics</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 13, pp. 684-700, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Li, J. Wei, H. Wang, Li. Dong, R. Chen, C. Yi, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2025toward.pdf">Towards Intelligent Transportation with Pedestrians and Vehicles In-the-Loop: A Surveillance Video-Assisted Federated Digital Twin Framework</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 6, pp. 305-315, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Li, R. Deng, J. Wei, X. Wu, J. Chen, C. Yi, J. Cai, D. Niyato, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2025aigc.pdf">AIGC-Driven Real-Time Interactive 4D Traffic Scene Generation in Vehicular Networks</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 6, pp. 261-269, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      B. Zhu, X. Wang,  X. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhu2025chain.pdf">Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 5, pp. 44-50, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      X. Huang, H. Yang, C. Zhou, M. He, <strong>X. Shen</strong>,  and W. Zhuang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2025when.pdf">When Digital Twin Meets Generative AI: Intelligent Closed-Loop Network Management</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 5, pp. 272-279, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      S.D. Okegbile, H. Gao, O. Talabi, J. Cai, C. Yi, D. Niyato, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/okegbile2025fles.pdf">FLeS: A Federated Learning-Enhanced Semantic Communication Framework for Mobile AIGC-Driven Human Digital Twins</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 5, pp. 238-246, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      J. He, X. Luo, J. Kang, H. Du, Z. Xiong, C. Chen, D. Niyato, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/he2025toward.pdf">Toward Mixture-of-Experts Enabled Trustworthy Semantic Communication for 6G Networks</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 5, pp. 221-230, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      L. Lei, K. Zheng, J. Mei, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lei2025voi.pdf">VoI-Driven Joint Optimization of Control and Communication in Vehicular Digital Twin Network</a>", <em>IEEE Network Magazine,</em> Vol. 39, No. 5, pp. 155-164, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
       Y. Dai, L. Lyu, N. Cheng, M. Sheng, J. Liu, X. Wang, S. Cui, L. Cai, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/dai2025asurvey2.pdf">A Survey of Graph-Based Resource Management in Wireless Networks - Part II: Learning Approaches</a>", <em>IEEE Trans. on Cognitive Communications and Networking</em><em>,</em> Vol. 11, No. 4, pp. 2101-2122, 2025.
     </p>
   </li>
@@ -1199,7 +1331,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      Y. Lin, Z, Gao, H. Du, D. Niyato, J. Kang, R. Deng, and <strong>X. Shen</strong>, "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0", <em>IEEE Wireless Communications,</em> to appear.
+      P. Jia, X. Wang, and <strong>X. Shen</strong>,  "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/jia2025hierarchical.pdf">Hierarchical Digital Twin for Efficient 6G Network Orchestration via Adaptive Attribute Selection and Scalable Network Modeling</a>", <em>IEEE Trans. on Communications,</em> Vol. 73, No. 9, pp. 7724-7739, 2025.
     </p>
   </li>
   <li>
@@ -1234,7 +1366,7 @@ author_profile: true
   </li>
   <li>
     <p>
-      J. Lan, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and <strong>X. Shen</strong>, "<u><a href="https://ieeexplore.ieee.org/document/10870164?source=authoralert">OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier</a></u>", <em>IEEE IoT Journal,</em> Vol. 12, No. 11, pp. 17700-17716, 2025.
+      J. Lan, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and <strong>X. Shen</strong>, "<u><a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lan2025openl3.pdf">OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier</a></u>", <em>IEEE IoT Journal,</em> Vol. 12, No. 11, pp. 17700-17716, 2025.
     </p>
   </li>
   <li>
@@ -6155,6 +6287,36 @@ author_profile: true
 ## Conference Papers 
 
 <ol>
+  <li>
+    <p>
+      P. Zheng, W. Xu, H. Wang, J. Chen, and X. Shen, "HALO: Semantic-Aware Distributed LLM Inference in Lossy Edge Network", Proc. IEEE INFOCOM'26, Tokyo, Japan, May 18-212, 2026.
+    </p>
+  </li>
+  <li>
+    <p>
+      L. Liu, L. Xue, X. Li, and X. Shen, "IntactEdge: Secure Multi-Replica Data Integrity Verification in Mobile Edge Computing", Proc. IEEE GLOBECOM'25, Taipei, Taiwan, Dec. 8-12, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      Y. Wei, Q. Ye, W. Zhuang, and X. Shen, "Energy-Efficient Multi-User Adaptive 360° Video Streaming with Device Video Super-Resolution", Proc. IEEE GLOBECOM'25 - Workshop on SIGNIS: Softwarized Next Generation Networks for IoT Services, Taipei, Taiwan, Dec. 8-12, 2025
+    </p>
+  </li>
+  <li>
+    <p>
+      M. He, Y. Pei, S. Hu, Z. Tang, W. Zhuang, and X. Shen, "Adaptive Resource Provisioning in Satellite Networks via VAE-Assisted Contextual Bandit Learning", Proc. WCSP'25, Chongqing, China, Oct. 23-25, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      S. Zhang, W. Wu, S. Wu, W. Yuan, L. Song, and X. Shen, "Collaborative LLM Inference over LEO Satellite Networks: Model Splitting and Pipeline Parallelism", Proc. WCSP'25, Chongqing, China, Oct. 23-25, 2025.
+    </p>
+  </li>
+  <li>
+    <p>
+      C. Zhou, L. Sun, X. Wang, P. Yang, F. Lyu, S. Lu, and X. Shen, "QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach", Proc. WCSP'25, Chongqing, China, Oct. 23-25, 2025.
+    </p>
+  </li>
   <li>
     <p>
       S. Hu, X. Qin, C. Zhou, Y. Pei, X. Shao, X. Huang, and X. Shen, "Model-Assisted Learning for Environment-Aware Content Delivery in Mobile AR", Proc. IEEE VTC'25 Fall, Chengdu, China, Oct. 19-22, 2025.

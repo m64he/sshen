@@ -1978,347 +1978,347 @@ author_profile: true
 <ol>
   <li>
     <p>
-      X. Zhang, B. Qian, X. Qin, T. Ma, J. Chen, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2022cybertwin.pdf">Cybertwin Assisted Mode Selection in Ultra-Dense LEO Integrated Satellite-Terrestrial Network</a>", <em>J. Communications and Information Networks,</em> Vol. 7, No. 4, pp. 360-374, 2022.
+      X. Zhang, B. Qian, X. Qin, T. Ma, J. Chen, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhang2022cybertwin.pdf">Cybertwin Assisted Mode Selection in Ultra-Dense LEO Integrated Satellite-Terrestrial Network</a>", <em>J. Communications and Information Networks,</em> Vol. 7, No. 4, pp. 360-374, 2022.
     </p>
   </li>
   <li>
     <p>
-      C. Zhou, J. Gao, M. Li, <strong>X. Shen</strong>, and W. Zhuang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2022digital.pdf">Digital Twin-Empowered Network Planning for Multi-Tier Computing</a>" (invited paper), <em>J. Communications and Information Networks, </em>Vol. 7, No. 3, pp. 221-238, 2022.
+      C. Zhou, J. Gao, M. Li, <strong>X. Shen</strong>, and W. Zhuang, "<a href="https://m64he.github.io/paper_sshen/2022/zhou2022digital.pdf">Digital Twin-Empowered Network Planning for Multi-Tier Computing</a>" (invited paper), <em>J. Communications and Information Networks, </em>Vol. 7, No. 3, pp. 221-238, 2022.
     </p>
   </li>
   <li>
     <p>
-      N. Cheng, J. He, Z. Yin, C. Zhou, H. Wu, F. Lyu, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/cheng20226g.pdf">6G service-oriented space-air-ground integrated network: A survey</a>", <em>Chinese Journal of Aeronautics (Elsevier),</em> Vol. 35, No. 9, pp. 1-18, 2022.
+      N. Cheng, J. He, Z. Yin, C. Zhou, H. Wu, F. Lyu, H. Zhou, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/cheng20226g.pdf">6G service-oriented space-air-ground integrated network: A survey</a>", <em>Chinese Journal of Aeronautics (Elsevier),</em> Vol. 35, No. 9, pp. 1-18, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Wang, J. Ren, Z. Wang, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wang2022privstream.pdf">PrivStream: A Privacy-Preserving Inference framework on IoT Streaming Data at the Edge</a>", <em>Information Fusion (Elsevier),</em> to appear, Vol. 80, pp. 282-294, 2022.
+      D. Wang, J. Ren, Z. Wang, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/wang2022privstream.pdf">PrivStream: A Privacy-Preserving Inference framework on IoT Streaming Data at the Edge</a>", <em>Information Fusion (Elsevier),</em> to appear, Vol. 80, pp. 282-294, 2022.
     </p>
   </li>
   <li>
     <p>
-      C. Zhang, L. Zhu, C. Xu, J. Ni, C. Huang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2022location.pdf">Location Privacy-Preserving Task Recommendation with Geometric Range Query in Mobile Crowdsensing</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 21, No. 12, pp. 4410-4425, 2022.
+      C. Zhang, L. Zhu, C. Xu, J. Ni, C. Huang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhang2022location.pdf">Location Privacy-Preserving Task Recommendation with Geometric Range Query in Mobile Crowdsensing</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 21, No. 12, pp. 4410-4425, 2022.
     </p>
   </li>
   <li>
     <p>
-      C. Li, L. Guan, H. Wu, N. Cheng, Z. Li, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2022dynamic.pdf">Dynamic Spectrum Control-Assisted Secure and Efficient Transmission Scheme in Heterogeneous Cellular Networks</a>", <em>Engineering (Elsevier),</em> Vol. 17, pp. 220-231, 2022.
+      C. Li, L. Guan, H. Wu, N. Cheng, Z. Li, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/li2022dynamic.pdf">Dynamic Spectrum Control-Assisted Secure and Efficient Transmission Scheme in Heterogeneous Cellular Networks</a>", <em>Engineering (Elsevier),</em> Vol. 17, pp. 220-231, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Zhang, C. Xu, N. Cheng, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2022secure.pdf">Secure Password-Protected Encryption Key for Deduplicated Cloud Storage Systems</a>", <em>IEEE Trans. on Dependable and Secure Computing,</em> Vol. 19, No. 4, pp. 2789-2806, 2022.
+      Y. Zhang, C. Xu, N. Cheng, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhang2022secure.pdf">Secure Password-Protected Encryption Key for Deduplicated Cloud Storage Systems</a>", <em>IEEE Trans. on Dependable and Secure Computing,</em> Vol. 19, No. 4, pp. 2789-2806, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Wang, J. Ren, Z. Wang, X. Pang, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wang2022privacy.pdf">Privacy-preserving Streaming Truth Discovery in Crowdsourcing with Differential Privacy</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 21, No. 10, pp. 3757-3772, 2022.
+      D. Wang, J. Ren, Z. Wang, X. Pang, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/wang2022privacy.pdf">Privacy-preserving Streaming Truth Discovery in Crowdsourcing with Differential Privacy</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 21, No. 10, pp. 3757-3772, 2022.
     </p>
   </li>
   <li>
     <p>
-      W. Ni, Y. Liu, Z. Yang, H. Tian, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ni2022integrating.pdf">Integrating Over-the-Air Federated Learning and Non-Orthogonal Multiple Access: What Role can RIS Play</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 12, pp. 10083-10099, 2022.
+      W. Ni, Y. Liu, Z. Yang, H. Tian, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ni2022integrating.pdf">Integrating Over-the-Air Federated Learning and Non-Orthogonal Multiple Access: What Role can RIS Play</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 12, pp. 10083-10099, 2022.
     </p>
   </li>
   <li>
     <p>
-      H. Ren, H. Li, D. Liu, G. Xu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ren2022enabling.pdf">Enabling Secure and Versatile Packet Inspection with Probable Cause Privacy for Outsourced Middlebox</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 3, pp. 1831-1847, 2022.
+      H. Ren, H. Li, D. Liu, G. Xu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ren2022enabling.pdf">Enabling Secure and Versatile Packet Inspection with Probable Cause Privacy for Outsourced Middlebox</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 3, pp. 1831-1847, 2022.
     </p>
   </li>
   <li>
     <p>
-      F. Tian, Z. Wu, X. Gui, J. Ni, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/tian2022finegrained.pdf">Fine-grained Query Authorization with Integrity Verification over Encrypted Spatial Data in Cloud Storage</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 4, pp. 2580-2594, 2022.
+      F. Tian, Z. Wu, X. Gui, J. Ni, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/tian2022finegrained.pdf">Fine-grained Query Authorization with Integrity Verification over Encrypted Spatial Data in Cloud Storage</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 4, pp. 2580-2594, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Ibrahem, M. Mahmoud, F. Alsolami, W. Alasmary, A. AL-Ghamdi, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ibrahem2022electricity.pdf">Electricity Theft Detection for Change-and-Transmit Advanced Metering Infrastructure</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 24, pp. 25565-25580, 2022.
+      M. Ibrahem, M. Mahmoud, F. Alsolami, W. Alasmary, A. AL-Ghamdi, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ibrahem2022electricity.pdf">Electricity Theft Detection for Change-and-Transmit Advanced Metering Infrastructure</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 24, pp. 25565-25580, 2022.
     </p>
   </li>
   <li>
     <p>
-      L. Xue, D. Liu, C. Huang, <strong>X. Shen</strong>, W. Zhuang, R. Sun, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xue2022blockchain.pdf">Blockchain-Based Data Sharing with Key Update for Future Networks</a>", <em>IEEE J. Selected Areas of Communications - Special Issue on Intelligent Blockchain for Future Communications and Networking: Technologies, Trends and Applications,</em> Vol. 40, No. 12, pp. 3437-3451, 2022.
+      L. Xue, D. Liu, C. Huang, <strong>X. Shen</strong>, W. Zhuang, R. Sun, and B. Ying, "<a href="https://m64he.github.io/paper_sshen/2022/xue2022blockchain.pdf">Blockchain-Based Data Sharing with Key Update for Future Networks</a>", <em>IEEE J. Selected Areas of Communications - Special Issue on Intelligent Blockchain for Future Communications and Networking: Technologies, Trends and Applications,</em> Vol. 40, No. 12, pp. 3437-3451, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Vaezi, K. Noroozi, T. Todd, D. Zhao, G. Karakostas, H. Wu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/vaezi2022digital.pdf">Digital Twins from a Networking Perspective</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 23, pp. 23525-23544, 2022.
+      M. Vaezi, K. Noroozi, T. Todd, D. Zhao, G. Karakostas, H. Wu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/vaezi2022digital.pdf">Digital Twins from a Networking Perspective</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 23, pp. 23525-23544, 2022.
     </p>
   </li>
   <li>
     <p>
-      H. Zhou, X. Kang, Y.C. Liang, S. Sun, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2022cooperative.pdf">Cooperative Beamforming for Reconfigurable Intelligent Surface-Assisted Symbiotic Radios</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 11, pp. 11677-11692, 2022.
+      H. Zhou, X. Kang, Y.C. Liang, S. Sun, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhou2022cooperative.pdf">Cooperative Beamforming for Reconfigurable Intelligent Surface-Assisted Symbiotic Radios</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 11, pp. 11677-11692, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Liu, C. Huang, L. Xue, J. Hou, <strong>X. Shen</strong>, W. Zhuang, R. Sun, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022authenticated.pdf">Authenticated and Prunable Dictionary for Blockchain-based VNF Management</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 11, pp. 9312-9324, 2022.
+      D. Liu, C. Huang, L. Xue, J. Hou, <strong>X. Shen</strong>, W. Zhuang, R. Sun, and B. Ying, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022authenticated.pdf">Authenticated and Prunable Dictionary for Blockchain-based VNF Management</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 11, pp. 9312-9324, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Bin-Yahya, O. Alhussein, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yahya2022securing.pdf">Securing Software-Defined WSNs Communication via Trust Management</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 22, pp. 22230-22245, 2022.
+      M. Bin-Yahya, O. Alhussein, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/yahya2022securing.pdf">Securing Software-Defined WSNs Communication via Trust Management</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 22, pp. 22230-22245, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Liu, C. Huang, J. Ni, X. Lin, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022blockchaincloud.pdf">Blockchain-Cloud Transparent Data Marketing: Consortium Management and Fairness</a>", <em>IEEE Trans. on Computers,</em> Vol. 71, No. 12, pp. 3322-3335, 2022.
+      D. Liu, C. Huang, J. Ni, X. Lin, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022blockchaincloud.pdf">Blockchain-Cloud Transparent Data Marketing: Consortium Management and Fairness</a>", <em>IEEE Trans. on Computers,</em> Vol. 71, No. 12, pp. 3322-3335, 2022.
     </p>
   </li>
   <li>
     <p>
-      H. Wu, H. Zhou, J. Zhao, Y. Xu, B. Qian, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wu2022deep.pdf">Deep Learning Enabled Fine-Grained Path Planning for Connected Vehicular Networks</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 10, pp. 10303-10315, 2022.
+      H. Wu, H. Zhou, J. Zhao, Y. Xu, B. Qian, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/wu2022deep.pdf">Deep Learning Enabled Fine-Grained Path Planning for Connected Vehicular Networks</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 10, pp. 10303-10315, 2022.
     </p>
   </li>
   <li>
     <p>
-      L. Chen, B. Hu, Z. Guan, L. Zhao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2022multi.pdf">Multi-Agent Meta-Reinforcement Learning for Adaptive Multi-path Routing Optimization</a>", <em>IEEE Trans. on Neural Networks and Learning Systems,</em> Vol. 33, No. 10, pp. 5374-5386, 2022.
+      L. Chen, B. Hu, Z. Guan, L. Zhao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/chen2022multi.pdf">Multi-Agent Meta-Reinforcement Learning for Adaptive Multi-path Routing Optimization</a>", <em>IEEE Trans. on Neural Networks and Learning Systems,</em> Vol. 33, No. 10, pp. 5374-5386, 2022.
     </p>
   </li>
   <li>
     <p>
-      X. Duan, Y. Zhou, D. Tian, J. Zhou, Z. Sheng, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/duan2022weighted.pdf">Weighted Energy Efficiency Maximization for a UAV-Assisted Multi-Platoon Mobile Edge Computing System</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 19, pp. 18208-18220, 2022.
+      X. Duan, Y. Zhou, D. Tian, J. Zhou, Z. Sheng, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/duan2022weighted.pdf">Weighted Energy Efficiency Maximization for a UAV-Assisted Multi-Platoon Mobile Edge Computing System</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 19, pp. 18208-18220, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Liu, H. Wu, C. Huang, J. Ni, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022blockchainsagvn.pdf">Blockchain-based Credential Management for Anonymous Authentication in SAGVN</a>", <em>IEEE J. Selected Areas of Communications - Special Issue on Antenna Array Enabled Space/Air/Ground Communications and Networking,</em> Vol. 40, No. 10, pp. 3104-3116, 2022.
+      D. Liu, H. Wu, C. Huang, J. Ni, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022blockchainsagvn.pdf">Blockchain-based Credential Management for Anonymous Authentication in SAGVN</a>", <em>IEEE J. Selected Areas of Communications - Special Issue on Antenna Array Enabled Space/Air/Ground Communications and Networking,</em> Vol. 40, No. 10, pp. 3104-3116, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Li, Y. Wu, M. Dai, B. Lin, W. Jia, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2022hybrid.pdf">Hybrid NOMA-FDMA Assisted Dual Computation Offloading: A Latency Minimization Approach</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 9, No. 5, pp. 3345-3360, 2022.
+      Y. Li, Y. Wu, M. Dai, B. Lin, W. Jia, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/li2022hybrid.pdf">Hybrid NOMA-FDMA Assisted Dual Computation Offloading: A Latency Minimization Approach</a>", <em>IEEE Trans. on Network Science and Engineering,</em> Vol. 9, No. 5, pp. 3345-3360, 2022.
     </p>
   </li>
   <li>
     <p>
-      R. Ding, J. Chen, W. Wu, J. Liu, F. Gao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ding2022packet.pdf">Packet Routing in Dynamic Multi-Hop UAV Relay Network: A Multi-Agent Learning Approach</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 9, pp. 10059-10072, 2022.
+      R. Ding, J. Chen, W. Wu, J. Liu, F. Gao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ding2022packet.pdf">Packet Routing in Dynamic Multi-Hop UAV Relay Network: A Multi-Agent Learning Approach</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 9, pp. 10059-10072, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Zhou, D.Tian, Z. Sheng, X Duan, G. Qu, D. Zhao, D. Cao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2022robust.pdf">Robust Min-Max Model Predictive Vehicle Platooning with Causal Disturbance Feedback</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 9, pp. 15878-15897, 2022.
+      J. Zhou, D.Tian, Z. Sheng, X Duan, G. Qu, D. Zhao, D. Cao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhou2022robust.pdf">Robust Min-Max Model Predictive Vehicle Platooning with Causal Disturbance Feedback</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 9, pp. 15878-15897, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Li, C. Chen, H. Wu, X. Guan, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2022edge.pdf">Edge-Assisted Spectrum Sharing for Freshness-Aware Industrial Wireless Networks: A Learning-Based Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 9, pp. 7737-7752, 2022.
+      M. Li, C. Chen, H. Wu, X. Guan, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/li2022edge.pdf">Edge-Assisted Spectrum Sharing for Freshness-Aware Industrial Wireless Networks: A Learning-Based Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 9, pp. 7737-7752, 2022.
     </p>
   </li>
   <li>
     <p>
-      S. Hashima, M. Fouda, S. Sakib, Z. Fadlullah, K. Hatano, E. Mohamed, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/hashima2022energy.pdf">Energy-Aware Hybrid RF-VLC Multi-Band Selection in D2D Communication: A Stochastic Multi-Armed Bandit Approach</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 18, pp. 18002-18014, 2022.
+      S. Hashima, M. Fouda, S. Sakib, Z. Fadlullah, K. Hatano, E. Mohamed, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/hashima2022energy.pdf">Energy-Aware Hybrid RF-VLC Multi-Band Selection in D2D Communication: A Stochastic Multi-Armed Bandit Approach</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 18, pp. 18002-18014, 2022.
     </p>
   </li>
   <li>
     <p>
-      C. Huang, L. Xue, D. Liu, <strong>X. Shen</strong>, W. Zhuang, R. Sun, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2022aa.pdf">Blockchain-assisted Transparent Cross-domain Authorization and Authentication for Smart City</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 18, pp. 17194-17209, 2022.
+      C. Huang, L. Xue, D. Liu, <strong>X. Shen</strong>, W. Zhuang, R. Sun, and B. Ying, "<a href="https://m64he.github.io/paper_sshen/2022/huang2022aa.pdf">Blockchain-assisted Transparent Cross-domain Authorization and Authentication for Smart City</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 18, pp. 17194-17209, 2022.
     </p>
   </li>
   <li>
     <p>
-      P. Shen, Y. Qi, W. Yu, F. Li, X. Wang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/shen2022directly.pdf">A Directly Connected OTA Measurement for Performance Evaluation of 5G Adaptive Beamforming Terminals</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 16, pp. 15362-15371, 2022.
+      P. Shen, Y. Qi, W. Yu, F. Li, X. Wang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/shen2022directly.pdf">A Directly Connected OTA Measurement for Performance Evaluation of 5G Adaptive Beamforming Terminals</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 16, pp. 15362-15371, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Huang, M. Wang, Y. Wu, Y. Chen, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2022distributed.pdf">Distributed Offloading in Overlapping Areas of Mobile Edge Computing for Internet of Things</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 15, pp. 13837-13847, 2022.
+      J. Huang, M. Wang, Y. Wu, Y. Chen, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/huang2022distributed.pdf">Distributed Offloading in Overlapping Areas of Mobile Edge Computing for Internet of Things</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 15, pp. 13837-13847, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Liu, D. Li, H. Wu, F. Lyu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022realtime.pdf">Real-Time Search-Driven Caching for Sensing Data in Vehicular Networks</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 14, pp. 12219-12230, 2022.
+      M. Liu, D. Li, H. Wu, F. Lyu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022realtime.pdf">Real-Time Search-Driven Caching for Sensing Data in Vehicular Networks</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 14, pp. 12219-12230, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Chen, H. Wu, F. Lyu, P. Yang, Q. Li, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/chen2022adaptive.pdf">Adaptive Resource Allocation for Diverse Safety Message Transmissions in Vehicular Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 8, pp. 13482-13497, 2022.
+      J. Chen, H. Wu, F. Lyu, P. Yang, Q. Li, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/chen2022adaptive.pdf">Adaptive Resource Allocation for Diverse Safety Message Transmissions in Vehicular Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 8, pp. 13482-13497, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Deng, F. Lyu, J. Ren, H. Wu, Y. Zhou, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/deng2022auction.pdf">AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning</a>", <em>IEEE Trans. on Parallel and Distributed Systems,</em> Vol. 33, No. 8, pp. 1996-2009, 2022.
+      Y. Deng, F. Lyu, J. Ren, H. Wu, Y. Zhou, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/deng2022auction.pdf">AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning</a>", <em>IEEE Trans. on Parallel and Distributed Systems,</em> Vol. 33, No. 8, pp. 1996-2009, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Wu, G. Ji, T. Wang, L. Qian, B. Lin, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wu2022non.pdf">Non-Orthogonal Multiple Access Assisted Secure Computation Offloading via Cooperative Jamming</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 7, pp. 7751-7768, 2022.
+      Y. Wu, G. Ji, T. Wang, L. Qian, B. Lin, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/wu2022non.pdf">Non-Orthogonal Multiple Access Assisted Secure Computation Offloading via Cooperative Jamming</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 7, pp. 7751-7768, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Zhou, D.Tian, Z. Sheng, X Duan, G. Qu, D. Cao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhou2022decentralized.pdf">Decentralized Robust Control for Vehicle Platooning Subject to Uncertain Disturbances via Super-Twisting Second-Order Sliding-Mode Observer Technique</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 7, pp. 7186-7201, 2022.
+      J. Zhou, D.Tian, Z. Sheng, X Duan, G. Qu, D. Cao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhou2022decentralized.pdf">Decentralized Robust Control for Vehicle Platooning Subject to Uncertain Disturbances via Super-Twisting Second-Order Sliding-Mode Observer Technique</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 7, pp. 7186-7201, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Liwang, R. Chen, X. Wang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liwang2022unifying.pdf">Unifying Futures and Spot Market: Overbooking-Enabled Resource Trading in Mobile Edge Networks</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 7, pp. 5467-5485, 2022.
+      M. Liwang, R. Chen, X. Wang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liwang2022unifying.pdf">Unifying Futures and Spot Market: Overbooking-Enabled Resource Trading in Mobile Edge Networks</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 7, pp. 5467-5485, 2022.
     </p>
   </li>
   <li>
     <p>
-      F. Lyu, P. Yang, H. Wu, C. Zhou, J. Ren, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lyu2022service.pdf">Service-Oriented Dynamic Resource Slicing and Optimization for Space-Air-Ground Integrated Vehicular Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 7, pp. 7469-7483, 2022.
+      F. Lyu, P. Yang, H. Wu, C. Zhou, J. Ren, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/lyu2022service.pdf">Service-Oriented Dynamic Resource Slicing and Optimization for Space-Air-Ground Integrated Vehicular Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 7, pp. 7469-7483, 2022.
     </p>
   </li>
   <li>
     <p>
-      H. Yang, S. Liang, X. Luo, D. Tang, H. Li, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yang2022pipc.pdf">PIPC: Privacy and Integrity-preserving Clustering Analysis for Load Profiling in Smart Grids</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 13, pp. 10851-10861, 2022.
+      H. Yang, S. Liang, X. Luo, D. Tang, H. Li, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/yang2022pipc.pdf">PIPC: Privacy and Integrity-preserving Clustering Analysis for Load Profiling in Smart Grids</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 13, pp. 10851-10861, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Xu, Z. Liu, C. Zhang, J. Ren, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xu2022blockchain.pdf">Blockchain-based Trustworthy Energy Dispatching Approach for High Renewable Energy Penetrated Power Systems</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 12, pp. 10036-10047, 2022.
+      Y. Xu, Z. Liu, C. Zhang, J. Ren, Y. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/xu2022blockchain.pdf">Blockchain-based Trustworthy Energy Dispatching Approach for High Renewable Energy Penetrated Power Systems</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 12, pp. 10036-10047, 2022.
     </p>
   </li>
   <li>
     <p>
-      W. Ni, Y. Liu, Z. Yang, H. Tian, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ni2022federated.pdf">Federated Learning in Multi-RIS Aided Systems</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 12, pp. 9608-9624, 2022.
+      W. Ni, Y. Liu, Z. Yang, H. Tian, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ni2022federated.pdf">Federated Learning in Multi-RIS Aided Systems</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 12, pp. 9608-9624, 2022.
     </p>
   </li>
   <li>
     <p>
-      M. Fouda, S. Hashima, S. Sakib, Z. Fadlullah, K. Hatano, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/fouda2022optimal.pdf">Optimal Channel Selection in Hybrid RF/VLC Networks: A Multi-Armed Bandit Approach</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 6, pp. 6853-6858, 2022.
+      M. Fouda, S. Hashima, S. Sakib, Z. Fadlullah, K. Hatano, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/fouda2022optimal.pdf">Optimal Channel Selection in Hybrid RF/VLC Networks: A Multi-Armed Bandit Approach</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 6, pp. 6853-6858, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Cao, S. Lien, Y.C. Liang, K.C. Chen, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/cao2022user.pdf">User Access Control in Open Radio Access Networks: A Federated Deep Reinforcement Learning Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 6, pp. 3721-3736, 2022.
+      Y. Cao, S. Lien, Y.C. Liang, K.C. Chen, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/cao2022user.pdf">User Access Control in Open Radio Access Networks: A Federated Deep Reinforcement Learning Approach</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 6, pp. 3721-3736, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Yu, X. Liu, Y. Gao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yu2003don.pdf">3D On and Off-Grid Dynamic Channel Tracking for Multiple UAVs and Satellite Communications</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 6, pp. 3587-3604, 2022.
+      J. Yu, X. Liu, Y. Gao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/yu2003don.pdf">3D On and Off-Grid Dynamic Channel Tracking for Multiple UAVs and Satellite Communications</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 6, pp. 3587-3604, 2022.
     </p>
   </li>
   <li>
     <p>
-      W. Shi, J. Li, P. Yang, Q. Ye, <strong>X. Shen</strong>, W. Zhuang, and X. Li, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/shi2022two.pdf">Two-level Soft RAN Slicing for Customized Services in 5G-and-beyond Wireless Communications"</a>", <em>IEEE Trans. on Industrial Informatics,</em> Vol. 18, No. 6, pp. 4169-4179, 2022.
+      W. Shi, J. Li, P. Yang, Q. Ye, <strong>X. Shen</strong>, W. Zhuang, and X. Li, "<a href="https://m64he.github.io/paper_sshen/2022/shi2022two.pdf">Two-level Soft RAN Slicing for Customized Services in 5G-and-beyond Wireless Communications"</a>", <em>IEEE Trans. on Industrial Informatics,</em> Vol. 18, No. 6, pp. 4169-4179, 2022.
     </p>
   </li>
   <li>
     <p>
-      K. Yu, H. Zhou, Z. Tang, <strong>X. Shen</strong>, and F. Hou, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yu2022deepr.pdf">Deep Reinforcement Learning-based RAN Slicing for UL/DL Decoupled Cellular V2X</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 5, pp. 3523-3535, 2022.
+      K. Yu, H. Zhou, Z. Tang, <strong>X. Shen</strong>, and F. Hou, "<a href="https://m64he.github.io/paper_sshen/2022/yu2022deepr.pdf">Deep Reinforcement Learning-based RAN Slicing for UL/DL Decoupled Cellular V2X</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 5, pp. 3523-3535, 2022.
     </p>
   </li>
   <li>
     <p>
-      S. Zhang, J. Li, H. Lou, J. Gao, L. Zhao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/zhang2022low.pdf">Low-Latency and Fresh Content Provision in Information-Centric Vehicular Networks</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 21, No. 5, pp. 1723-1738, 2022.
+      S. Zhang, J. Li, H. Lou, J. Gao, L. Zhao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/zhang2022low.pdf">Low-Latency and Fresh Content Provision in Information-Centric Vehicular Networks</a>", <em>IEEE Trans. on Mobile Computing,</em> Vol. 21, No. 5, pp. 1723-1738, 2022.
     </p>
   </li>
   <li>
     <p>
-      S. Feng, Z. Xiong, D. Niyato, P. Wang, S. Wang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/feng2022jointpricing.pdf">Joint Pricing and Security Investment in Cloud Security Service Market with User Interdependency</a>", <em>IEEE Transactions on Services Computing,</em> Vol. 15, No. 3, pp. 1461-1472, 2022.
+      S. Feng, Z. Xiong, D. Niyato, P. Wang, S. Wang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/feng2022jointpricing.pdf">Joint Pricing and Security Investment in Cloud Security Service Market with User Interdependency</a>", <em>IEEE Transactions on Services Computing,</em> Vol. 15, No. 3, pp. 1461-1472, 2022.
     </p>
   </li>
   <li>
     <p>
-      F. Song, Z. Qin, L. Xue, J. Zhang, X. Lin, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/song2022privacy.pdf">Privacy-Preserving Keyword Similarity Search over Encrypted Spatial Data in Cloud Computing</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 8, pp. 6184-6198, 2022.
+      F. Song, Z. Qin, L. Xue, J. Zhang, X. Lin, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/song2022privacy.pdf">Privacy-Preserving Keyword Similarity Search over Encrypted Spatial Data in Cloud Computing</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 8, pp. 6184-6198, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Li, W. Shi, H. Wu, S. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2022cost.pdf">Cost-Aware Dynamic SFC Mapping and Scheduling in SDN/NFV-Enabled Space-Air-Ground Integrated Networks for Internet of Vehicles</a>", <em>IEEE IoT Journal-SI on Space-Air-Ground Integrated Networks for Internet of Vehicles,</em> Vol. 9, No. 8, pp. 5824-5838, 2022.
+      J. Li, W. Shi, H. Wu, S. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/li2022cost.pdf">Cost-Aware Dynamic SFC Mapping and Scheduling in SDN/NFV-Enabled Space-Air-Ground Integrated Networks for Internet of Vehicles</a>", <em>IEEE IoT Journal-SI on Space-Air-Ground Integrated Networks for Internet of Vehicles,</em> Vol. 9, No. 8, pp. 5824-5838, 2022.
     </p>
   </li>
   <li>
     <p>
-      R. Ding, Y. Xu, F. Gao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ding2022trajectory.pdf">Trajectory Design and Access Control for Air-Ground Coordinated Communications System with Multi-Agent Deep Reinforcement Learning</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 8, pp. 5785-5798, 2022.
+      R. Ding, Y. Xu, F. Gao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ding2022trajectory.pdf">Trajectory Design and Access Control for Air-Ground Coordinated Communications System with Multi-Agent Deep Reinforcement Learning</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 8, pp. 5785-5798, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Liu, S. Zhang, X. Mu, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022evolution.pdf">Evolution of NOMA Toward Next Generation Multiple Access</a>", <em>IEEE J. Selected Areas of Communications - Special Series on Next Generation Multiple Access,</em> Vol. 40, No. 4, pp. 1037-1071, 2022.
+      Y. Liu, S. Zhang, X. Mu, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022evolution.pdf">Evolution of NOMA Toward Next Generation Multiple Access</a>", <em>IEEE J. Selected Areas of Communications - Special Series on Next Generation Multiple Access,</em> Vol. 40, No. 4, pp. 1037-1071, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Liu, S. Zhang, X. Mu, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022guest2.pdf">Guest Editorial - Part II</a>", <em>IEEE J. Selected Areas of Communications - Special Series on Next Generation Multiple Access,</em> Vol. 40, No. 5, pp. 1387-1391, 2022.
+      Y. Liu, S. Zhang, X. Mu, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022guest2.pdf">Guest Editorial - Part II</a>", <em>IEEE J. Selected Areas of Communications - Special Series on Next Generation Multiple Access,</em> Vol. 40, No. 5, pp. 1387-1391, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Liu, S. Zhang, X. Mu, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022sp.pdf">Guest Editorial - Part I</a>", <em>IEEE J. Selected Areas of Communications - Special Series on Next Generation Multiple Access,</em> Vol. 40, No. 4, pp. 1031-1036, 2022.
+      Y. Liu, S. Zhang, X. Mu, Z. Ding, R. Schober, N. Al-Dhahir, E. Hossain, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022sp.pdf">Guest Editorial - Part I</a>", <em>IEEE J. Selected Areas of Communications - Special Series on Next Generation Multiple Access,</em> Vol. 40, No. 4, pp. 1031-1036, 2022.
     </p>
   </li>
   <li>
     <p>
-      G. Xu, H. Li, H. Ren, X. Lin, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/xu2022dna.pdf">DNA Similarity Search with Access Control over Encrypted Cloud Data</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 2, pp. 1233-1252, 2022.
+      G. Xu, H. Li, H. Ren, X. Lin, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/xu2022dna.pdf">DNA Similarity Search with Access Control over Encrypted Cloud Data</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 2, pp. 1233-1252, 2022.
     </p>
   </li>
   <li>
     <p>
-      H. Ren, H. Li, D. Liu, G. Xu, N. Cheng, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ren2022middlebox.pdf">Privacy Preserving Efficient Verifiable Deep Packet Inspection for Cloud-assisted Middlebox</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 2, pp. 1052-1064, 2022.
+      H. Ren, H. Li, D. Liu, G. Xu, N. Cheng, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ren2022middlebox.pdf">Privacy Preserving Efficient Verifiable Deep Packet Inspection for Cloud-assisted Middlebox</a>", <em>IEEE Trans. on Cloud Computing,</em> Vol. 10, No. 2, pp. 1052-1064, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Han, W. Liao, H. Peng, H. Wu, W. Wu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/han2022joint.pdf">Joint Cache Placement and Cooperative Multicast Beamforming in Integrated Satellite-Terrestrial Networks</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 3, pp. 3131-3143, 2022.
+      D. Han, W. Liao, H. Peng, H. Wu, W. Wu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/han2022joint.pdf">Joint Cache Placement and Cooperative Multicast Beamforming in Integrated Satellite-Terrestrial Networks</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 3, pp. 3131-3143, 2022.
     </p>
   </li>
   <li>
     <p>
-      D. Liu, H. Wu, J. Ni, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/liu2022efficient.pdf">Efficient and anonymous authentication with succinct multi-subscription credential in SAGVN</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 3, pp.2863-2873, 2022.
+      D. Liu, H. Wu, J. Ni, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/liu2022efficient.pdf">Efficient and anonymous authentication with succinct multi-subscription credential in SAGVN</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 3, pp.2863-2873, 2022.
     </p>
   </li>
   <li>
     <p>
-      Z. Yin, M. Jia, N. Cheng, W. Wang, F. Lyu, Q. Guo, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yin2022uav.pdf">UAV-assisted Physical Layer Security in Multi-beam Satellite-enabled Vehicle Communications</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 3, pp. 2739-2751, 2022.
+      Z. Yin, M. Jia, N. Cheng, W. Wang, F. Lyu, Q. Guo, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/yin2022uav.pdf">UAV-assisted Physical Layer Security in Multi-beam Satellite-enabled Vehicle Communications</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 3, pp. 2739-2751, 2022.
     </p>
   </li>
   <li>
     <p>
-      Z. Ma, W. Wu, M. Jian, F. Gao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/ma2022joint.pdf">Joint Constellation Design and Multiuser Detection for Grant-Free NOMA</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 3, pp. 1973-1988, 2022.
+      Z. Ma, W. Wu, M. Jian, F. Gao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/ma2022joint.pdf">Joint Constellation Design and Multiuser Detection for Grant-Free NOMA</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 3, pp. 1973-1988, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Li, Y. Meng, L. Ma, S. Du, H. Zhu, Q. Pei, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/li2021federated.pdf">A Federated Learning based Privacy-preserving Smart Healthcare System</a>", <em>IEEE Trans. on Industrial Informatics,</em> Vol. 18, No. 3, pp. 2021-2031, 2022.
+      J. Li, Y. Meng, L. Ma, S. Du, H. Zhu, Q. Pei, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/li2021federated.pdf">A Federated Learning based Privacy-preserving Smart Healthcare System</a>", <em>IEEE Trans. on Industrial Informatics,</em> Vol. 18, No. 3, pp. 2021-2031, 2022.
     </p>
   </li>
   <li>
     <p>
-      Z. Yan, H. Kong, W. Wang, H. Liu, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yin2022reliability.pdf">Reliability Benefit of Location-based Relay Selection for Cognitive Relay Networks</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 3, pp. 2319-2329, 2022.
+      Z. Yan, H. Kong, W. Wang, H. Liu, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/yin2022reliability.pdf">Reliability Benefit of Location-based Relay Selection for Cognitive Relay Networks</a>", <em>IEEE IoT Journal,</em> Vol. 9, No. 3, pp. 2319-2329, 2022.
     </p>
   </li>
   <li>
     <p>
-      W. Wu, C. Zhou, M. Li, H. Wu, H. Zhou, N. Zhang, <strong>X. Shen</strong>, and W. Zhuang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wu2022ai.pdf">AI-Native Network Slicing for 6G Networks</a>", <em>IEEE Wireless Communications Magazine,</em> Vol. 29, No. 1, pp. 96-103, 2022.
+      W. Wu, C. Zhou, M. Li, H. Wu, H. Zhou, N. Zhang, <strong>X. Shen</strong>, and W. Zhuang, "<a href="https://m64he.github.io/paper_sshen/2022/wu2022ai.pdf">AI-Native Network Slicing for 6G Networks</a>", <em>IEEE Wireless Communications Magazine,</em> Vol. 29, No. 1, pp. 96-103, 2022.
     </p>
   </li>
   <li>
     <p>
-      J. Huang, B. Lv, Y. Wu, Y. Chen, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/huang2022dynamic.pdf">Dynamic Admission Control and Resource Allocation for Mobile Edge Computing Enabled Small Cell Network</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 2, pp. 1964-1973, 2022.
+      J. Huang, B. Lv, Y. Wu, Y. Chen, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/huang2022dynamic.pdf">Dynamic Admission Control and Resource Allocation for Mobile Edge Computing Enabled Small Cell Network</a>", <em>IEEE Trans. on Vehicular Technology,</em> Vol. 71, No. 2, pp. 1964-1973, 2022.
     </p>
   </li>
   <li>
     <p>
-      R. Jiao, L. Dai, W. Wang, F. Lyu, N. Cheng, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/jiao2022max.pdf">Max-Min Fairness for Beamspace MIMO-NOMA: From Single-Beam to Multi-Beam</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 2, pp. 739-752, 2022.
+      R. Jiao, L. Dai, W. Wang, F. Lyu, N. Cheng, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/jiao2022max.pdf">Max-Min Fairness for Beamspace MIMO-NOMA: From Single-Beam to Multi-Beam</a>", <em>IEEE Trans. on Wireless Communications,</em> Vol. 21, No. 2, pp. 739-752, 2022.
     </p>
   </li>
   <li>
     <p>
-      A. Yang, J. Weng, K. Yang, C. Huang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/yang2022delegating.pdf">Delegating Authentication to Edge: A Decentralized Authentication Architecture for Vehicular Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 2, pp. 1284-1298, 2022.
+      A. Yang, J. Weng, K. Yang, C. Huang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/yang2022delegating.pdf">Delegating Authentication to Edge: A Decentralized Authentication Architecture for Vehicular Networks</a>", <em>IEEE Trans. on Intelligent Transportation Systems,</em> Vol. 23, No. 2, pp. 1284-1298, 2022.
     </p>
   </li>
   <li>
     <p>
-      Y. Wang, Z. Su, J. Ni, N. Zhang, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/wang2022blockchain.pdf">Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 24, No. 1, pp. 160-209, 2022.
+      Y. Wang, Z. Su, J. Ni, N. Zhang, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/wang2022blockchain.pdf">Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 24, No. 1, pp. 160-209, 2022.
     </p>
   </li>
   <li>
     <p>
-      <strong>X. Shen</strong>, J. Gao, W. Wu, M. Li, C. Zhou, and W. Zhuang, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/shen2022holistic.pdf">Holistic Network Virtualization and Pervasive Network Intelligence for 6G</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 24, No. 1, pp. 1-30, 2022.
+      <strong>X. Shen</strong>, J. Gao, W. Wu, M. Li, C. Zhou, and W. Zhuang, "<a href="https://m64he.github.io/paper_sshen/2022/shen2022holistic.pdf">Holistic Network Virtualization and Pervasive Network Intelligence for 6G</a>", <em>IEEE Communications Surveys and Tutorials,</em> Vol. 24, No. 1, pp. 1-30, 2022.
     </p>
   </li>
   <li>
     <p>
-      W. Yang, B. Lim, Z. Xiong, J. Kang, D. Niyato, C. Leung, C. Miao, and <strong>X. Shen</strong>, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/lim2022federated.pdf">When Information Freshness Meets Service Latency in Federated Learning: A Task-Aware Incentive Scheme for Smart Industries</a>", <em>IEEE Trans. on Industrial Informatics,</em> Vol. 18, No. 1, pp. 457-466, 2022.
+      W. Yang, B. Lim, Z. Xiong, J. Kang, D. Niyato, C. Leung, C. Miao, and <strong>X. Shen</strong>, "<a href="https://m64he.github.io/paper_sshen/2022/lim2022federated.pdf">When Information Freshness Meets Service Latency in Federated Learning: A Task-Aware Incentive Scheme for Smart Industries</a>", <em>IEEE Trans. on Industrial Informatics,</em> Vol. 18, No. 1, pp. 457-466, 2022.
     </p>
   </li>
   <li>
     <p>
-      <strong>X. Shen</strong>, D. Liu, C. Huang, L. Xue, H. Yin, W. Zhuang, R. Sun, and B. Ying, "<a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/sshen/files/shen2022eng.pdf">Blockchain for Transparent Data Management towards 6G</a>", <em>Engineering (Elsevier),</em> Vol. 8, pp. 74-85, 2022.
+      <strong>X. Shen</strong>, D. Liu, C. Huang, L. Xue, H. Yin, W. Zhuang, R. Sun, and B. Ying, "<a href="https://m64he.github.io/paper_sshen/2022/shen2022eng.pdf">Blockchain for Transparent Data Management towards 6G</a>", <em>Engineering (Elsevier),</em> Vol. 8, pp. 74-85, 2022.
     </p>
   </li>
 </ol>
